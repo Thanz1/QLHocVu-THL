@@ -50,6 +50,10 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Login.cs",
@@ -59,8 +63,7 @@
               "RelativeToolTip": "QLHocVu-THL\\Login.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAhwB8AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T12:57:45.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T12:57:45.178Z"
             },
             {
               "$type": "Document",
@@ -71,8 +74,7 @@
               "ToolTip": "E:\\code\\QLHocVu-THL\\QLHocVu-THL\\Login.cs [Design]",
               "RelativeToolTip": "QLHocVu-THL\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T12:53:41.408Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-02T12:53:41.408Z"
             },
             {
               "$type": "Document",
@@ -83,8 +85,7 @@
               "ToolTip": "E:\\code\\QLHocVu-THL\\QLHocVu-THL\\THL.cs [Design]",
               "RelativeToolTip": "QLHocVu-THL\\THL.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T12:49:19.659Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-02T12:49:19.659Z"
             }
           ]
         }
