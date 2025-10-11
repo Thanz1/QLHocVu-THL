@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\QLHocVu-THL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C0F9F4-A024-4A29-A65F-A66447765D96}|QLHocVu-THL\\QLHocVu-THL.csproj|e:\\code\\qlhocvu-thl\\qlhocvu-thl\\thl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C0F9F4-A024-4A29-A65F-A66447765D96}|QLHocVu-THL\\QLHocVu-THL.csproj|solutionrelative:qlhocvu-thl\\thl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C0F9F4-A024-4A29-A65F-A66447765D96}|QLHocVu-THL\\QLHocVu-THL.csproj|E:\\code\\QLHocVu-THL\\qlhocvu-thl\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C0F9F4-A024-4A29-A65F-A66447765D96}|QLHocVu-THL\\QLHocVu-THL.csproj|solutionrelative:qlhocvu-thl\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C0F9F4-A024-4A29-A65F-A66447765D96}|QLHocVu-THL\\QLHocVu-THL.csproj|E:\\code\\QLHocVu-THL\\qlhocvu-thl\\thl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9C0F9F4-A024-4A29-A65F-A66447765D96}|QLHocVu-THL\\QLHocVu-THL.csproj|solutionrelative:qlhocvu-thl\\thl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C0F9F4-A024-4A29-A65F-A66447765D96}|QLHocVu-THL\\QLHocVu-THL.csproj|E:\\code\\QLHocVu-THL\\qlhocvu-thl\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9C0F9F4-A024-4A29-A65F-A66447765D96}|QLHocVu-THL\\QLHocVu-THL.csproj|solutionrelative:qlhocvu-thl\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "THL.cs",
+              "DocumentMoniker": "E:\\code\\QLHocVu-THL\\QLHocVu-THL\\THL.cs",
+              "RelativeDocumentMoniker": "QLHocVu-THL\\THL.cs",
+              "ToolTip": "E:\\code\\QLHocVu-THL\\QLHocVu-THL\\THL.cs",
+              "RelativeToolTip": "QLHocVu-THL\\THL.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAIwHMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:09:20.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\code\\QLHocVu-THL\\QLHocVu-THL\\Login.cs",
+              "RelativeDocumentMoniker": "QLHocVu-THL\\Login.cs",
+              "ToolTip": "E:\\code\\QLHocVu-THL\\QLHocVu-THL\\Login.cs",
+              "RelativeToolTip": "QLHocVu-THL\\Login.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAhwB8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T12:57:45.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\code\\QLHocVu-THL\\QLHocVu-THL\\Login.cs",
+              "RelativeDocumentMoniker": "QLHocVu-THL\\Login.cs",
+              "ToolTip": "E:\\code\\QLHocVu-THL\\QLHocVu-THL\\Login.cs [Design]",
+              "RelativeToolTip": "QLHocVu-THL\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T12:53:41.408Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "THL.cs [Design]",
+              "DocumentMoniker": "E:\\code\\QLHocVu-THL\\QLHocVu-THL\\THL.cs",
+              "RelativeDocumentMoniker": "QLHocVu-THL\\THL.cs",
+              "ToolTip": "E:\\code\\QLHocVu-THL\\QLHocVu-THL\\THL.cs [Design]",
+              "RelativeToolTip": "QLHocVu-THL\\THL.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T12:49:19.659Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
