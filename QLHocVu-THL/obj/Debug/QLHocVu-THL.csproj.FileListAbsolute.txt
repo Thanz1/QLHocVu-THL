@@ -1,0 +1,11 @@
+C:\Users\HUAN-PC\Source\Repos\QLHocVu-THL\QLHocVu-THL\bin\Debug\QLHocVu-THL.exe.config
+C:\Users\HUAN-PC\Source\Repos\QLHocVu-THL\QLHocVu-THL\bin\Debug\QLHocVu-THL.exe
+C:\Users\HUAN-PC\Source\Repos\QLHocVu-THL\QLHocVu-THL\bin\Debug\QLHocVu-THL.pdb
+C:\Users\HUAN-PC\Source\Repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu-THL.csproj.AssemblyReference.cache
+C:\Users\HUAN-PC\Source\Repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu_THL.Login.resources
+C:\Users\HUAN-PC\Source\Repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu_THL.Properties.Resources.resources
+C:\Users\HUAN-PC\Source\Repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu_THL.THL.resources
+C:\Users\HUAN-PC\Source\Repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu-THL.csproj.GenerateResource.cache
+C:\Users\HUAN-PC\Source\Repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu-THL.csproj.CoreCompileInputs.cache
+C:\Users\HUAN-PC\Source\Repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu-THL.exe
+C:\Users\HUAN-PC\Source\Repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu-THL.pdb
