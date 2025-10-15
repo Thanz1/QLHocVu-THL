@@ -1,0 +1,912 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>T&#236;m kiếm - Đại học Thủ Dầu Một</title>
+    <link rel="icon" type="image/png" href="/img/Icon.png">
+    <meta name="keywords" content="dai hoc thu dau mot, đại học thủ dầu một, Thu Dau Mot University, truong dai hoc, trường đại học, dai hoc, đại học" />
+    
+    <link rel="canonical" href="https://tdmu.edu.vn/tim-kiem" />
+    <meta property="facebook:title" content="T&#236;m kiếm - Đại học Thủ Dầu Một" />
+    <meta property="facebook:url" content="https://tdmu.edu.vn/tim-kiem" />
+
+        <meta property="facebook:image" content="https://tdmu.edu.vn/img/brand/Logo_tdmu_2024_seo_v2.png" />
+        <meta property="og:image" content="https://tdmu.edu.vn/img/brand/Logo_tdmu_2024_seo_v2.png" />
+        <meta property="og:image:secure_url" content="https://tdmu.edu.vn/img/brand/Logo_tdmu_2024_seo_v2.png" />
+        <meta property="og:image:secure_url" content="https://tdmu.edu.vn/img/brand/Logo_tdmu_2024_seo_v2.png" />
+    <meta property="og:title" content="T&#236;m kiếm - Đại học Thủ Dầu Một" />
+    <meta property="og:url" content="https://tdmu.edu.vn/tim-kiem" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:type" content="Education" />
+
+    
+    <link href="/Content/css2025?v=qBsWERa05PUtsB3Ew73dZ0o5tDyVFtH_tr_YEVwaNCU1" rel="stylesheet"/>
+
+    <script src="/Scripts/js2025?v=xCIjhy_6ZpFg0CodOqXHsvsgvxOLIfWLsKJCC1PBsZI1"></script>
+
+</head>
+<body id="home">
+    
+    
+<header style="position: relative; z-index: 20;">
+    <nav id="nav-top" class="navbar navbar-expand-lg navbar-dark bg-dark bg-tdmu fixed-top">
+        <div class="container">
+            
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                </ul>
+
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/giang-vien">Giảng viên</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="/sinh-vien">Sinh viên</a>
+                    </li>
+
+                    
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="/lich-cong-tac">Lịch công tác</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="/tt36">Công khai TT36</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Home2020/TruyenThong">Truyền thông</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/lien-he">Liên hệ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://eng.tdmu.edu.vn/">English</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a title="Facebook TDMU" style="padding-top: 8px; padding-bottom: 5px;" class="nav-link" href="https://www.facebook.com/dhtdm2009" target="_blank">
+                            
+                            <i class="fa-brands fa-square-facebook text-white fa-xl"></i>
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a title="Youtube TDMU" style="padding-top: 8px; padding-bottom: 5px;" class="nav-link" href="https://www.youtube.com/channel/UCBtKDWV4vp7QPl8474svFWw" target="_blank">
+                            
+                            <i class="fa-brands fa-youtube text-white fa-xl"></i>
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+<form action="/tim-kiem" enctype="multipart/form-data" id="formSearch" method="post" role="search"><input name="__RequestVerificationToken" type="hidden" value="SdEzIXA9xpWMxQfeg0mL8F_m40GgGpP2L09bCr__oEKhLK3yXaQO1lcSAC3yNb6LOjqub_mIZN1dqgnE9PUHaO38Wlz6Z1QY7l6cHt68dSY1" />                            <form action="" class="nav-link" id="formSearch">
+                                <a class="nav-link" href="/tim-kiem" title="Tìm kiếm TDMU">
+                                    <input type="search" class="inputSearch" placeholder="Tìm trên TDMU" id="txtSearchHomeMobile" name="txtSearchHome">
+                                    <i class="fa fa-search" id="faSearch"></i>
+                                </a>
+                            </form>
+</form>                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <nav id="navbar-two" class="navbar navbar-expand-lg navbar-dark fixed-top bg-2-default" style="top: 2.3em; padding: 0;">
+        <div class="container">
+            <a class="navbar-brand" href="/">
+                <img id="changeLogo" src="/img/brand/Logo_TDMU_2024_nguyen_ban.svg" class="img-fluid" style="height: 2.9em;" />
+            </a>
+            
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mx-auto mt-2 mt-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/gioi-thieu">Giới thiệu</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/#tinTuc">Tin tức</a>
+                    </li>
+                    
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Tuyển sinh
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="https://tuyensinh.tdmu.edu.vn/">Tuyển sinh Đại học</a>
+                            <a class="dropdown-item" href="https://bdsdh.tdmu.edu.vn/">Tuyển sinh Sau Đại học</a>
+                            <a class="dropdown-item" href="https://vncxh.tdmu.edu.vn/">Đào tạo theo nhu cầu Xã hội</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/#KHCN">KHCN</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/#daoTao">Đào tạo</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/#hopTac">Hợp tác</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/#kiemDinh">Kiểm định</a>
+                    </li>
+                    
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://ttdvk.tdmu.edu.vn/#viecLamMoi">Tuyển dụng</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/#thongBao">Thông báo</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <nav id="nav-mobile" class="navbar navbar-expand-lg navbar-dark bg-dark bg-tdmu fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="/Home2020/">
+                <img src="/img/brand/Logo_TDMU_2024_nguyen_ban_Trang.svg" class="img-fluid" style="height: 2em;" />
+            </a>
+            
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavMobile" aria-controls="navbarNavMobile" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavMobile">
+                <hr style="border-top: 1px solid rgba(255, 255, 255, 0.99);" />
+                <ul class="navbar-nav" style="display: block;">
+                    <table class="table table-bordered" id="tableMenu" style="color:unset !important">
+                        <tr>
+                            <td>
+                                <a href="/gioi-thieu">Giới thiệu</a>
+                            </td>
+                            <td>
+                                <a href="/#tinTuc">Tin tức</a>
+                            </td>
+                            <td>
+                                <a href="/#suKien">Sự kiện</a>
+                            </td>
+                            
+                            <td>
+                                <a href="https://tuyensinh.tdmu.edu.vn/">Tuyển sinh</a>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                <a href="/#KHCN">KHCN</a>
+                            </td>
+                            <td>
+                                <a href="/#daoTao">Đào tạo</a>
+                            </td>
+                            <td>
+                                <a href="/#hopTac">Hợp tác</a>
+                            </td>
+                            <td>
+                                <a href="/#kiemDinh">Kiểm định</a>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                <a href="https://cece.tdmu.edu.vn/#viecLamMoi">Tuyển dụng</a>
+                            </td>
+                            <td>
+                                <a href="/#thongBao">Thông báo</a>
+                            </td>
+                            <td>
+                                <a href="/giang-vien">Giảng viên</a>
+                            </td>
+                            <td>
+                                <a href="/sinh-vien">Sinh viên</a>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                <a href="/lich-cong-tac">Lịch công tác</a>
+                            </td>
+                            <td>
+                                <a href="/tt36">Công khai TT36</a>
+                            </td>
+                            <td>
+                                <a href="/Home2020/TruyenThong">Truyền thông</a>
+                            </td>
+                            <td>
+                                <a href="/lien-he">Liên hệ</a>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                <a href="https://eng.tdmu.edu.vn/">English</a>
+                            </td>
+                            <td>
+                                <a href="/tim-kiem">Tìm kiếm</a>
+                            </td>
+
+                            <td>
+                                <a title="Facebook TDMU" href="https://www.facebook.com/dhtdm2009" target="_blank">
+                                    Facebook TDMU
+                                </a>
+                            </td>
+
+                            <td>
+                                <a title="Youtube TDMU" href="https://www.youtube.com/channel/UCBtKDWV4vp7QPl8474svFWw" target="_blank">
+                                    Youtube TDMU
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+    <div id="renderBody">
+        
+<style>
+    .list-group-item {
+        cursor: pointer;
+    }
+
+    .list-group a:hover {
+        background-color: white;
+        color: black;
+    }
+
+    h4 {
+        margin-top: 10px;
+        margin-bottom: 0;
+    }
+
+    h5 {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .search-group {
+        text-transform: uppercase;
+    }
+
+    .search-item {
+        border-left: none;
+        border-right: none;
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+        .search-item:first-child {
+            border-top: none;
+            padding-top: 0;
+        }
+
+        .search-item:last-child {
+            border-bottom: none;
+            padding-bottom: 0;
+        }
+</style>
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<div class="trangbaidang">
+    <div class="container" style="min-height:500px;">
+        <div class="row" style="margin-bottom:25px;">
+            <div class="col-md-12">
+                <h1 class="chuchica">TÌM KIẾM</h1>
+            </div>
+            <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
+                <input type="text" id="txtSearch" class="form-control" name="txtSearch" autofocus placeholder="Nhập từ khóa" onfocus="this.value = this.value;" />
+            </div>
+            <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
+                <input type="button" onclick="goBack()" id="btncancel" class="btn btn-danger btn-block" value="Hủy" />
+            </div>
+        </div>
+        <div class="search-loader" style="display:none;">
+            <center>
+                <img class="loading-image" src="/hinhanh/ajax-loader.gif" alt="loading..">
+            </center>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                <div id="groupresultcontent">
+                </div>
+            </div>
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+                <h3></h3>
+                <div id="resultcontent">
+                </div>
+                <div class="search-subloader" style="display:none;">
+                    <center>
+                        <img class="loading-image" src="/hinhanh/ajax-loader.gif" alt="đang tải...">
+                    </center>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $("#formSearch").hide();
+    })
+
+    $('#navbar-two').addClass("bg-2-listpage");
+    $('#navbar-two .navbar-nav .nav-link').addClass("color-tag-a-menu");
+    //setTimeout(function () {
+    //    $('#changeLogo').attr('src', '/img/brand/Logo_TDMU_2024_nguyen_ban.png');
+    //}, 500);
+
+    function goBack() {
+        window.history.back();
+    }
+</script>
+    </div>
+
+    <div id="searchContent" style="display:none;">
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <div class="trangbaidang">
+            <div class="container" style="min-height:500px;">
+                <div class="row" style="margin-bottom:25px;">
+                    <div class="col-md-12">
+                        <h1 class="chuchica">TÌM KIẾM</h1>
+                    </div>
+                    <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
+                        <input type="text" id="txtSearch" class="form-control" name="txtSearch" autofocus placeholder="Nhập từ khóa" onfocus="this.value = this.value;" />
+                    </div>
+                    <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
+                        <input type="button" id="btncancel" class="btn btn-danger btn-block" value="Hủy" />
+                    </div>
+                </div>
+                <div class="search-loader" style="display:none;">
+                    <center>
+                        <img class="loading-image" src="/hinhanh/ajax-loader.gif" alt="loading..">
+                    </center>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                        <div id="groupresultcontent">
+                        </div>
+                    </div>
+                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+                        <h3></h3>
+                        <div id="resultcontent">
+                        </div>
+                        <div class="search-subloader" style="display:none;">
+                            <center>
+                                <img class="loading-image" src="/hinhanh/ajax-loader.gif" alt="đang tải...">
+                            </center>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+<footer class="bg-tdmu">
+    <div class="container">
+        <div class="row justify-content-center pt-3 pb-3">
+            <div class="col-md-4">
+                <div class="text-white" style="font-size: .8rem;">
+                    <div class="pb-2">
+                        <a href="#" class="pb-2">
+                            <img src="/img/brand/Logo_TDMU_2024_nguyen_ban_Trang.svg" class="img-fluid" style="height: 50px" />
+                        </a>
+                    </div>
+                    <span style="line-height: 2;">
+                        
+                        <address>
+                            
+                            Số 06, Trần Văn Ơn, Phường Ph&#250; Lợi, TP Hồ Ch&#237; Minh<br>
+                             0274-383-4512 | 0274-382-2518 | 0274-384-4226<br />
+                            <a style="color: #fff;" href="https://tdmu.edu.vn">https://tdmu.edu.vn</a><br />
+                            Đang truy cập: 851 <br />
+                            © 2020 Trường Đại học Thủ Dầu Một<br />
+                            
+                        </address>
+                    </span>
+                    <div class="pt-2">
+                        <a href="https://www.facebook.com/dhtdm2009" target="_blank">
+                            
+                            <i class="fa-brands fa-square-facebook fa-xl text-white"></i>
+                        </a> &nbsp;&nbsp;
+                        <a href="https://www.youtube.com/channel/UCBtKDWV4vp7QPl8474svFWw" target="_blank">
+                            
+                            <i class="fa-brands fa-youtube fa-xl text-white"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <a href="https://tdmu.edu.vn/gioi-thieu/ban-chap-hanh-dang-bo" style="color: #fff;" class="chudauhoa"><h5 class="text-white font-weight-bold pb-2">BAN CHẤP HÀNH ĐẢNG BỘ</h5></a>
+                <a href="https://tdmu.edu.vn/gioi-thieu/hoi-dong-truong" style="color: #fff;" class="chudauhoa"><h5 class="text-white font-weight-bold pb-2">HỘI ĐỒNG TRƯỜNG</h5></a>
+                <a href="https://tdmu.edu.vn/gioi-thieu/ban-giam-hieu" style="color: #fff;" class="chudauhoa"><h5 class="text-white font-weight-bold pb-2">BAN GIÁM HIỆU</h5></a>
+                <h5 class="text-white font-weight-bold pb-2">ĐƠN VỊ THUỘC - TRỰC THUỘC</h5>
+                <div class="text-white" style="font-size: .8rem;">
+                    
+                    
+<style>
+        .modalfooter {
+            color: #000
+        }
+
+    .modal-open {
+        overflow: initial;
+        padding-right: 0px !important;
+    }
+    </style>
+
+    <div style="line-height: 1.2;">
+        <a class="zindexfooter" style="color: #fff;" role="button" data-toggle="modal" data-target="#myModal_1">
+            Khối Đ&#224;o tạo
+        </a>
+    </div>
+    <br />
+    <!-- Modal -->
+    <!--<div class="modal fade" id="myModal_stt" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" style="z-index:9000">
+        <div class="modal-dialog" role="document" style="overflow-y: overlay; max-height:90%;">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 class="modal-title text-center modalfooter" id="exampleModalLabel">Chọn Đơn Vị</h3>
+                </div>
+                <div class="modal-body text-center" style="padding-bottom: 0px; padding-top: 6px;">
+                    Html.Action("_FooterModalDonViTrucThuoc", "Home2018", new { iddddd = item.IDloaidv })
+                </div>
+                <div class="modal-footer text-center" style="border-top-width: 0px;">
+                    <button type="button" class="btn btn-default btn-link" aria-label="Close" data-dismiss="modal">Đóng</button>
+                </div>
+            </div>
+        </div>
+    </div>-->
+    <!-- Modal -->
+    <div class="modal fade" id="myModal_1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" style="z-index:9000">
+        <div class="modal-dialog" style="overflow-y: overlay; max-height:90%;">
+            <div class="modal-content">
+                <div class="modal-header text-center">
+                    <h5 class="modal-title w-100 text-dark" id="exampleModalLabel">Chọn Đơn Vị</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body text-center">
+                    <style>
+    .ahover:hover {
+        background-color: transparent !important
+    }
+
+    footer hr {
+        border-top: 1px solid #e5e5e5
+    }
+</style>
+<div class="list-group" style="margin-bottom: 0px; display: block">
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Trường Kinh tế T&#224;i ch&#237;nh','2025-01-21-10-37-02-truong-kinh-te-tai-chinh-32-don-vi-tdmu3-2-1-jpg.jpg','https://tkttc.tdmu.edu.vn')"  class="list-group-item ahover" >Trường Kinh tế T&#224;i ch&#237;nh</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Trường Luật v&#224; quản l&#253;','2025-09-30-10-03-34-truong-luat-va-quan-ly-png.png','https://tluql.tdmu.edu.vn')"  class="list-group-item ahover" >Trường Luật v&#224; quản l&#253;</a> <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Khoa Ngoại ngữ','2025-01-21-10-37-47-vien-dao-tao-ngoai-ngu-32-donvi-tdmu-1-jpg.jpg','/don-vi-truc-thuoc/%20')"  class="list-group-item ahover">Khoa Ngoại ngữ</a><hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Khoa C&#244;ng nghiệp văn h&#243;a','2025-02-17-11-24-51-khoa-cn-van-hoa-the-thao-va-du-lich-1-jpg.jpg','https://kcnvh.tdmu.edu.vn')"  class="list-group-item ahover" >Khoa C&#244;ng nghiệp văn h&#243;a</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Khoa Sư Phạm','2025-04-10-08-12-28-khoa-su-pham-32-donvi-tdmu-2-1-jpg.jpg','https://ksuph.tdmu.edu.vn')"  class="list-group-item ahover" >Khoa Sư Phạm</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Khoa Kiến tr&#250;c - X&#226;y dựng','2025-01-21-14-32-39-vien-dtktxdgt-32-don-vi-tdmu-1-jpg.jpg','https://vkxgt.tdmu.edu.vn')"  class="list-group-item ahover" >Khoa Kiến tr&#250;c - X&#226;y dựng</a> <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Viện C&#244;ng nghệ số','','/don-vi-truc-thuoc/vien-cong-nghe-so')"  class="list-group-item ahover">Viện C&#244;ng nghệ số</a><hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Viện Kỹ thuật c&#244;ng nghệ','2025-02-19-16-47-55-vien-ky-thuat-cong-nghe-32-donvi-tdmu-1-jpg.jpg','https://vktcn.tdmu.edu.vn')"  class="list-group-item ahover" >Viện Kỹ thuật c&#244;ng nghệ</a> <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Viện C&#244;ng nghệ xanh v&#224; bền vững','','/don-vi-truc-thuoc/vien-cong-nghe-xanh-va-ben-vung')"  class="list-group-item ahover">Viện C&#244;ng nghệ xanh v&#224; bền vững</a><hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Viện Đ&#224;o tạo Y Dược','','https://kduoc.tdmu.edu.vn')"  class="list-group-item ahover" >Viện Đ&#224;o tạo Y Dược</a>
+</div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Đóng</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="line-height: 1.2;">
+        <a class="zindexfooter" style="color: #fff;" role="button" data-toggle="modal" data-target="#myModal_2">
+            Khối Quản l&#253;, Phục vụ
+        </a>
+    </div>
+    <br />
+    <!-- Modal -->
+    <!--<div class="modal fade" id="myModal_stt" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" style="z-index:9000">
+        <div class="modal-dialog" role="document" style="overflow-y: overlay; max-height:90%;">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 class="modal-title text-center modalfooter" id="exampleModalLabel">Chọn Đơn Vị</h3>
+                </div>
+                <div class="modal-body text-center" style="padding-bottom: 0px; padding-top: 6px;">
+                    Html.Action("_FooterModalDonViTrucThuoc", "Home2018", new { iddddd = item.IDloaidv })
+                </div>
+                <div class="modal-footer text-center" style="border-top-width: 0px;">
+                    <button type="button" class="btn btn-default btn-link" aria-label="Close" data-dismiss="modal">Đóng</button>
+                </div>
+            </div>
+        </div>
+    </div>-->
+    <!-- Modal -->
+    <div class="modal fade" id="myModal_2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" style="z-index:9000">
+        <div class="modal-dialog" style="overflow-y: overlay; max-height:90%;">
+            <div class="modal-content">
+                <div class="modal-header text-center">
+                    <h5 class="modal-title w-100 text-dark" id="exampleModalLabel">Chọn Đơn Vị</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body text-center">
+                    <style>
+    .ahover:hover {
+        background-color: transparent !important
+    }
+
+    footer hr {
+        border-top: 1px solid #e5e5e5
+    }
+</style>
+<div class="list-group" style="margin-bottom: 0px; display: block">
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Văn Ph&#242;ng','2025-02-27-16-27-20-van-phong-32-donvi-tdmu-26-02-2025-1-jpg.jpg','/don-vi-truc-thuoc/van-phong')"  class="list-group-item ahover">Văn Ph&#242;ng</a><hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Ban Hỗ trợ người học','2025-09-30-09-56-13-ban-ho-tro-nguoi-hoc-png.png','https://cshtnh.tdmu.edu.vn')"  class="list-group-item ahover" >Ban Hỗ trợ người học</a> <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Ban Cơ sở vật chất','','/don-vi-truc-thuoc/ban-co-so-vat-chat')"  class="list-group-item ahover">Ban Cơ sở vật chất</a><hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Ban Kiểm so&#225;t nội bộ','2025-09-30-10-01-55-ban-kiem-soat-noi-bo-png.png','/don-vi-truc-thuoc/ban-kiem-soat-noi-bo')"  class="list-group-item ahover">Ban Kiểm so&#225;t nội bộ</a><hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Ban Đảm bảo chất lượng','2025-09-30-10-10-36-ban-dam-bao-chat-luong-1-png.png','https://bdbcl.tdmu.edu.vn')"  class="list-group-item ahover" >Ban Đảm bảo chất lượng</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Ban Khoa học c&#244;ng nghệ v&#224; hợp t&#225;c quốc tế','2025-02-17-11-24-10-ban-khoa-hoc-va-hop-tac-quoc-te-32-don-vi-tdmu-1-jpg.jpg','https://khcn.tdmu.edu.vn/')"  class="list-group-item ahover" >Ban Khoa học c&#244;ng nghệ v&#224; hợp t&#225;c quốc tế</a> <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Ban T&#224;i ch&#237;nh','','/don-vi-truc-thuoc/ban-tai-chinh')"  class="list-group-item ahover">Ban T&#224;i ch&#237;nh</a><hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Ban Tuyển sinh v&#224; Truyền th&#244;ng','2025-03-13-15-24-33-ban-tuyen-sinh-va-truyen-thong-32-don-vi-tdmu3-2-1-jpg.jpg','https://tuyensinh.tdmu.edu.vn')"  class="list-group-item ahover" >Ban Tuyển sinh v&#224; Truyền th&#244;ng</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Ban Thư viện v&#224; Học liệu','2025-02-17-11-24-22-ban-thu-vien-va-hoc-lieu-32-don-vi-tdmu3-2-1-jpg.jpg','https://btvhl.tdmu.edu.vn')"  class="list-group-item ahover" >Ban Thư viện v&#224; Học liệu</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Ban Tổ chức - Nh&#226;n sự','','https://btcns.tdmu.edu.vn')"  class="list-group-item ahover" >Ban Tổ chức - Nh&#226;n sự</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Ban Quản l&#253; đ&#224;o tạo','2025-02-17-11-27-48-ban-quan-ly-dt-dh-lam-trang-web-truong-tdmu-32-donvi-tdmu-1-jpg.jpg','https://bdtdh.tdmu.edu.vn')"  class="list-group-item ahover" >Ban Quản l&#253; đ&#224;o tạo</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Cơ sở Bến C&#225;t','','https://cosbc.tdmu.edu.vn')"  class="list-group-item ahover" >Cơ sở Bến C&#225;t</a> <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Trung t&#226;m Hợp t&#225;c doanh nghiệp v&#224; khởi nghiệp','','https://ttdvk.tdmu.edu.vn')"  class="list-group-item ahover" >Trung t&#226;m Hợp t&#225;c doanh nghiệp v&#224; khởi nghiệp</a>
+</div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Đóng</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="line-height: 1.2;">
+        <a class="zindexfooter" style="color: #fff;" role="button" data-toggle="modal" data-target="#myModal_3">
+            Khối Nghi&#234;n cứu, Dịch vụ, Chuyển giao C&#244;ng nghệ
+        </a>
+    </div>
+    <br />
+    <!-- Modal -->
+    <!--<div class="modal fade" id="myModal_stt" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" style="z-index:9000">
+        <div class="modal-dialog" role="document" style="overflow-y: overlay; max-height:90%;">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 class="modal-title text-center modalfooter" id="exampleModalLabel">Chọn Đơn Vị</h3>
+                </div>
+                <div class="modal-body text-center" style="padding-bottom: 0px; padding-top: 6px;">
+                    Html.Action("_FooterModalDonViTrucThuoc", "Home2018", new { iddddd = item.IDloaidv })
+                </div>
+                <div class="modal-footer text-center" style="border-top-width: 0px;">
+                    <button type="button" class="btn btn-default btn-link" aria-label="Close" data-dismiss="modal">Đóng</button>
+                </div>
+            </div>
+        </div>
+    </div>-->
+    <!-- Modal -->
+    <div class="modal fade" id="myModal_3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" style="z-index:9000">
+        <div class="modal-dialog" style="overflow-y: overlay; max-height:90%;">
+            <div class="modal-content">
+                <div class="modal-header text-center">
+                    <h5 class="modal-title w-100 text-dark" id="exampleModalLabel">Chọn Đơn Vị</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body text-center">
+                    <style>
+    .ahover:hover {
+        background-color: transparent !important
+    }
+
+    footer hr {
+        border-top: 1px solid #e5e5e5
+    }
+</style>
+<div class="list-group" style="margin-bottom: 0px; display: block">
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Trung t&#226;m Ngoại ngữ','','https://vdtnn.tdmu.edu.vn')"  class="list-group-item ahover" >Trung t&#226;m Ngoại ngữ</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Trung t&#226;m Chuyển đổi số','','https://vcntt.tdmu.edu.vn')"  class="list-group-item ahover" >Trung t&#226;m Chuyển đổi số</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Trung t&#226;m tư vấn Trung h&#242;a carbon','2025-02-25-16-14-03-trung-tam-trung-hoa-carbon-32-don-vi-tdmu-1-jpg.jpg','https://ttthc.tdmu.edu.vn')"  class="list-group-item ahover" >Trung t&#226;m tư vấn Trung h&#242;a carbon</a> <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Trung t&#226;m ứng dụng, chuyển giao c&#244;ng nghệ','','/don-vi-truc-thuoc/trung-tam-ung-dung-chuyen-giao-cong-nghe')"  class="list-group-item ahover">Trung t&#226;m ứng dụng, chuyển giao c&#244;ng nghệ</a><hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Viện Đ&#224;o tạo theo nhu cầu x&#227; hội','','https://vncxh.tdmu.edu.vn')"  class="list-group-item ahover" >Viện Đ&#224;o tạo theo nhu cầu x&#227; hội</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Viện Đ&#224;o tạo Kiến tr&#250;c, x&#226;y dựng v&#224; giao th&#244;ng','','https://vkxgt.tdmu.edu.vn')"  class="list-group-item ahover" >Viện Đ&#224;o tạo Kiến tr&#250;c, x&#226;y dựng v&#224; giao th&#244;ng</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Viện Dược v&#224; thực phẩm sức khỏe','','https://vdutp.tdmu.edu.vn')"  class="list-group-item ahover" >Viện Dược v&#224; thực phẩm sức khỏe</a> <hr />
+                <a  style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Viện Vovinam','','/don-vi-truc-thuoc/vien-vovinam')"  class="list-group-item ahover">Viện Vovinam</a>
+</div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Đóng</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+<!-- Button trigger modal -->
+<!--<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+    Launch demo modal
+</button>-->
+
+<!-- Modal -->
+<!--<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                ...
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+        </div>
+    </div>
+</div>-->
+                </div>
+            </div>
+
+            <div class="col-md-2">
+                <h5 class="text-white font-weight-bold pb-2">ĐOÀN THỂ</h5>
+                <div class="text-white" style="font-size: .8rem;">
+                    
+                        <p><a style="color: #fff;" class="chudauhoa" href="https://tuoitre.tdmu.edu.vn">Hội Sinh vi&#234;n</a></p>
+                        <p><a style="color: #fff;" class="chudauhoa" href="https://congdoan.tdmu.edu.vn">C&#244;ng đo&#224;n</a></p>
+                        <p><a style="color: #fff;" class="chudauhoa" href="https://tuoitre.tdmu.edu.vn">Đo&#224;n Thanh ni&#234;n</a></p>
+                </div>
+            </div>
+
+            <div class="col-md-2">
+                <h5 class="text-white font-weight-bold pb-2">THÔNG TIN</h5>
+                <div class="text-white" style="font-size: .8rem;">
+                    <span style="line-height: 2.3;">
+                        
+                        <address>
+    
+        <p><a style="color: #fff;" class="chudauhoa" href="/lich-cong-tac">Lịch c&#244;ng t&#225;c</a></p>
+        <p><a style="color: #fff;" class="chudauhoa" href="/thong-bao">Th&#244;ng b&#225;o</a></p>
+        <p><a style="color: #fff;" class="chudauhoa" href="/tin-tuc">TIN TỨC</a></p>
+        <p><a style="color: #fff;" class="chudauhoa" href="/gioi-thieu">Giới thiệu</a></p>
+        <p><a style="color: #fff;" class="chudauhoa" href="/lien-he">Li&#234;n hệ ban bi&#234;n tập</a></p>
+    <p><a style="color: #fff;" class="chudauhoa" href="/privacy">Quyền riêng tư</a></p>
+</address>
+
+                    </span>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</footer>
+    <!-- Modal -->
+    <div class="modal fade" id="chiTietDonViModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="z-index:9999">
+        <div class="modal-dialog modal-dialog-scrollable modal-xl" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h6 class="modal-title" id="chitietDonViTitle"></h6>
+                </div>
+                <div class="modal-body" id="chitietDonViBody">
+                </div>
+                <div class="modal-footer">
+                    <a type="button" class="btn btn-primary" id="chitietdonvilink">Truy cập website</a>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Đóng</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+
+        function ShowChiTiet(title, img, link) {
+            $('#chitietDonViTitle').html(null)
+            $('#chitietDonViTitle').html(title)
+            $('#chitietDonViBody').html(null)
+            if (img != null && img != '') {
+                $('#chitietDonViBody').html('<img style="width:100%" src="/img/ckeditor/Images/' + img + '" />');
+            }
+            $('#chitietdonvilink').attr("href", null)
+            $('#chitietdonvilink').attr("href", link)
+            $('#chiTietDonViModal').modal('show')
+        }
+        $('.owl-carousel').owlCarousel({
+            loop: true,
+            margin: 10,
+            autoplay: true,
+            autoplayTimeout: 5000,
+            autoplayHoverPause: true,
+            nav: false,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                600: {
+                    items: 3
+                },
+                1000: {
+                    items: 4
+                }
+            }
+        })
+        $('.owl-carousel-bantinhoatdongsinhvien').owlCarousel({
+            items: 4,
+            loop: true,
+            margin: 10,
+            autoplay: true,
+            autoplayTimeout: 1500,
+            nav: true,
+            autoplayHoverPause: true
+        });
+        $('.owl-carousel-tintuc').owlCarousel({
+            items: 4,
+            loop: true,
+            margin: 10,
+            autoplay: true,
+            autoplayTimeout: 1500,
+            nav: true,
+            autoplayHoverPause: true
+        });
+        jQuery(function ($) {
+            // Function which adds the 'animated' class to any '.animatable' in view
+            var doAnimations = function () {
+
+                // Calc current offset and get all animatables
+                var offset = $(window).scrollTop() + $(window).height(),
+                    $animatables = $('.animatable');
+
+                // Unbind scroll handler if we have no animatables
+                if ($animatables.length == 0) {
+                    $(window).off('scroll', doAnimations);
+                }
+
+                // Check all animatables and animate them if necessary
+                $animatables.each(function (i) {
+                    var $animatable = $(this);
+                    if (($animatable.offset().top + $animatable.height() - 20) < offset) {
+                        $animatable.removeClass('animatable').addClass('animated');
+                    }
+                });
+            };
+
+            // Hook doAnimations on scroll, and trigger a scroll
+            $(window).on('scroll', doAnimations);
+            $(window).trigger('scroll');
+
+        });
+    </script>
+
+    <script>
+        $('#tableMenu a').click(function () {
+            $('#navbarNavMobile').removeClass("show");
+
+        });
+    </script>
+
+    <script async defer>
+
+        window.addEventListener("load", function () {
+            setTimeout(function () {
+                var maxHeight = 0;
+                $(".get-height").each(function () {
+                    if ($(this).height() > maxHeight) {
+                        maxHeight = $(this).height();
+                    } else {
+                        maxHeight = maxHeight;
+                    }
+
+                });
+                $(".get-height").css("height", maxHeight + "px");
+
+                $(function () {
+                    let isMobile = window.matchMedia("only screen and (device-width: 768px)").matches;
+
+                    if (isMobile) {
+                        $(".set-height-news").css("height", maxHeight + "px");
+                        $(".get-height").css("margin-bottom", "30px");
+                    }
+                });
+
+                //if (/iPad/i.test(navigator.userAgent)) {
+
+                //}
+
+            }, 1000);
+            setTimeout(function () {
+                var maxHeight = 0;
+                $(".get-height-event").each(function () {
+                    if ($(this).height() > maxHeight) {
+                        maxHeight = $(this).height();
+                    } else {
+                        maxHeight = maxHeight;
+                    }
+
+                });
+                $(".get-height-event").css("height", maxHeight + "px");
+
+            }, 1000);
+        });
+
+        $(document).ready(function () {
+
+        });
+    </script>
+
+    
+    
+    <script defer>
+        function LoadGroup(e) { $.ajax({ type: "GET", url: '/Search/PartialGroupResult', contenType: "application/JSON; charset=utf-8", data: { key: e }, dataType: "html", beforeSend: function () { $("#groupresultcontent").html(null), $("#resultcontent").html(null), $(".search-loader").show(), $(".search-subloader").hide() }, complete: function () { $(".search-loader").hide() }, success: function (t) { if (!t.includes("Không tìm thấy kết quả tìm kiếm cho từ khóa")) { LoadResult(e, null) } $("#groupresultcontent").html(t)},error:function(){}})}function LoadResult(e,t){$.ajax({type:"GET",url:'/Search/PartialResult',contenType:"application/JSON; charset=utf-8",data:{key:e,idnhombd:t},dataType:"html",beforeSend:function(){$("#resultcontent").html(null),$(".search-loader").hide(),$(".search-subloader").show()},complete:function(){$(".search-subloader").hide()},success:function(e){$("#resultcontent").html(e)},error:function(){}})}function SelectGroup(e){var t=$("#txtSearch").val().trim();$(".list-group-item").removeClass("active"),LoadResult(t,e),$("#menu-item-"+e).addClass("active")}$("#txtSearchHome").on("input",function(){var e=$("#txtSearchHome").val();""!==e.trim()?($("#txtSearch").val(e),$("#txtSearchHome").val(null),$("#formSearch").hide(),$("#renderBody").hide(),$("#searchContent").show(),$("#txtSearch").focus()):($("#renderBody").show(),$("#searchContent").hide(),$("#idEnglist").show())}),$("#txtSearchHomeMobile").on("input",function(){var e=$("#txtSearchHomeMobile").val();""!==e.trim()?($("#txtSearch").val(e),$("#txtSearchHomeMobile").val(null),$("#formSearch").hide(),$("#renderBody").hide(),$("#searchContent").show(),$("#txtSearch").focus()):($("#renderBody").show(),$("#searchContent").hide(),$("#idEnglist").show())}),$("#txtSearch").on("input",function(){delay(function(){var e=$("#txtSearch").val();""===e.trim()?($("#txtSearch").val(""),LoadGroup(null)):e.trim().length>1?LoadGroup(e.trim()):LoadGroup(null)},2e3)}),$("#btncancel").click(function(){$("#groupresultcontent").html(null),$("#resultcontent").html(null),$("#renderBody").show(),$("#searchContent").hide(),$("#formSearch").show()});var SearchnoData=!1,SearchCount=0,SearchinProgress=!1;function SearchGetMore(e){var t=$("#txtSearch").val(),o="#grp"+e,r=".item"+e,n="#listCount"+e,a="#btnXemthem"+e,c="#loading"+e;SearchCount=$(r).length,SearchinProgress||SearchnoData||$.ajax({type:"GET",url:'/Search/PartialLoad',contenType:"application/JSON; charset=utf-8",data:{key:t,idnhombd:e,start:SearchCount},dataType:"html",beforeSend:function(){SearchinProgress=!0,$(a).hide(),$(c).show()},complete:function(){SearchinProgress=!1,$(c).hide()},success:function(e){$(o).append(e),(SearchCount=$(r).length)<$(n).text()&&$(a).show()},error:function(){noData=!0}})}$(".container-2 #txtSearchHome").hover(function(){$("#txtSearchHome").focus()}),$(".container-2 span").hover(function(){$("#txtSearchHome").focus()}),$(".box .container-2").mouseout(function(){$("#txtSearchHome").focus(),""===$("#txtSearchHome").val().trim()&&$("#txtSearchHome").val(null),$("#txtSearchHome").blur()});
+    </script>
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-53MT1XSTET"></script>
+    <script>
+        //function openFormAI() {
+        //    document.getElementById("myFormchatAI").style.display = "block";
+        //    $('#callout_popup_calloutAI').hide();
+        //}
+
+        //function close_popupAI() {
+        //    $('#myFormchatAI').hide();
+        //    $('#callout_popup_calloutAI').show();
+        //    $('#callout_popup_linkAI').show();
+        //}
+        (async () => { let e = document.createElement("script"); e.src = "https://tuvan.tdmu.edu.vn/embed", e.type = "module", document.body.appendChild(e), await new Promise(((e, t) => setTimeout((() => e()), 3e3))); let t = document.createElement("tuyensinh-chat-button"); document.body.appendChild(t) })();
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-53MT1XSTET');
+    </script>
+
+    <script type="text/javascript" src="https://viewer.diagrams.net/js/viewer-static.min.js"></script>
+</body>
+</html>

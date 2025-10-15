@@ -9,3 +9,14 @@ C:\Users\HUAN-PC\Source\Repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu-THL.cspr
 C:\Users\HUAN-PC\Source\Repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu-THL.csproj.CoreCompileInputs.cache
 C:\Users\HUAN-PC\Source\Repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu-THL.exe
 C:\Users\HUAN-PC\Source\Repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu-THL.pdb
+C:\Users\HUAN-PC\source\repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu-THL.exe.config
+C:\Users\HUAN-PC\source\repos\QLHocVu-THL\QLHocVu-THL\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\HUAN-PC\source\repos\QLHocVu-THL\QLHocVu-THL\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\HUAN-PC\source\repos\QLHocVu-THL\QLHocVu-THL\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\HUAN-PC\source\repos\QLHocVu-THL\QLHocVu-THL\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\HUAN-PC\source\repos\QLHocVu-THL\QLHocVu-THL\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\HUAN-PC\source\repos\QLHocVu-THL\QLHocVu-THL\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\HUAN-PC\source\repos\QLHocVu-THL\QLHocVu-THL\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\HUAN-PC\source\repos\QLHocVu-THL\QLHocVu-THL\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\HUAN-PC\source\repos\QLHocVu-THL\QLHocVu-THL\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\HUAN-PC\source\repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu-.A4DEF8F9.Up2Date
