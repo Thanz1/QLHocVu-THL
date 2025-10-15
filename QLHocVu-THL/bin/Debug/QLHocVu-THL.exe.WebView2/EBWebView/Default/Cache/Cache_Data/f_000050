@@ -1,0 +1,1301 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <title>
+        Trung t&#226;m Dịch vụ, Hợp t&#225;c Doanh nghiệp v&#224; Khởi Nghiệp
+    </title>
+
+    <meta property="og:url" />
+    <meta property="og:type" />
+    <meta property="og:title" />
+    <meta property="og:description" />
+    <meta property="og:image" />
+
+    <link href="/Content/cssWeb2017v1?v=QCQKEJ6En6ye0Sr7dXSn9x3XhBz8tQ93bOcp9vTVXrk1" rel="stylesheet"/>
+
+</head>
+<body>
+
+    
+
+<style>
+    @media only screen and (max-width: 1024px) {
+        .text-banner {
+            display: none !important;
+        }
+    }
+</style>
+<header style="height: 120px">
+    <div class="container-fluid">
+        <div style="position: relative; z-index: 1000">
+            <div class="col-md-5" id="logo">
+                <a href="/" class="the-a-full"></a>
+            </div>
+
+            <div class="col-md-1 v2work">
+                <a target="_blank" href="https://www.v2work.eu/" class="the-a-full" style="width: 100%;height: 100%;"></a>
+            </div>
+            <div class="col-md-2 logo-ngoisao">
+            </div>
+            <div class="col-md-1 logo-vees-net">
+                <a target="_blank" href="http://vees-net.com/vi/" class="the-a-full" style="width: 100%;height: 100%;"></a>
+            </div>
+            <div class="col-md-3 ts2">
+            </div>
+        </div>
+    </div>
+    <img class="img-responsive" src="/img/logo_2024.png" />
+    <marquee style="font-weight:700;color: blue;font-size: 1.5rem;">
+        Trung t&#226;m Dịch vụ, Hợp t&#225;c Doanh nghiệp v&#224; Khởi Nghiệp - Trường Đại học Thủ Dầu Một được dự án V2work hỗ trợ phát triển, đồng tài trợ bởi Hội đồng chung châu Âu (EU) trong chương trình Erasmus+, với hợp đồng số 586252-EPP-1-2017-1-ES-EPPKA2-CBHE-SP.
+    </marquee>
+</header>
+    
+
+<nav class="navbar navbar-inverse navbar-static-top">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                        <li>
+                            <a href="/">Trang chủ </a>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Giới thiệu <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu multi-level">
+                                        <li><a class="dropdown-item" href="/bai-viet/gioi-thieu-chung">Giới thiệu chung</a></li>
+                                        <li><a class="dropdown-item" href="/bai-viet/chuc-nang-nhiem-vu">Chức năng - Nhiệm vụ</a></li>
+                                        <li><a class="dropdown-item" href="/bai-viet/co-cau-to-chuc">Cơ cấu tổ chức</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Việc l&#224;m -  thực tập <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu multi-level">
+                                        <li><a class="dropdown-item" href="https://cece.tdmu.edu.vn/#viecLamMoi">Việc l&#224;m mới</a></li>
+                                        <li><a class="dropdown-item" href="#">Ứng vi&#234;n</a></li>
+                                        <li><a class="dropdown-item" href="#">Đăng tin tuyển dụng</a></li>
+                                        <li><a class="dropdown-item" href="#">Đăng tin t&#236;m việc</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Kết nối Doanh nghiệp <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu multi-level">
+                                        <li class="dropdown-submenu">
+                                            <a class="dropdown-toggle" href="#" data-toggle="dropdown">Danh mục Doanh nghiệp</a>
+                                            <ul class="dropdown-menu">
+                                                    <li><a href="/bai-viet/giao-duc">Gi&#225;o dục</a></li>
+                                                    <li><a href="/bai-viet/san-xuat-ky-thuat">Sản xuất, kỹ thuật</a></li>
+                                                    <li><a href="/bai-viet/dich-vu">Dịch vụ</a></li>
+                                                    <li><a href="/bai-viet/cong-nghe-thong-tin">C&#244;ng nghệ th&#244;ng tin</a></li>
+                                                    <li><a href="/bai-viet/tai-chinh">T&#224;i ch&#237;nh</a></li>
+                                                    <li><a href="/bai-viet/khac">Kh&#225;c</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a class="dropdown-item" href="/danh-muc/du-an-quoc-te-1">Dự &#225;n Quốc tế</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Khởi nghiệp <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu multi-level">
+                                        <li><a class="dropdown-item" href="/danh-muc/du-an-v2work">Dự &#225;n V2Work</a></li>
+                                        <li><a class="dropdown-item" href="/danh-muc/tai-lieu">T&#224;i liệu</a></li>
+                                        <li><a class="dropdown-item" href="http://dean844.most.gov.vn/">Đề &#225;n 844</a></li>
+                                        <li><a class="dropdown-item" href="https://dean1665.vn/">Cổng th&#244;ng tin hỗ trợ HSSV Khởi nghiệp</a></li>
+                                        <li><a class="dropdown-item" href="http://startup.gov.vn">Cổng th&#244;ng tin KNĐMST Quốc gia</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="https://cece.tdmu.edu.vn/lienhe/create">G&#243;p &#253; </a>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Văn bản <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu multi-level">
+                                        <li><a class="dropdown-item" href="/danh-muc/van-ban-1">Văn bản trung t&#226;m</a></li>
+                                        <li><a class="dropdown-item" href="/danh-muc/bao-cao-viec-lam">B&#225;o c&#225;o Việc l&#224;m</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="/danh-muc/lich-cong-tac-1">Lịch c&#244;ng t&#225;c </a>
+                        </li>
+                        <li>
+                            <a href="/bai-viet/bieu-mau">Biểu mẫu </a>
+                        </li>
+            </ul>
+        </div><!--/.nav-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+<script src="/Scripts/jquery.min.js"></script>
+<script>
+    $(".dropdown-submenu").click(function (event) {
+        // stop bootstrap.js to hide the parents
+        event.stopPropagation();
+        // hide the open children
+        $(this).find(".dropdown-submenu").removeClass('open');
+        // add 'open' class to all parents with class 'dropdown-submenu'
+        $(this).parents(".dropdown-submenu").addClass('open');
+        // this is also open (or was)
+        $(this).toggleClass('open');
+    });
+</script>
+
+
+
+
+
+    
+
+    
+
+
+
+<style>
+    .carousel-caption {
+        padding-bottom: 10px;
+        bottom: 5px;
+        background-color: #0006;
+        color: #fff;
+        padding-top: 0px;
+        bottom: 0px;
+        border-radius: 0px;
+        right: 0%;
+        left: 0%;
+    }
+
+    @media only screen and (max-width: 600px) {
+        .carousel-caption {
+            display: none;
+        }
+    }
+</style>
+<section id="carousel" class="carousel-fade">
+    <div class="container">
+        <div class="row">
+            <div class=" phanleft">
+                <div id="myCarousel" class="carousel slide" data-ride="carousel">
+
+                    <ol class="carousel-indicators" style="margin-bottom: 0px;bottom: 0px;">
+                        <li data-target='#myCarousel' data-slide-to=0 class='active'></li><li data-target='#myCarousel' data-slide-to=1 class=''></li><li data-target='#myCarousel' data-slide-to=2 class=''></li><li data-target='#myCarousel' data-slide-to=3 class=''></li><li data-target='#myCarousel' data-slide-to=4 class=''></li>
+                    </ol>
+
+                    <div class="carousel-inner" role="listbox">
+                        <div class='item active'>
+                     <div class='row'>
+                        <div class='col-md-12 hinh'>
+                            <img class='img-responsive' src='../../img/ckeditor/Images/thumbs/9dcd5c19-ca73-4e33-a1b0-3ec8fc900fc8.jpg' >
+                            <div class='carousel-caption' style='display:none'>
+                            
+                            
+                            </div>
+                        </div>
+                    </div>
+                </div><div class='item'>
+                     <div class='row'>
+                        <div class='col-md-12 hinh'>
+                            <img class='img-responsive' src='../../img/ckeditor/Images/thumbs/fb7ca14c-838c-4a29-825e-a285e5c7aad0.jpg' >
+                            <div class='carousel-caption' style='display:none'>
+                            
+                            
+                            </div>
+                        </div>
+                    </div>
+                </div><div class='item'>
+                     <div class='row'>
+                        <div class='col-md-12 hinh'>
+                            <img class='img-responsive' src='../../img/ckeditor/Images/thumbs/46656284-8c52-44aa-9a5c-3e9de5853676.jpg' >
+                            <div class='carousel-caption' style='display:none'>
+                            
+                            
+                            </div>
+                        </div>
+                    </div>
+                </div><div class='item'>
+                     <div class='row'>
+                        <div class='col-md-12 hinh'>
+                            <img class='img-responsive' src='../../img/ckeditor/Images/thumbs/a9a450f0-4dec-4e6c-a761-ffae2bfd5981.jpg' >
+                            <div class='carousel-caption' >
+                            <h4 style='text-transform: uppercase; margin-bottom: 5px;'>Khai giảng khóa đào tạo nâng cao về khởi nghiệp đổi mới sáng tạo dành cho sinh viên</h4>
+                            
+                            </div>
+                        </div>
+                    </div>
+                </div><div class='item'>
+                     <div class='row'>
+                        <div class='col-md-12 hinh'>
+                            <img class='img-responsive' src='../../img/ckeditor/Images/thumbs/31b52e6a-4c66-490b-989f-d5a1d59d1a16.jpg' >
+                            <div class='carousel-caption' style='display:none'>
+                            
+                            
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+
+                    <a class="left carousel-control" id="left" href="#myCarousel" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" id="right" href="#myCarousel" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+
+                
+            </div>
+            
+
+            
+        </div>
+    </div>
+</section>
+
+<script>
+    var left = document.getElementById('left');
+    left.style.width = null;
+
+    var right = document.getElementById('right');
+    right.style.width = null;
+
+</script>
+
+<div class="container" style="padding-top: 50px !important">
+    <div class="section1">
+        <div class="row">
+            <div class="col-md-4" style="text-align:justify">
+                    <a href="/danh-muc/hop-tac-doanh-nghiep">
+        <h3 class="title">Hợp t&#225;c Doanh nghiệp</h3>
+    </a>
+        <div class="row" style="padding-bottom: 25px">
+            <div class="col-md-12">
+                <div style="padding-bottom:5px; font-weight:700">
+                    <a href="/danh-muc/hop-tac-doanh-nghiep/ket-noi-doanh-nghiep-dong-hanh-cung-phat-trien">
+                        Kết nối doanh nghiệp – Đồng h&#224;nh c&#249;ng ph&#225;t triển
+                            <img src='../../img/newlk.gif' />
+                    </a>
+                </div>
+                <div class="row"></div>
+                <div style="position: relative;margin-right: 10px;float: left;width: 120px">
+                    <a href="/danh-muc/hop-tac-doanh-nghiep/ket-noi-doanh-nghiep-dong-hanh-cung-phat-trien">
+                        <img src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/0c5fb0e2-d4c5-4a9d-baaa-6265a52e5964.jpg" class="img-responsive" />
+                    </a>
+                </div>
+                <span class="succinctMT"><p style="line-height: 1.2;">Nằm trong chuỗi hoạt động kỷ niệm, tri &#226;n Ng&#224;y Doanh nh&#226;n Việt Nam, ng&#224;y 13/10/2025, Trường Đại học Thủ Dầu Một đ&#227; tổ chức chương tr&#236;nh “Kết nối Doanh nghiệp – Đồng h&#224;nh c&#249;ng ph&#225;t triển”.</p></span>
+            </div>
+        </div>
+        <div class="row" style="padding-bottom: 25px">
+            <div class="col-md-12">
+                <div style="padding-bottom:5px; font-weight:700">
+                    <a href="/danh-muc/hop-tac-doanh-nghiep/truong-dai-hoc-thu-dau-mot-ton-vinh-doi-tac-doanh-nghiep-thuc-day-hop-tac-toan-dien-trong-dao-tao">
+                        Trường Đại học Thủ Dầu Một: T&#244;n vinh đối t&#225;c doanh nghiệp, th&#250;c đẩy hợp t&#225;c to&#224;n diện trong đ&#224;o tạo, nghi&#234;n cứu v&#224; chuyển giao tri thức
+                            <img src='../../img/newlk.gif' />
+                    </a>
+                </div>
+                <div class="row"></div>
+                <div style="position: relative;margin-right: 10px;float: left;width: 120px">
+                    <a href="/danh-muc/hop-tac-doanh-nghiep/truong-dai-hoc-thu-dau-mot-ton-vinh-doi-tac-doanh-nghiep-thuc-day-hop-tac-toan-dien-trong-dao-tao">
+                        <img src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/bcbad33b-185d-4b96-8287-9863f22d2800.jpg" class="img-responsive" />
+                    </a>
+                </div>
+                <span class="succinctMT"><p style="line-height: 1.2;">Ng&#224;y 13/10/2025, h&#242;a trong kh&#244;ng kh&#237; cả nước kỷ niệm Ng&#224;y Doanh nh&#226;n Việt Nam, Trường Đại học Thủ Dầu Một đ&#227; tổ chức chương tr&#236;nh “Kết nối Doanh nghiệp – Đồng h&#224;nh c&#249;ng ph&#225;t triển”, nhằm tri &#226;n c&#225;c doanh nghiệp, đối t&#225;c đ&#227; đồng h&#224;nh trong c&#244;ng t&#225;c đ&#224;o tạo, thực tập, tuyển dụng v&#224; hỗ trợ sinh vi&#234;n. Đ&#226;y cũng l&#224; dịp tăng cường kết nối v&#224; k&#253; kết hợp t&#225;c (MOU) giữa nh&#224; trường v&#224; cộng đồng doanh nghiệp trong c&#225;c lĩnh vực đ&#224;o tạo, nghi&#234;n cứu khoa học, chuyển giao c&#244;ng nghệ v&#224; hỗ trợ việc l&#224;m cho sinh vi&#234;n.  </p></span>
+            </div>
+        </div>
+        <div class="row" style="padding-bottom: 25px">
+            <div class="col-md-12">
+                <div style="padding-bottom:5px; font-weight:700">
+                    <a href="/danh-muc/hop-tac-doanh-nghiep/truong-dai-hoc-thu-dau-mot-hop-tac-phat-trien-chuong-trinh-giao-duc-stem-va-ai-robotics">
+                        Trường Đại học Thủ Dầu Một hợp t&#225;c ph&#225;t triển chương tr&#236;nh gi&#225;o dục STEM v&#224; AI Robotics
+                    </a>
+                </div>
+                <div class="row"></div>
+                <div style="position: relative;margin-right: 10px;float: left;width: 120px">
+                    <a href="/danh-muc/hop-tac-doanh-nghiep/truong-dai-hoc-thu-dau-mot-hop-tac-phat-trien-chuong-trinh-giao-duc-stem-va-ai-robotics">
+                        <img src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/03488966-9830-4e58-a149-a6f718d5d3a6.jpg" class="img-responsive" />
+                    </a>
+                </div>
+                <span class="succinctMT"><p style="line-height: 1.2;">Ng&#224;y 03/10/2025, Trường Đại học Thủ Dầu Một đ&#227; c&#243; buổi l&#224;m việc với C&#244;ng ty Art Five AI Education nhằm trao đổi định hướng hợp t&#225;c trong ph&#225;t triển chương tr&#236;nh gi&#225;o dục STEM v&#224; AI Robotics.</p></span>
+            </div>
+        </div>
+        <div class="row" style="padding-bottom: 25px">
+            <div class="col-md-12">
+                <div style="padding-bottom:5px; font-weight:700">
+                    <a href="/danh-muc/hop-tac-doanh-nghiep/truong-dai-hoc-thu-dau-mot-va-vnpt-binh-duong-tang-cuong-hop-tac-trong-dao-tao-va-chuyen-doi-so">
+                        Trường Đại học Thủ Dầu Một v&#224; VNPT B&#236;nh Dương tăng cường hợp t&#225;c trong đ&#224;o tạo v&#224; chuyển đổi số
+                    </a>
+                </div>
+                <div class="row"></div>
+                <div style="position: relative;margin-right: 10px;float: left;width: 120px">
+                    <a href="/danh-muc/hop-tac-doanh-nghiep/truong-dai-hoc-thu-dau-mot-va-vnpt-binh-duong-tang-cuong-hop-tac-trong-dao-tao-va-chuyen-doi-so">
+                        <img src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/c42a54f1-f465-445d-a61a-d5ec5a849ee0.jpg" class="img-responsive" />
+                    </a>
+                </div>
+                <span class="succinctMT"><p style="line-height: 1.2;">Ng&#224;y 26/9/2025, Trường Đại học Thủ Dầu Một phối hợp c&#249;ng VNPT B&#236;nh Dương tổ chức Hội nghị tổng kết, đ&#225;nh gi&#225; mức độ phối hợp triển khai thỏa thuận hợp t&#225;c giai đoạn 2024 – 2025, đồng thời b&#224;n thảo, định hướng c&#225;c nội dung hợp t&#225;c mới cho giai đoạn 2025 – 2026.</p></span>
+            </div>
+        </div>
+
+            </div>
+
+            <div class="col-md-4">
+                    <a href="/danh-muc/khoi-nghiep-1">
+        <h3 class="title">Khởi nghiệp</h3>
+    </a>
+        <div class="row" style="padding-bottom: 25px">
+            <div class="col-md-12">
+                <div style="padding-bottom:5px; font-weight:700">
+                    <a href="/danh-muc/khoi-nghiep-1/be-giang-khoa-dao-tao-khoi-nghiep-doi-moi-sang-tao-danh-cho-sinh-vien">
+                        Bế giảng kh&#243;a đ&#224;o tạo khởi nghiệp đổi mới s&#225;ng tạo d&#224;nh cho sinh vi&#234;n
+                    </a>
+                </div>
+                <div class="row"></div>
+                <div style="position: relative;margin-right: 10px;float: left;width: 120px">
+                    <a href="/danh-muc/khoi-nghiep-1/be-giang-khoa-dao-tao-khoi-nghiep-doi-moi-sang-tao-danh-cho-sinh-vien">
+                        <img src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/e058c586-14d0-49c8-956b-4b9e0e8511f2.jpg" class="img-responsive" />
+                    </a>
+                </div>
+                <span class="succinctMT"><p style="line-height: 1.2;">Chiều ng&#224;y 03/10/2025, trường Đại học Thủ Dầu Một đ&#227; long trọng tổ chức lễ bế giảng kh&#243;a đ&#224;o tạo n&#226;ng cao về khởi nghiệp đổi mới s&#225;ng tạo d&#224;nh cho sinh vi&#234;n.</p></span>
+            </div>
+        </div>
+        <div class="row" style="padding-bottom: 25px">
+            <div class="col-md-12">
+                <div style="padding-bottom:5px; font-weight:700">
+                    <a href="/danh-muc/khoi-nghiep-1/khai-giang-khoa-dao-tao-khoi-nghiep-doi-moi-sang-tao-danh-cho-sinh-vien">
+                        Khai giảng kh&#243;a đ&#224;o tạo khởi nghiệp đổi mới s&#225;ng tạo d&#224;nh cho sinh vi&#234;n
+                    </a>
+                </div>
+                <div class="row"></div>
+                <div style="position: relative;margin-right: 10px;float: left;width: 120px">
+                    <a href="/danh-muc/khoi-nghiep-1/khai-giang-khoa-dao-tao-khoi-nghiep-doi-moi-sang-tao-danh-cho-sinh-vien">
+                        <img src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/4c22b808-de52-4cb0-9b9e-0ee09aa75325.jpg" class="img-responsive" />
+                    </a>
+                </div>
+                <span class="succinctMT"><p style="line-height: 1.2;">Trong 3 ng&#224;y, từ 01 đến 03/10/2025, Trường Đại học Thủ Dầu Một phối hợp c&#249;ng Hội đồng Tư vấn v&#224; Hỗ trợ Khởi nghiệp ph&#237;a Nam tổ chức kh&#243;a đ&#224;o tạo khởi nghiệp đổi mới s&#225;ng tạo d&#224;nh cho sinh vi&#234;n.</p></span>
+            </div>
+        </div>
+        <div class="row" style="padding-bottom: 25px">
+            <div class="col-md-12">
+                <div style="padding-bottom:5px; font-weight:700">
+                    <a href="/danh-muc/khoi-nghiep-1/be-giang-khoa-dao-tao-giang-vien-nguon-giang-day-khoi-nghiep-1">
+                        Bế giảng kh&#243;a đ&#224;o tạo giảng vi&#234;n nguồn giảng dạy khởi nghiệp
+                    </a>
+                </div>
+                <div class="row"></div>
+                <div style="position: relative;margin-right: 10px;float: left;width: 120px">
+                    <a href="/danh-muc/khoi-nghiep-1/be-giang-khoa-dao-tao-giang-vien-nguon-giang-day-khoi-nghiep-1">
+                        <img src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/267664f8-ab3e-4f23-9a95-f557712fe53c.jpg" class="img-responsive" />
+                    </a>
+                </div>
+                <span class="succinctMT"><p style="line-height: 1.2;">Chiều ng&#224;y 15/8/2025, trường Đại học Thủ Dầu Một phối hợp c&#249;ng Hội đồng Tư vấn v&#224; Hỗ trợ khởi nghiệp ph&#237;a Nam tổ chức bế giảng kh&#243;a đ&#224;o tạo giảng vi&#234;n nguồn giảng dạy chương tr&#236;nh khởi nghiệp (TOT).</p></span>
+            </div>
+        </div>
+        <div class="row" style="padding-bottom: 25px">
+            <div class="col-md-12">
+                <div style="padding-bottom:5px; font-weight:700">
+                    <a href="/danh-muc/khoi-nghiep-1/du-an-he-thong-giam-sat-nha-kinh-thong-minh-cua-sinh-vien-truong-dai-hoc-thu-dau-mot-vao-chung-ket">
+                        Dự &#225;n “Hệ thống gi&#225;m s&#225;t nh&#224; k&#237;nh th&#244;ng minh” của sinh vi&#234;n trường Đại học Thủ Dầu Một v&#224;o Chung kết HUIT STARTUP 2025
+                    </a>
+                </div>
+                <div class="row"></div>
+                <div style="position: relative;margin-right: 10px;float: left;width: 120px">
+                    <a href="/danh-muc/khoi-nghiep-1/du-an-he-thong-giam-sat-nha-kinh-thong-minh-cua-sinh-vien-truong-dai-hoc-thu-dau-mot-vao-chung-ket">
+                        <img src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/0f9ad9a0-eb66-433c-aa1c-6c0b0510948a.jpg" class="img-responsive" />
+                    </a>
+                </div>
+                <span class="succinctMT"><p style="line-height: 1.2;">Ng&#224;y 11/8/2025, V&#242;ng B&#225;n kết Cuộc thi HUIT STARTUP – Học sinh, sinh vi&#234;n với &#253; tưởng khởi nghiệp lần thứ VI đ&#227; diễn ra tại trường Đại học C&#244;ng thương TP. Hồ Ch&#237; Minh. Tại v&#242;ng n&#224;y, 40 dự &#225;n ti&#234;u biểu đến từ c&#225;c trường đại học, cao đẳng, trung học phổ th&#244;ng v&#224; trung t&#226;m gi&#225;o dục thường xuy&#234;n tr&#234;n địa b&#224;n TP. Hồ Ch&#237; Minh c&#249;ng c&#225;c tỉnh l&#226;n cận đ&#227; tranh t&#224;i s&#244;i nổi. Trong số đ&#243;, dự &#225;n “Hệ thống gi&#225;m s&#225;t nh&#224; k&#237;nh th&#244;ng minh” của nh&#243;m sinh vi&#234;n Trường Đại học Thủ Dầu Một đ&#227; xuất sắc vượt qua nhiều đối thủ để gi&#224;nh quyền g&#243;p mặt tại v&#242;ng Chung kết.</p></span>
+            </div>
+        </div>
+
+            </div>
+
+            <div class="col-md-4">
+                    <a href="/danh-muc/tin-tuc-tdmu">
+        <h3 class="title">TIN TỨC TDMU</h3>
+    </a>
+        <div class="row" style="padding-bottom: 25px">
+            <div class="col-md-12">
+                <div style="padding-bottom:5px; font-weight:700">
+                    <a href="/danh-muc/tin-tuc-tdmu/le-chao-co-ky-niem-80-nam-quoc-khanh-tai-truong-dai-hoc-thu-dau-mot">
+                        Lễ ch&#224;o cờ kỷ niệm 80 năm Quốc kh&#225;nh tại Trường Đại học Thủ Dầu Một
+                    </a>
+                </div>
+                <div class="row"></div>
+                <div style="position: relative;margin-right: 10px;float: left;width: 120px">
+                    <a href="/danh-muc/tin-tuc-tdmu/le-chao-co-ky-niem-80-nam-quoc-khanh-tai-truong-dai-hoc-thu-dau-mot">
+                        <img src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/2233ac4d-2ae8-4e45-9fe6-1c661e3fa7b2.jpg" class="img-responsive" />
+                    </a>
+                </div>
+                <span class="succinctMT"><p style="line-height: 1.2;">H&#242;a c&#249;ng kh&#237; thế cả nước hướng về kỷ niệm 80 năm C&#225;ch mạng Th&#225;ng T&#225;m th&#224;nh c&#244;ng (19/8/1945 – 19/8/2025) v&#224; Quốc kh&#225;nh nước Cộng h&#242;a X&#227; hội Chủ nghĩa Việt Nam (02/9/1945 – 02/9/2025), s&#225;ng 25/8/2025, trường Đại học Thủ Dầu Một đ&#227; long trọng tổ chức Lễ ch&#224;o cờ với sự tham gia của hơn 1.000 c&#225;n bộ, giảng vi&#234;n v&#224; sinh vi&#234;n.</p></span>
+            </div>
+        </div>
+        <div class="row" style="padding-bottom: 25px">
+            <div class="col-md-12">
+                <div style="padding-bottom:5px; font-weight:700">
+                    <a href="/danh-muc/tin-tuc-tdmu/ngay-hoi-nhap-hoc-d25-niem-vui-cua-sinh-vien-su-an-tam-cua-phu-huynh">
+                        Ng&#224;y hội nhập học D25: Niềm vui của sinh vi&#234;n, sự an t&#226;m của phụ huynh
+                    </a>
+                </div>
+                <div class="row"></div>
+                <div style="position: relative;margin-right: 10px;float: left;width: 120px">
+                    <a href="/danh-muc/tin-tuc-tdmu/ngay-hoi-nhap-hoc-d25-niem-vui-cua-sinh-vien-su-an-tam-cua-phu-huynh">
+                        <img src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/9fbf7202-7d87-4964-af36-b340267bb162.jpg" class="img-responsive" />
+                    </a>
+                </div>
+                <span class="succinctMT"><p style="line-height: 1.2;">Ng&#224;y 26/8/2025, trường Đại học Thủ Dầu Một tiếp tục ch&#224;o đ&#243;n t&#226;n sinh vi&#234;n kh&#243;a D25 đến l&#224;m thủ tục nhập học. D&#249; trời mưa do ảnh hưởng của cơn b&#227;o Kajiki, kh&#244;ng kh&#237; tại khu&#244;n vi&#234;n trường vẫn n&#225;o nhiệt, tr&#224;n đầy năng lượng. Ngay từ cổng trường, phụ huynh v&#224; sinh vi&#234;n được đội ngũ c&#225;n bộ, giảng vi&#234;n v&#224; sinh vi&#234;n t&#236;nh nguyện đ&#243;n tiếp v&#224; hướng dẫn tận t&#236;nh, gi&#250;p mọi thủ tục nhập học diễn ra nhanh ch&#243;ng v&#224; thuận tiện.</p></span>
+            </div>
+        </div>
+        <div class="row" style="padding-bottom: 25px">
+            <div class="col-md-12">
+                <div style="padding-bottom:5px; font-weight:700">
+                    <a href="/danh-muc/tin-tuc-tdmu/-infographic-phuong-an-tuyen-sinh-dai-hoc-chinh-quy-nam-2025">
+                        [Infographic] Phương &#225;n tuyển sinh đại học ch&#237;nh quy năm 2025
+                    </a>
+                </div>
+                <div class="row"></div>
+                <div style="position: relative;margin-right: 10px;float: left;width: 120px">
+                    <a href="/danh-muc/tin-tuc-tdmu/-infographic-phuong-an-tuyen-sinh-dai-hoc-chinh-quy-nam-2025">
+                        <img src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/eef82873-ef74-4e0b-a6bd-78e276916f49.jpg" class="img-responsive" />
+                    </a>
+                </div>
+                <span class="succinctMT"><p style="line-height: 1.2;">[Infographic] Phương &#225;n tuyển sinh đại học ch&#237;nh quy năm 2025</p></span>
+            </div>
+        </div>
+        <div class="row" style="padding-bottom: 25px">
+            <div class="col-md-12">
+                <div style="padding-bottom:5px; font-weight:700">
+                    <a href="/danh-muc/tin-tuc-tdmu/chuyen-vien-tre-pham-chi-trong-vinh-du-dung-vao-hang-ngu-dang">
+                        Chuy&#234;n vi&#234;n trẻ Phạm Ch&#237; Trọng vinh dự đứng v&#224;o h&#224;ng ngũ Đảng
+                    </a>
+                </div>
+                <div class="row"></div>
+                <div style="position: relative;margin-right: 10px;float: left;width: 120px">
+                    <a href="/danh-muc/tin-tuc-tdmu/chuyen-vien-tre-pham-chi-trong-vinh-du-dung-vao-hang-ngu-dang">
+                        <img src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/bb45779d-ccc3-4a6f-a984-ab893a45ec88.jpg" class="img-responsive" />
+                    </a>
+                </div>
+                <span class="succinctMT"><p style="line-height: 1.2;">S&#225;ng ng&#224;y 08/7/2025, được sự đồng &#253; của Đảng ủy trường Đại học Thủ Dầu Một, chi bộ Trung t&#226;m Dịch vụ, hợp t&#225;c doanh nghiệp v&#224; khởi nghiệp đ&#227; long trọng tổ chức Lễ kết nạp đảng vi&#234;n mới cho quần ch&#250;ng Phạm Ch&#237; Trọng – Chuy&#234;n vi&#234;n Trung t&#226;m, n&#226;ng tổng số đảng vi&#234;n của chi bộ l&#234;n 7 đảng vi&#234;n.</p></span>
+            </div>
+        </div>
+
+            </div>
+        </div>
+    </div>
+    <br />
+    <div class="section2">
+        <div class="row">
+            <div class="col-md-8">
+                
+<h3 class="title" id="viecLamMoi">VIỆC LÀM MỚI</h3>
+<div id="customer_area">
+
+
+<table class="table table-striped table-content">
+    <thead>
+        <tr>
+            <th>Vị trí tuyển dụng</th>
+            <th>Khu vực</th>
+            <th>Mức lương</th>
+            <th>Hạn nộp HS</th>
+        </tr>
+    </thead>
+    <tbody>
+                <tr>
+                    <td>
+                        <a href="/tuyen-dung/nhan-vien-kinh-doanh-50" title="Nh&#226;n vi&#234;n kinh doanh" class="succinctTenTopJobs">Nh&#226;n vi&#234;n kinh doanh</a>
+                            <img src='../../img/newlk.gif' />
+                        <br />
+                        <span title="C&#212;NG TY TNHH ĐIỆN TỬ ASTI" class="succinctTenCongTyTopJobs">C&#212;NG TY TNHH ĐIỆN TỬ ASTI</span>
+                    </td>
+                    <td>
+                                <span>Hồ Ch&#237; Minh</span><br />
+                                <span>B&#236;nh Dương</span><br />
+                    </td>
+                    <td></td>
+                    <td>01/11/2025</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="/tuyen-dung/inventory-staff" title="Inventory Staff" class="succinctTenTopJobs">Inventory Staff</a>
+                            <img src='../../img/newlk.gif' />
+                        <br />
+                        <span title="C&#212;NG TY CỔ PHẦN L&amp;A" class="succinctTenCongTyTopJobs">C&#212;NG TY CỔ PHẦN L&amp;A</span>
+                    </td>
+                    <td>
+                                <span>Hồ Ch&#237; Minh</span><br />
+                                <span>B&#236;nh Dương</span><br />
+                    </td>
+                    <td></td>
+                    <td>25/10/2025</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="/tuyen-dung/ban-hang-doanh-nghiep" title="B&#225;n h&#224;ng doanh nghiệp" class="succinctTenTopJobs">B&#225;n h&#224;ng doanh nghiệp</a>
+                            <img src='../../img/newlk.gif' />
+                        <br />
+                        <span title="TẬP ĐO&#192;N C&#212;NG NGHIỆP - VIỄN TH&#212;NG QU&#194;N ĐỘI VIETTEL TP HỒ CH&#205; MINH" class="succinctTenCongTyTopJobs">TẬP ĐO&#192;N C&#212;NG NGHIỆP - VIỄN TH&#212;NG QU&#194;N ĐỘI VIETTEL TP HỒ CH&#205; MINH</span>
+                    </td>
+                    <td>
+                                <span>Hồ Ch&#237; Minh</span><br />
+                                <span>B&#236;nh Dương</span><br />
+                    </td>
+                    <td></td>
+                    <td>20/10/2025</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="/tuyen-dung/cham-soc-khach-hang" title="CHĂM S&#211;C KH&#193;CH H&#192;NG " class="succinctTenTopJobs">CHĂM S&#211;C KH&#193;CH H&#192;NG </a>
+                        <br />
+                        <span title="C&#212;NG TY TNHH MTV SẢN XUẤT - THƯƠNG MẠI - DỊCH VỤ BIWASE" class="succinctTenCongTyTopJobs">C&#212;NG TY TNHH MTV SẢN XUẤT - THƯƠNG MẠI - DỊCH VỤ BIWASE</span>
+                    </td>
+                    <td>
+                                <span>Hồ Ch&#237; Minh</span><br />
+                                <span>B&#236;nh Dương</span><br />
+                    </td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="/tuyen-dung/ho-tro-kho-xu-ly-du-lieu-va-in-an-chung-tu" title="Hỗ trợ kho xử l&#253; dữ liệu v&#224; in ấn chứng từ" class="succinctTenTopJobs">Hỗ trợ kho xử l&#253; dữ liệu v&#224; in ấn chứng từ</a>
+                        <br />
+                        <span title="C&#212;NG TY CP GIẢI PH&#193;P CHUỖI CUNG ỨNG COYOTE" class="succinctTenCongTyTopJobs">C&#212;NG TY CP GIẢI PH&#193;P CHUỖI CUNG ỨNG COYOTE</span>
+                    </td>
+                    <td>
+                                <span>Hồ Ch&#237; Minh</span><br />
+                                <span>B&#236;nh Dương</span><br />
+                    </td>
+                    <td></td>
+                    <td>30/11/2025</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="/tuyen-dung/nhan-vien-sales-ky-su-o-to" title="Nh&#226;n Vi&#234;n Sales - Kỹ sư &#212; T&#244;" class="succinctTenTopJobs">Nh&#226;n Vi&#234;n Sales - Kỹ sư &#212; T&#244;</a>
+                        <br />
+                        <span title="C&#212;NG TY TNHH TM DV &#212; T&#212; ĐỨC TR&#205;" class="succinctTenCongTyTopJobs">C&#212;NG TY TNHH TM DV &#212; T&#212; ĐỨC TR&#205;</span>
+                    </td>
+                    <td>
+                                <span>Hồ Ch&#237; Minh</span><br />
+                                <span>B&#236;nh Dương</span><br />
+                    </td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="/tuyen-dung/nhan-vien-co-khi-bao-tri" title="Nh&#226;n vi&#234;n cơ kh&#237;, bảo tr&#236;" class="succinctTenTopJobs">Nh&#226;n vi&#234;n cơ kh&#237;, bảo tr&#236;</a>
+                        <br />
+                        <span title="C&#212;NG TY TNHH NHỰA ĐẠT H&#210;A" class="succinctTenCongTyTopJobs">C&#212;NG TY TNHH NHỰA ĐẠT H&#210;A</span>
+                    </td>
+                    <td>
+                                <span>B&#236;nh Dương</span><br />
+                    </td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="/tuyen-dung/ke-toan-thue-part-time" title="Kế to&#225;n thuế part-time" class="succinctTenTopJobs">Kế to&#225;n thuế part-time</a>
+                        <br />
+                        <span title="C&#212;NG TY TNHH MTV HO&#192;NG L&#194;M B&#204;NH DƯƠNG" class="succinctTenCongTyTopJobs">C&#212;NG TY TNHH MTV HO&#192;NG L&#194;M B&#204;NH DƯƠNG</span>
+                    </td>
+                    <td>
+                                <span>B&#236;nh Dương</span><br />
+                    </td>
+                    <td></td>
+                    <td>31/10/2025</td>
+                </tr>
+
+        <tr>
+            <td colspan="4" style="text-align: center;">
+                Trang 1 / 122
+                <div class="pagination-container"><ul class="pagination"><li class="active"><a>1</a></li><li><a data-ajax="true" data-ajax-method="GET" data-ajax-mode="replace" data-ajax-update="#customer_area" href="/Home/GetPaging/?page=2">2</a></li><li><a data-ajax="true" data-ajax-method="GET" data-ajax-mode="replace" data-ajax-update="#customer_area" href="/Home/GetPaging/?page=3">3</a></li><li><a data-ajax="true" data-ajax-method="GET" data-ajax-mode="replace" data-ajax-update="#customer_area" href="/Home/GetPaging/?page=4">4</a></li><li><a data-ajax="true" data-ajax-method="GET" data-ajax-mode="replace" data-ajax-update="#customer_area" href="/Home/GetPaging/?page=5">5</a></li><li><a data-ajax="true" data-ajax-method="GET" data-ajax-mode="replace" data-ajax-update="#customer_area" href="/Home/GetPaging/?page=6">6</a></li><li><a data-ajax="true" data-ajax-method="GET" data-ajax-mode="replace" data-ajax-update="#customer_area" href="/Home/GetPaging/?page=7">7</a></li><li><a data-ajax="true" data-ajax-method="GET" data-ajax-mode="replace" data-ajax-update="#customer_area" href="/Home/GetPaging/?page=8">8</a></li><li><a data-ajax="true" data-ajax-method="GET" data-ajax-mode="replace" data-ajax-update="#customer_area" href="/Home/GetPaging/?page=9">9</a></li><li><a data-ajax="true" data-ajax-method="GET" data-ajax-mode="replace" data-ajax-update="#customer_area" href="/Home/GetPaging/?page=10">10</a></li><li class="disabled PagedList-ellipses"><a>&#8230;</a></li><li class="PagedList-skipToNext"><a data-ajax="true" data-ajax-method="GET" data-ajax-mode="replace" data-ajax-update="#customer_area" href="/Home/GetPaging/?page=2" rel="next">»</a></li><li class="PagedList-skipToLast"><a data-ajax="true" data-ajax-method="GET" data-ajax-mode="replace" data-ajax-update="#customer_area" href="/Home/GetPaging/?page=122">»»</a></li></ul></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+</div>
+
+                <br />
+                
+<h3 class="title">NGƯỜI TÌM VIỆC</h3>
+<div id="viecTimNguoi">
+
+
+<table class="table table-striped table-content">
+    <thead>
+        <tr>
+            <th colspan="2">Hồ sơ ứng viên mới nhất</th>
+            
+
+        </tr>
+    </thead>
+    <tbody>
+                <tr>
+                    <td>
+                        <a href="/ung-vien/nguyen-tran-dong-duong0937530723" style="font-size: 17px; font-weight: bold">nh&#226;n vi&#234;n Điện C&#244;ng Nghiệp</a>
+                        <br />
+                        <span><i class="fa fa-user-o" aria-hidden="true"></i> Nguyễn Trần Đ&#244;ng Dương</span>
+                        <br />
+                        <span><i class="fa fa-clock-o" aria-hidden="true"></i> Ngày đăng: 04/10/2023</span>
+                    </td>
+                    <td style="text-align: right;">
+                        <span>Kinh nghiệm: </span><br />
+                            <i class="fa fa-map-marker" aria-hidden="true"></i>
+                                    <span>B&#236;nh Dương</span>
+
+                    </td>
+                    
+                    
+                </tr>
+
+        <tr>
+            <td colspan="4" style="text-align: center;">
+                Trang 1 / 1
+                <div class="pagination-container"><ul class="pagination"><li class="active"><a>1</a></li></ul></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+</div>
+
+            </div>
+            <div class="col-md-4">
+                
+<h3 style="border-left: 5px solid #422774; padding-left:5px; font-weight:700">KHẢO SÁT TRỰC TUYẾN</h3>
+<ul class="nav nav-tabs">
+    <li class="active"><a data-toggle="tab" href="#home">Trực tuyến</a></li>
+    <li><a data-toggle="tab" href="#menu1">V2Work</a></li>
+</ul>
+
+<div class="tab-content">
+    <div id="home" class="tab-pane fade in active">
+        <div class="phanhai">
+            <div class="row">
+                <div class="col-md-12 thongtin" style="margin-top: 10px;">
+                            <a class="hvr-shutter-in-horizontal" href="https://forms.gle/LRjWLVBwVom5XyqM6" target="_blank"><div class="khoitt" style="text-transform: uppercase">ĐĂNG K&#221; TUYỂN DỤNG D&#192;NH CHO DOANH NGHIỆP</div></a><br /><br />
+                            <a class="hvr-shutter-in-vertical" href="https://forms.gle/RmhQqwL6knrK8RvN9" target="_blank"><div class="khoitt" style="text-transform: uppercase">ĐĂNG K&#221; T&#204;M VIỆC L&#192;M D&#192;NH CHO ỨNG VI&#202;N</div></a><br /><br />
+                            <a class="hvr-shutter-in-horizontal" href="https://forms.gle/P83skav7hfaoBXCL8" target="_blank"><div class="khoitt" style="text-transform: uppercase">PHIẾU LẤY &#221; KIẾN NH&#192; SỬ DỤNG LAO ĐỘNG VỀ NGƯỜI LAO ĐỘNG L&#192; SINH VI&#202;N CỦA TRƯỜNG</div></a><br /><br />
+                            <a class="hvr-shutter-in-vertical" href="https://forms.gle/KHRP452apxW4X1dF6" target="_blank"><div class="khoitt" style="text-transform: uppercase">ĐĂNG K&#221; CỰU SINH VI&#202;N</div></a><br /><br />
+                            <a class="hvr-shutter-in-horizontal" href="https://forms.gle/Rgd97v3rtkDBzAxd6" target="_blank"><div class="khoitt" style="text-transform: uppercase">PHIẾU KHẢO S&#193;T VỀ T&#204;NH H&#204;NH VIỆC L&#192;M CỦA SINH VI&#202;N Đ&#195; TỐT NGHIỆP</div></a><br /><br />
+                            <a class="hvr-shutter-in-vertical" href="https://forms.gle/YgkAw8sRBdi2X2Kz7" target="_blank"><div class="khoitt" style="text-transform: uppercase">PHIẾU KHẢO S&#193;T NHU CẦU TUYỂN DỤNG LAO ĐỘNG CỦA CƠ QUAN/DOANH NGHIỆP</div></a><br /><br />
+                            <a class="hvr-shutter-in-horizontal" href="https://forms.gle/c7n8kZvGPSYoKrBdA" target="_blank"><div class="khoitt" style="text-transform: uppercase">Khảo s&#225;t t&#236;nh h&#236;nh việc l&#224;m của sinh vi&#234;n tốt nghiệp đợt th&#225;ng 03/2022 (Sau 3-6th)</div></a><br /><br />
+                            <a class="hvr-shutter-in-vertical" href="https://docs.google.com/forms/d/e/1FAIpQLSdf6mhsbM-36L0oHlH9kOBh6L31cjDxDKISpy_7ek8u4SQI0w/viewform" target="_blank"><div class="khoitt" style="text-transform: uppercase">Phiếu đ&#225;nh gi&#225; sự h&#224;i l&#242;ng của sinh vi&#234;n về dịch vụ tại Trung t&#226;m Hợp t&#225;c Doanh nghiệp v&#224; Khởi nghiệp</div></a><br /><br />
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="menu1" class="tab-pane fade">
+        <div class="phanhai">
+            <div class="row">
+                <div class="col-md-12 thongtin" style="margin-top: 10px;">
+                            <a class="hvr-shutter-in-horizontal" href="https://www.surveymonkey.com/r/V2WESVIT" target="_blank"><div class="khoitt">D&#192;NH CHO C&#212;NG TY</div></a><br /><br />
+                            <a class="hvr-shutter-in-vertical" href="https://www.surveymonkey.com/r/V2WCCHMSVIT" target="_blank"><div class="khoitt">D&#192;NH CHO C&#193;N BỘ TRUNG T&#194;M HƯỚNG NGHIỆP</div></a><br /><br />
+                            <a class="hvr-shutter-in-horizontal" href="https://www.surveymonkey.com/r/V2TSGVIT" target="_blank"><div class="khoitt">D&#192;NH CHO SINH VI&#202;N, CỰU SINH VI&#202;N</div></a><br /><br />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+            </div>
+        </div>
+    </div>
+    <br />
+    <div class="section3">
+        <div class="row">
+            <div class="col-md-12 columns">
+    <div class="owl-carousel owl-theme">
+            <div class="item">
+                <a href="hhttps://www.pavietnam.vn" target="_blank" title="C&#212;NG TY P.A VIỆT NAM" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/98c2b1fe-1db1-486c-8716-be265a9340c4.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#244;ng ty GỖ T&#226;n Vĩnh Nghĩa" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/de2c2be0-97e2-42ec-b819-7f45c908010d.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="http://tdmuflc.edu.vn/" target="_blank" title="TRUNG T&#194;M NGOẠI NGỮ ĐẠI HỌC THỦ DẦU MỘT" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/4d54acc7-02e4-4712-ac5b-96906f193236.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a target="_blank" title="a" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/18256b22-9de6-4107-968b-9bb0f9cc8249.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="https://www.fpt.vn/" target="_blank" title="FPT Telecom" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/72ba909b-ba56-4f49-ada0-c96656a52162.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a target="_blank" title="C&#244;ng ty TNHH Vision International" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/c67430fa-dd2a-45b4-b7a3-e4b346a9f335.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#244;ng ty Diamond" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/9fbf3efa-46c4-46e3-84be-466ab9e4f572.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="http://vieclambinhduong.vn/" target="_blank" title="Trung t&#226;m Dịch vụ việc l&#224;m tỉnh B&#236;nh Dương" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/3acf7bb7-c110-4b2e-8689-f80d4aa9d24a.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#212;NG TY TNHH MERCURY ADVANCED MATERIALS " style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/820941a5-1704-4155-85e0-ca74d73ad3d2.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="http://honchuanvietnam.com/" target="_blank" title="C&#244;ng ty TNHH Hon Chuan Vietnam" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/9b5a60c9-cfb2-49df-839f-9463706f0e37.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="https://www.cp.com.vn" target="_blank" title="C&#244;ng ty Cổ phần Chăn nu&#244;i C.P Việt Nam" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/bdbe891c-18ee-4bba-81f3-da04cd01c981.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#244;ng ty Clearwater" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/a10db454-3e76-44ca-b9c1-c6807ce5ec1e.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="http://www.wse-vn.com" target="_blank" title="C&#244;ng ty WONDERFUL S&#192;I G&#210;N" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/3c964012-49dd-46df-8b10-ea4a482c3617.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="http://www.baosteel.com" target="_blank" title="Baosteel Group" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/30720363-33bf-44d7-baf1-9ae300eead43.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#244;ng ty Triệu Quang Minh" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/fd6f1fc1-3aab-4d77-889a-50285e27f0df.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#212;NG TY TNHH CHENG NENG" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/5e5b4455-ce28-48fa-8545-56c9391ad80f.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="ACE POWER Co.,LTD" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/84c7d35a-4016-452a-b7a6-b1ee1e4d65c5.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#244;ng ty Nhật Việt" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/2c8addae-cd43-4180-9233-1a3220fdfac3.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#244;ng Ty TNHH Việt nam E.C.I. ELASTIC" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/30b1dc32-b082-489b-aecf-e3333da8f6fc.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="https://fptshop.com.vn/" target="_blank" title="FPT Shop" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/21b060be-ca57-4637-a249-ff4d4e057832.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#244;ng Ty TNHH A-Pro Technology" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/c5efb40c-9723-440a-87f4-77c8c980c978.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#212;NG ty TNHH TH&#201;P V&#192; X&#194;Y DỰNG TỰ LỰC" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/a442a757-097d-45e0-a2a8-f3f6e151d1c0.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#244;ng ty VISTARR" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/8dd1e777-a024-4c7b-a433-825ca7a1b0a7.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#244;ng ty Kolon" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/da65ea44-981c-46cc-bba7-f60fc740cb71.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="Vision International Co., LTD" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/1105abd3-3219-4904-b7fd-96692f2c178a.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="http://vus.edu.vn/" target="_blank" title="Anh Văn Hội Việt Mỹ" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/fd18884a-3689-4bf1-9e9a-c1dd06a87ae7.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="http://nemkimcuong.vn" target="_blank" title="Nệm Kim Cương" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/118d25fa-9829-41a3-a201-7ac71607450d.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="http://www.kimhoanghiep.com/" target="_blank" title="C&#244;ng ty Kim Ho&#224;ng Hiệp" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/6adfd739-fbcc-4d34-9ac9-00800f6e4d6e.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#244;ng ty Sunrise" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/1903933b-42e9-4ed0-a870-e791c32cc067.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="http://chinli.com.vn" target="_blank" title="C&#244;ng ty Nhựa ChinLi" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/ac7adae5-9d14-42d8-b7a1-4f71c8d3ff9e.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#244;ng ty Esquel Garment" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/01008a77-f806-45de-8b42-8b3688e8da38.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#212;NG TY TNHH POLYTEX FAR EASTERN (VIỆT NAM)" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/461f5d03-465b-4bb3-9dfe-94659091d9b1.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="S&#226;n Golf Ph&#250; Mỹ" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/0c902232-56aa-40c2-90f3-4e16f1112734.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="http://tma.vn/" target="_blank" title="TMA Solutions" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/135287aa-cfb5-433d-b6ca-9ba35cd848cf.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#244;ng ty Apparel Far Easten" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/0d0b7b2f-5c4c-40dd-b646-107cc51b34fa.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#244;ng ty New Food Choice" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/40f19759-fdd4-4b26-8a59-d3cce8bacb72.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#244;ng ty ANTY" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/05651d57-32cf-4e79-865f-8732a9f8bc44.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#212;NG TY TNHH CN TUNG SHIN" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/a60c9a18-688a-4618-b202-a4bf5773d39c.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="https://www.homecredit.vn/" target="_blank" title="Home Credit" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/cfa01452-0c71-49d9-a0a1-89e52a04d615.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#244;ng ty Lumens" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/c87ccaa8-02fd-47d4-a3c4-4a0f4fb9103a.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#244;ng ty Can Sport" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/93ed8fe6-8aae-422c-9981-9a67d0b687b6.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#212;NG TY TNHH CHENG LOONG B&#204;NH DƯƠNG PAPER" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/88bbdca1-bbcb-40bf-b504-5732238ea48d.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#244;ng ty Một Cửa Quốc Gia" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/aa30d379-4799-4e50-a0f3-927d1e0ac473.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a target="_blank" title="C&#212;NG TY TNHH CHAIN YARN VIỆT NAM" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/18852ed7-78ca-4465-80b6-a20b072d66f6.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#244;ng ty KingTec" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/f5104f8d-5584-4ae5-98fb-9c350862f7fd.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#244;ng ty H&#243;a Dầu MeKong" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/270995da-a005-46b4-a16b-1a065d494434.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="https://www.asuzac-acm.com.vn/" target="_blank" title="C&#212;NG TY TNHH ASUZAC ACM" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/f1a73e45-f032-4caf-8cc8-d9b5e69d7966.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="http://www.biwase.com.vn/" target="_blank" title="C&#244;ng ty Cồ phần nước- M&#244;i Trường B&#236;nh Dương" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/6df14fb4-af97-440e-989e-32267c84a1ed.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="https://www.facebook.com/Polytex2016/" target="_blank" title="C&#244;ng ty TNHH Polytex Far Eastern Việt Nam" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/36bb54ec-2b78-4526-95bc-27fcc452a7ea.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#212;NG TY TNHH PRO ACTIVE GLOBAL VIỆT NAM" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/08255583-54ab-4ecc-947f-128f6dda44a7.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="http://www.daihoabinhduong.com/" target="_blank" title="C&#212;NG TY TNHH ĐẠI HOA" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/402116c1-09d0-491f-a25c-75502225ddb4.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="C&#244;ng ty Giấy Ch&#225;nh Dương" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/486586d9-6f81-4e75-a8ac-69ceae566b29.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="https://www.vietteltelecom.vn/" target="_blank" title="Tập đo&#224;n Viễn th&#244;ng Qu&#226;n đội" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/9bab5fa8-66f8-4b1f-9c6d-eec8f3df3b54.jpg" />
+                </a>
+            </div>
+            <div class="item">
+                <a href="#" target="_blank" title="VIETNAM ROBERTSON  NEW  BUILDING  MATERIAL COMPANY" style="color:black;">
+                    <img class="img-responsive" src="https://ttdvk.tdmu.edu.vn/img/ckeditor/Images/thumbs/caaeeb14-8c1c-428d-89bb-e088bd3dc4c3.jpg" />
+                </a>
+            </div>
+    </div>
+</div>
+<script src="/Scripts/jquery.min.js"></script>
+<script src="/Scripts/owl.carousel.min.js"></script>
+<script>
+    var owl = $('.owl-carousel');
+    owl.owlCarousel({
+        //items: 8,
+        loop: true,
+        margin: 20,
+        autoplay: true,
+        autoplayTimeout: 3000,
+        autoplayHoverPause: true,
+        responsiveClass: true,
+        responsive: {
+            0: {
+                items: 1,
+                nav: false
+            },
+            600: {
+                items: 3,
+                nav: false
+            },
+            1000: {
+                items: 8,
+                loop: false
+            }
+        }
+    });
+</script>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+    
+
+
+
+<footer>
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                <ul class="adress">
+                    <span>ĐỊA CHỈ</span>
+                    <li>
+                        <p><i class="fa fa-home"></i> Số 06, Trần Văn Ơn, Phường Ph&#250; Lợi, TP Hồ Ch&#237; Minh</p>
+                    </li>
+
+                    <li>
+                        <p><i class="fa fa-envelope-open"></i> ttdvk@tdmu.edu.vn</p>
+                    </li>
+
+                    <li>
+                        <p style="color: #fff !important"><i class="fa fa-phone"></i> (0274)  3865866</p>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                <ul class="contact">
+                    <span>Giới thiệu</span>
+                    <li>
+                        <a href="/bai-viet/gioi-thieu-chung">Giới thiệu chung</a>
+                    </li>
+
+                    <li>
+                        <a href="/bai-viet/chuc-nang-nhiem-vu">Chức năng - nghiệm vụ</a>
+                    </li>
+
+                    <li>
+                        <a href="/bai-viet/co-cau-to-chuc">Cơ cấu tổ chức</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                <ul class="contact">
+                    <span>Tin tức</span>
+                    <li>
+                        <a href="/danh-muc/tin-tuc-1">Tin tổng hợp</a>
+                    </li>
+
+                    <li>
+                        <a href="/danh-muc/khoi-nghiep-1">Khởi nghiệp</a>
+                    </li>
+
+                    <li>
+                        <a href="/danh-muc/tu-van-huong-nghiep">Tư vấn hướng nghiệp</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                <ul class="social">
+                    <span>Social</span>
+                    <li>
+                        <a href="https://www.facebook.com/trungtamthitruonglaodong" target="_blank">
+                            <i class="fa fa-facebook-official fa-2x"></i>
+                            Trung t&#226;m Dịch vụ, Hợp t&#225;c Doanh nghiệp v&#224; Khởi Nghiệp
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="https://www.facebook.com/khoinghiepTDMU" target="_blank">
+                            <i class="fa fa-facebook-official fa-2x"></i>
+                            Khởi nghiệp TDMU
+                        </a>
+                    </li>
+
+                    
+                </ul>
+                <ul class="social">
+                    <li style="color: #fff">
+                        Đang truy cập: 19 <br />
+                        Tổng lượt truy cập: 3213110
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+    <script src="/bundles/jsWeb2017?v=RHqCRco5ViGnvzVhFoyPVki7k9CFjPu2gdJZUByocY81"></script>
+
+    
+    <script async src="/Scripts/owl.carousel.min.js"></script>
+    <script type="text/javascript">
+        function resizeIframe(obj) {
+            obj.style.height = $('#pageCount').val() * 1450 + "px";
+        }
+    </script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-99330000-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+    <script>
+        $(document).ready(function () {
+            var owl = $('.cocautochuc');
+            owl.owlCarousel({
+                items: 3,
+                loop: true,
+                margin: 10,
+                autoplay: true,
+                rows: true,
+                rowsCount: 2, // 3,5,6 ...
+                autoplayTimeout: 5000,
+                autoplayHoverPause: false,
+                smartSpeed: 3000,
+                responsiveClass: true,
+                responsive: {
+                    0: {
+                        items: 3,
+                        nav: false
+                    },
+                    600: {
+                        items: 3,
+                        nav: false,
+                        loop: true
+                    }
+                }
+            });
+        })
+    </script>
+
+    <script>
+        /*
+
+      Suga Slider
+
+      Usage ---------
+
+      $(window).load(function(){
+        $('#logos').suga({
+          'transitionSpeed': 2000,
+          'snap': false
+        });
+      });
+
+      The markup should resemble the markup here
+
+      */
+
+        $.fn.suga = function (options) {
+            var settings = $.extend({
+                'transitionSpeed': 3000,
+                'snap': false
+            }, options);
+
+            var $this = $(this);
+
+            // add plugin specific classes
+            $this.addClass('suga-slider-wrap');
+            $this.children('ul').addClass('suga-slider-group');
+            $this.find('li').addClass('suga-slide');
+
+            // caching $$$
+            var $slide = $('.suga-slide'),
+                $firstEl = $('.suga-slide:first'),
+                $group = $('.suga-slider-group'),
+                $wrap = $('.suga-slider-wrap');
+
+            var slideWidth = $slide.outerWidth(),
+                slideHeight = $('.suga-slide').height(),
+                slideCount = $slide.length,
+                totalWidth = slideWidth * slideCount;
+
+            // set width on group element
+            $group.width(totalWidth);
+            $wrap.height(slideHeight);
+            $wrap.wrap('<div class="suga-container"></div>');
+
+            // add first class at start
+            if (!$group.find($firstEl).hasClass("suga-first")) {
+                $group.find($firstEl).addClass("suga-first");
+            }
+
+            // lets move baby
+            var transitionSnap = function () {
+                var $firstEl = $group.find('.suga-first').html();
+
+                $group.find('.suga-first').animate({
+                    'margin-left': '-' + slideWidth + 'px'
+                }, function () {
+                    $group.append('<li class="suga-slide">' + $firstEl + '</li>');
+                    $(this).remove();
+                    $group.find('li:first').addClass("suga-first");
+
+                });
+            };
+
+            var transitionScroll = function () {
+                var $firstEl = $group.find('.suga-first').html();
+
+                $group.find('.suga-first').animate({
+                    'margin-left': '-' + slideWidth + 'px'
+                }, settings.transitionSpeed, 'linear', function () {
+                    $group.append('<li class="suga-slide">' + $firstEl + '</li>');
+                    $(this).remove();
+                    $group.find('li:first').addClass("suga-first");
+                    transitionScroll();
+                });
+            };
+
+            if (settings.snap) {
+                window.setInterval(transitionSnap, settings.transitionSpeed);
+            } else {
+                transitionScroll();
+            }
+        }
+
+        $(window).load(function () {
+            $('#logos').suga({
+                'transitionSpeed': 2000,
+                'snap': true
+            });
+        });
+    </script>
+
+    <script defer>
+        $(document).ready(function () {
+            $('.succinctMT').succinct({
+                size: 180
+            });
+
+            $('.succinctTenTopJobs').succinct({
+                size: 45
+            });
+
+            $('.succinctTenCongTyTopJobs').succinct({
+                size: 35
+            });
+        })
+    </script>
+
+    <!-- Load Facebook SDK for JavaScript -->
+    <div id="fb-root"></div>
+    <script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+</body>
+</html>

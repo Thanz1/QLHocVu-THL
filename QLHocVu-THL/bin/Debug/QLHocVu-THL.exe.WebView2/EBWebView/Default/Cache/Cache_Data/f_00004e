@@ -1,0 +1,482 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <title>
+        Trung t&#226;m Dịch vụ, Hợp t&#225;c Doanh nghiệp v&#224; Khởi Nghiệp
+ - Trung Tâm Dịch Vụ, Hợp Tác Doanh Nghiệp Và Khởi Nghiệp    </title>
+
+    <meta property="og:url" />
+    <meta property="og:type" />
+    <meta property="og:title" content="Trung T&#226;m Dịch Vụ, Hợp T&#225;c Doanh Nghiệp V&#224; Khởi Nghiệp" />
+    <meta property="og:description" />
+    <meta property="og:image" />
+
+    <link href="/Content/cssWeb2017v1?v=QCQKEJ6En6ye0Sr7dXSn9x3XhBz8tQ93bOcp9vTVXrk1" rel="stylesheet"/>
+
+</head>
+<body>
+
+    
+
+<style>
+    @media only screen and (max-width: 1024px) {
+        .text-banner {
+            display: none !important;
+        }
+    }
+</style>
+<header style="height: 120px">
+    <div class="container-fluid">
+        <div style="position: relative; z-index: 1000">
+            <div class="col-md-5" id="logo">
+                <a href="/" class="the-a-full"></a>
+            </div>
+
+            <div class="col-md-1 v2work">
+                <a target="_blank" href="https://www.v2work.eu/" class="the-a-full" style="width: 100%;height: 100%;"></a>
+            </div>
+            <div class="col-md-2 logo-ngoisao">
+            </div>
+            <div class="col-md-1 logo-vees-net">
+                <a target="_blank" href="http://vees-net.com/vi/" class="the-a-full" style="width: 100%;height: 100%;"></a>
+            </div>
+            <div class="col-md-3 ts2">
+            </div>
+        </div>
+    </div>
+    <img class="img-responsive" src="/img/logo_2024.png" />
+    <marquee style="font-weight:700;color: blue;font-size: 1.5rem;">
+        Trung t&#226;m Dịch vụ, Hợp t&#225;c Doanh nghiệp v&#224; Khởi Nghiệp - Trường Đại học Thủ Dầu Một được dự án V2work hỗ trợ phát triển, đồng tài trợ bởi Hội đồng chung châu Âu (EU) trong chương trình Erasmus+, với hợp đồng số 586252-EPP-1-2017-1-ES-EPPKA2-CBHE-SP.
+    </marquee>
+</header>
+    
+
+<nav class="navbar navbar-inverse navbar-static-top">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                        <li>
+                            <a href="/">Trang chủ </a>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Giới thiệu <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu multi-level">
+                                        <li><a class="dropdown-item" href="/bai-viet/gioi-thieu-chung">Giới thiệu chung</a></li>
+                                        <li><a class="dropdown-item" href="/bai-viet/chuc-nang-nhiem-vu">Chức năng - Nhiệm vụ</a></li>
+                                        <li><a class="dropdown-item" href="/bai-viet/co-cau-to-chuc">Cơ cấu tổ chức</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Việc l&#224;m -  thực tập <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu multi-level">
+                                        <li><a class="dropdown-item" href="https://cece.tdmu.edu.vn/#viecLamMoi">Việc l&#224;m mới</a></li>
+                                        <li><a class="dropdown-item" href="#">Ứng vi&#234;n</a></li>
+                                        <li><a class="dropdown-item" href="#">Đăng tin tuyển dụng</a></li>
+                                        <li><a class="dropdown-item" href="#">Đăng tin t&#236;m việc</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Kết nối Doanh nghiệp <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu multi-level">
+                                        <li class="dropdown-submenu">
+                                            <a class="dropdown-toggle" href="#" data-toggle="dropdown">Danh mục Doanh nghiệp</a>
+                                            <ul class="dropdown-menu">
+                                                    <li><a href="/bai-viet/giao-duc">Gi&#225;o dục</a></li>
+                                                    <li><a href="/bai-viet/san-xuat-ky-thuat">Sản xuất, kỹ thuật</a></li>
+                                                    <li><a href="/bai-viet/dich-vu">Dịch vụ</a></li>
+                                                    <li><a href="/bai-viet/cong-nghe-thong-tin">C&#244;ng nghệ th&#244;ng tin</a></li>
+                                                    <li><a href="/bai-viet/tai-chinh">T&#224;i ch&#237;nh</a></li>
+                                                    <li><a href="/bai-viet/khac">Kh&#225;c</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a class="dropdown-item" href="/danh-muc/du-an-quoc-te-1">Dự &#225;n Quốc tế</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Khởi nghiệp <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu multi-level">
+                                        <li><a class="dropdown-item" href="/danh-muc/du-an-v2work">Dự &#225;n V2Work</a></li>
+                                        <li><a class="dropdown-item" href="/danh-muc/tai-lieu">T&#224;i liệu</a></li>
+                                        <li><a class="dropdown-item" href="http://dean844.most.gov.vn/">Đề &#225;n 844</a></li>
+                                        <li><a class="dropdown-item" href="https://dean1665.vn/">Cổng th&#244;ng tin hỗ trợ HSSV Khởi nghiệp</a></li>
+                                        <li><a class="dropdown-item" href="http://startup.gov.vn">Cổng th&#244;ng tin KNĐMST Quốc gia</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="https://cece.tdmu.edu.vn/lienhe/create">G&#243;p &#253; </a>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Văn bản <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu multi-level">
+                                        <li><a class="dropdown-item" href="/danh-muc/van-ban-1">Văn bản trung t&#226;m</a></li>
+                                        <li><a class="dropdown-item" href="/danh-muc/bao-cao-viec-lam">B&#225;o c&#225;o Việc l&#224;m</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="/danh-muc/lich-cong-tac-1">Lịch c&#244;ng t&#225;c </a>
+                        </li>
+                        <li>
+                            <a href="/bai-viet/bieu-mau">Biểu mẫu </a>
+                        </li>
+            </ul>
+        </div><!--/.nav-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+<script src="/Scripts/jquery.min.js"></script>
+<script>
+    $(".dropdown-submenu").click(function (event) {
+        // stop bootstrap.js to hide the parents
+        event.stopPropagation();
+        // hide the open children
+        $(this).find(".dropdown-submenu").removeClass('open');
+        // add 'open' class to all parents with class 'dropdown-submenu'
+        $(this).parents(".dropdown-submenu").addClass('open');
+        // this is also open (or was)
+        $(this).toggleClass('open');
+    });
+</script>
+
+
+
+
+
+    
+
+    
+<style>
+        .img-center {
+            margin: auto;
+            max-width: 95%;
+            margin-top: 30px;
+            margin-bottom: 20px;
+        }
+    </style>
+
+<div class="container">
+    <div class="row">
+        <ol class="breadcrumb" style="margin-right:0;">
+            <li><a href="/">Trang chủ</a></li>
+            <li class="active"><span>Biểu mẫu</span></li>
+        </ol>
+        <div class="col-md-12">
+            <h1>Biểu mẫu</h1>
+            <span>
+                <i class="fa fa-clock-o"></i>29/05/2025 04:08  &nbsp;&nbsp;&nbsp;
+                <i class="fa fa-eye"></i> 486
+            </span>
+            <div class="noidungbaidang">
+                
+            </div>
+        </div>
+
+        
+    </div>
+</div>
+
+<script async src="/Scripts/jquery-3.1.1.min.js"></script>
+<script>
+    $(document).ready(function () {
+        //$('img').removeAttr('style');
+
+        //$('img').addClass('img-center');
+        //$('img').addClass('img-responsive');
+        if ($("#myFrame").length > 0) {
+            var resInterval = setInterval(function () {
+                if ($("#myFrame").contents().find("#pdfHeight").val() != "") {
+                    var hgt = 0;
+                    hgt = $("#myFrame").contents().find("#pdfHeight").val() * 1;
+                    $("#myFrame").css({ "height": hgt + "px" }).fadeTo('10');
+                }
+            }, 75);
+        }
+    });
+    function resizeIframe(obj) {
+        obj.style.height = $('#pageCount').val() * 1200 + "px";
+    }
+</script>
+
+    
+
+
+
+<footer>
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                <ul class="adress">
+                    <span>ĐỊA CHỈ</span>
+                    <li>
+                        <p><i class="fa fa-home"></i> Số 06, Trần Văn Ơn, Phường Ph&#250; Lợi, TP Hồ Ch&#237; Minh</p>
+                    </li>
+
+                    <li>
+                        <p><i class="fa fa-envelope-open"></i> ttdvk@tdmu.edu.vn</p>
+                    </li>
+
+                    <li>
+                        <p style="color: #fff !important"><i class="fa fa-phone"></i> (0274)  3865866</p>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                <ul class="contact">
+                    <span>Giới thiệu</span>
+                    <li>
+                        <a href="/bai-viet/gioi-thieu-chung">Giới thiệu chung</a>
+                    </li>
+
+                    <li>
+                        <a href="/bai-viet/chuc-nang-nhiem-vu">Chức năng - nghiệm vụ</a>
+                    </li>
+
+                    <li>
+                        <a href="/bai-viet/co-cau-to-chuc">Cơ cấu tổ chức</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                <ul class="contact">
+                    <span>Tin tức</span>
+                    <li>
+                        <a href="/danh-muc/tin-tuc-1">Tin tổng hợp</a>
+                    </li>
+
+                    <li>
+                        <a href="/danh-muc/khoi-nghiep-1">Khởi nghiệp</a>
+                    </li>
+
+                    <li>
+                        <a href="/danh-muc/tu-van-huong-nghiep">Tư vấn hướng nghiệp</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                <ul class="social">
+                    <span>Social</span>
+                    <li>
+                        <a href="https://www.facebook.com/trungtamthitruonglaodong" target="_blank">
+                            <i class="fa fa-facebook-official fa-2x"></i>
+                            Trung t&#226;m Dịch vụ, Hợp t&#225;c Doanh nghiệp v&#224; Khởi Nghiệp
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="https://www.facebook.com/khoinghiepTDMU" target="_blank">
+                            <i class="fa fa-facebook-official fa-2x"></i>
+                            Khởi nghiệp TDMU
+                        </a>
+                    </li>
+
+                    
+                </ul>
+                <ul class="social">
+                    <li style="color: #fff">
+                        Đang truy cập: 19 <br />
+                        Tổng lượt truy cập: 3213110
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+    <script src="/bundles/jsWeb2017?v=RHqCRco5ViGnvzVhFoyPVki7k9CFjPu2gdJZUByocY81"></script>
+
+    
+    <script async src="/Scripts/owl.carousel.min.js"></script>
+    <script type="text/javascript">
+        function resizeIframe(obj) {
+            obj.style.height = $('#pageCount').val() * 1450 + "px";
+        }
+    </script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-99330000-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+    <script>
+        $(document).ready(function () {
+            var owl = $('.cocautochuc');
+            owl.owlCarousel({
+                items: 3,
+                loop: true,
+                margin: 10,
+                autoplay: true,
+                rows: true,
+                rowsCount: 2, // 3,5,6 ...
+                autoplayTimeout: 5000,
+                autoplayHoverPause: false,
+                smartSpeed: 3000,
+                responsiveClass: true,
+                responsive: {
+                    0: {
+                        items: 3,
+                        nav: false
+                    },
+                    600: {
+                        items: 3,
+                        nav: false,
+                        loop: true
+                    }
+                }
+            });
+        })
+    </script>
+
+    <script>
+        /*
+
+      Suga Slider
+
+      Usage ---------
+
+      $(window).load(function(){
+        $('#logos').suga({
+          'transitionSpeed': 2000,
+          'snap': false
+        });
+      });
+
+      The markup should resemble the markup here
+
+      */
+
+        $.fn.suga = function (options) {
+            var settings = $.extend({
+                'transitionSpeed': 3000,
+                'snap': false
+            }, options);
+
+            var $this = $(this);
+
+            // add plugin specific classes
+            $this.addClass('suga-slider-wrap');
+            $this.children('ul').addClass('suga-slider-group');
+            $this.find('li').addClass('suga-slide');
+
+            // caching $$$
+            var $slide = $('.suga-slide'),
+                $firstEl = $('.suga-slide:first'),
+                $group = $('.suga-slider-group'),
+                $wrap = $('.suga-slider-wrap');
+
+            var slideWidth = $slide.outerWidth(),
+                slideHeight = $('.suga-slide').height(),
+                slideCount = $slide.length,
+                totalWidth = slideWidth * slideCount;
+
+            // set width on group element
+            $group.width(totalWidth);
+            $wrap.height(slideHeight);
+            $wrap.wrap('<div class="suga-container"></div>');
+
+            // add first class at start
+            if (!$group.find($firstEl).hasClass("suga-first")) {
+                $group.find($firstEl).addClass("suga-first");
+            }
+
+            // lets move baby
+            var transitionSnap = function () {
+                var $firstEl = $group.find('.suga-first').html();
+
+                $group.find('.suga-first').animate({
+                    'margin-left': '-' + slideWidth + 'px'
+                }, function () {
+                    $group.append('<li class="suga-slide">' + $firstEl + '</li>');
+                    $(this).remove();
+                    $group.find('li:first').addClass("suga-first");
+
+                });
+            };
+
+            var transitionScroll = function () {
+                var $firstEl = $group.find('.suga-first').html();
+
+                $group.find('.suga-first').animate({
+                    'margin-left': '-' + slideWidth + 'px'
+                }, settings.transitionSpeed, 'linear', function () {
+                    $group.append('<li class="suga-slide">' + $firstEl + '</li>');
+                    $(this).remove();
+                    $group.find('li:first').addClass("suga-first");
+                    transitionScroll();
+                });
+            };
+
+            if (settings.snap) {
+                window.setInterval(transitionSnap, settings.transitionSpeed);
+            } else {
+                transitionScroll();
+            }
+        }
+
+        $(window).load(function () {
+            $('#logos').suga({
+                'transitionSpeed': 2000,
+                'snap': true
+            });
+        });
+    </script>
+
+    <script defer>
+        $(document).ready(function () {
+            $('.succinctMT').succinct({
+                size: 180
+            });
+
+            $('.succinctTenTopJobs').succinct({
+                size: 45
+            });
+
+            $('.succinctTenCongTyTopJobs').succinct({
+                size: 35
+            });
+        })
+    </script>
+
+    <!-- Load Facebook SDK for JavaScript -->
+    <div id="fb-root"></div>
+    <script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+</body>
+</html>

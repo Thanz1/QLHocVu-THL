@@ -1,0 +1,1584 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Ban Tuyển sinh v&#224; truyền th&#244;ng</title>
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link href="/Content/cssWeb2017?v=RaYBTkEofp88CjNQLXZrC_vOXUB-BRV8hqOb9z324ik1" rel="stylesheet"/>
+
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+    <link rel="canonical" href="https://tuyensinh.tdmu.edu.vn/" />
+    <meta property="facebook:title" content="Ban Tuyển sinh v&#224; truyền th&#244;ng" />
+    <meta property="facebook:url" content="https://tuyensinh.tdmu.edu.vn/" />
+    <meta property="facebook:image" content="https://tuyensinh.tdmu.edu.vn/img/brand/Logo_tdmu_2024_seo_v2.png" />
+    <meta property="og:title" content="Ban Tuyển sinh v&#224; truyền th&#244;ng" />
+    <meta property="og:url" content="https://tuyensinh.tdmu.edu.vn/" />
+    <meta property="og:image" content="https://tuyensinh.tdmu.edu.vn/img/brand/Logo_tdmu_2024_seo_v2.png" />
+    <meta property="og:image:secure_url" content="https://tuyensinh.tdmu.edu.vn/img/brand/Logo_tdmu_2024_seo_v2.png" />
+    <meta property="og:image:secure_url" content="https://tuyensinh.tdmu.edu.vn/img/brand/Logo_tdmu_2024_seo_v2.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:type" content="Education" />
+</head>
+<body>
+    <style>
+        .fix {
+            position: fixed;
+            bottom: 0;
+            z-index: 9000;
+            left: 50%;
+            transform: translate(-50%, 0);
+        }
+
+        #xButton {
+            float: right;
+            display: none;
+            border-radius: 50%;
+            position: relative;
+            top: 20px;
+            z-index: 9000;
+            background-color: #d01313;
+            border: 1px solid #fff;
+            color: #fff;
+        }
+
+        @media only screen and (max-width: 768px) {
+            .fix {
+                left: auto;
+                transform: none;
+            }
+        }
+    </style>
+    
+
+<style>
+    .font-itc {
+        font-family: 'Roboto';
+        text-transform: uppercase;
+        font-weight: 600;
+        font-size: 1.35rem;
+        padding-right: 10px !important;
+        padding-left: 10px !important;
+    }
+
+    .color-font-itc {
+        /*color: #cacaca !important;*/
+        color: #484848 !important;
+    }
+
+        .color-font-itc:hover {
+            /*color: #fff !important;*/
+            color: #484848 !important;
+        }
+
+    .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover {
+        color: #fff !important;
+    }
+
+    @media (min-width: 768px) {
+        .navbar-nav {
+            float: left;
+            margin: 7.5px -15px;
+        }
+    }
+
+    .height-logo {
+        height: 50px;
+    }
+</style>
+
+<nav class="navbar navbar-inverse" style="box-shadow: 0px 2px 14px #888888; background-color: #fff;border-color: #ffffff;">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar" style="background-color: #422774; margin-top: 13px;">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/" style="height: auto;padding-top: 5px;padding-bottom: 5px;">
+                <img src="/img/Logo_TDMU_2024_nguyen_ban.svg" class="img-responsive height-logo" />
+            </a>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a class="font-itc color-font-itc" href="/">Trang chủ</a>
+                </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle font-itc color-font-itc" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Giới thiệu <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu multi-level">
+                                        <li><a class="dropdown-item font-itc" href="/News/Category/61">Tổng quan</a></li>
+                                        <li><a class="dropdown-item font-itc" href="/News/Detail/1355">Giới thiệu chung</a></li>
+                                        <li><a class="dropdown-item font-itc" href="/News/Detail/3">Chức năng - Nhiệm vụ</a></li>
+                                        <li><a class="dropdown-item font-itc" href="/News/Detail/4">Cơ cấu tổ chức</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle font-itc color-font-itc" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Tuyển sinh <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu multi-level">
+                                        <li><a class="dropdown-item font-itc" href="/News/ThongTinTuyenSinh/4">Đại học ch&#237;nh quy</a></li>
+                                        <li><a class="dropdown-item font-itc" href="/News/ThongTinTuyenSinh/11">Thạc sĩ</a></li>
+                                        <li><a class="dropdown-item font-itc" href="/News/ThongTinTuyenSinh/40">Tiến sĩ</a></li>
+                                        <li><a class="dropdown-item font-itc" href="/News/ThongTinTuyenSinh/10">Hệ thường xuy&#234;n</a></li>
+                                        <li><a class="dropdown-item font-itc" href="/News/Category/71">ĐIỂM TR&#218;NG TUYỂN C&#193;C NĂM</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle font-itc color-font-itc" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Ng&#224;nh đ&#224;o tạo <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu multi-level">
+                                        <li><a class="dropdown-item font-itc" href="/NganhDaoTao/NganhDaoTaoDHChinhQuy">Đại học ch&#237;nh quy</a></li>
+                                        <li><a class="dropdown-item font-itc" href="/NganhDaoTao/DanhSachNganhDaoTao/14">Thạc sĩ</a></li>
+                                        <li><a class="dropdown-item font-itc" href="/NganhDaoTao/DanhSachNganhDaoTao/41">Tiến sĩ</a></li>
+                                        <li><a class="dropdown-item font-itc" href="/NganhDaoTao/NganhDaoTaoHeThuongXuyen">Hệ thường xuy&#234;n</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a class="font-itc color-font-itc" href="/News/Category/3">Văn bản </a>
+                        </li>
+                        <li>
+                            <a class="font-itc color-font-itc" href="/News/Category/65">C&#212;NG KHAI TUYỂN SINH </a>
+                        </li>
+                        <li>
+                            <a class="font-itc color-font-itc" href="/LienHe/Create">G&#243;p &#253; - Phản hồi </a>
+                        </li>
+                        <li>
+                            <a class="font-itc color-font-itc" href="/News/Pages/2">LI&#202;N HỆ </a>
+                        </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+    
+
+    
+    <section id="carouselh" class="carousel-fades">
+
+    <div id="carousel-example-generics" class="carousel slide" data-ride="carousel">
+
+        <ol class="carousel-indicators">
+            <li data-target='#carousel-example-generic' data-slide-to=0 class='active'></li><li data-target='#carousel-example-generic' data-slide-to=1 class=''></li><li data-target='#carousel-example-generic' data-slide-to=2 class=''></li><li data-target='#carousel-example-generic' data-slide-to=3 class=''></li><li data-target='#carousel-example-generic' data-slide-to=4 class=''></li><li data-target='#carousel-example-generic' data-slide-to=5 class=''></li><li data-target='#carousel-example-generic' data-slide-to=6 class=''></li><li data-target='#carousel-example-generic' data-slide-to=7 class=''></li><li data-target='#carousel-example-generic' data-slide-to=8 class=''></li><li data-target='#carousel-example-generic' data-slide-to=9 class=''></li>
+        </ol>
+
+        <div class="carousel-inner" role="listbox">
+            <div class='item active'>
+                     <div class='row'>
+                        <div class='col-md-12 hinh'>
+                            <img src='../../img/ckeditor/Images/19-03-2025-8-01-54-SAw1.jpg' >
+                        </div>
+                    </div>
+                </div><div class='item'>
+                     <div class='row'>
+                        <div class='col-md-12 hinh'>
+                            <img src='../../img/ckeditor/Images/19-03-2025-8-02-07-SAweb2.jpg' >
+                        </div>
+                    </div>
+                </div><div class='item'>
+                     <div class='row'>
+                        <div class='col-md-12 hinh'>
+                            <img src='../../img/ckeditor/Images/18-04-2025-11-33-03-SAptts.jpg' >
+                        </div>
+                    </div>
+                </div><div class='item'>
+                     <div class='row'>
+                        <div class='col-md-12 hinh'>
+                            <img src='../../img/ckeditor/Images/05-06-2025-4-09-46-CHUntitled-1.jpg' >
+                        </div>
+                    </div>
+                </div><div class='item'>
+                     <div class='row'>
+                        <div class='col-md-12 hinh'>
+                            <img src='../../img/ckeditor/Images/06-06-2025-10-23-43-SAcf16bf0e-548f-4130-9ca7-6c8987e2997b.jpg' >
+                        </div>
+                    </div>
+                </div><div class='item'>
+                     <div class='row'>
+                        <div class='col-md-12 hinh'>
+                            <img src='../../img/ckeditor/Images/06-06-2025-10-37-06-SAtuoitre.jpg' >
+                        </div>
+                    </div>
+                </div><div class='item'>
+                     <div class='row'>
+                        <div class='col-md-12 hinh'>
+                            <img src='../../img/ckeditor/Images/11-07-2025-8-46-01-CHf95c62ad-423c-4cf9-bf53-624c960ee5bf.jpg' >
+                        </div>
+                    </div>
+                </div><div class='item'>
+                     <div class='row'>
+                        <div class='col-md-12 hinh'>
+                            <img src='../../img/ckeditor/Images/15-07-2025-11-33-16-SAac3a68ca-face-4314-a031-89cedb195fa8.jpg' >
+                        </div>
+                    </div>
+                </div><div class='item'>
+                     <div class='row'>
+                        <div class='col-md-12 hinh'>
+                            <img src='../../img/ckeditor/Images/22-07-2025-4-10-56-CH9f5e2844-c242-44ac-bb9a-76f23f2e8a9e.jpg' >
+                        </div>
+                    </div>
+                </div><div class='item'>
+                     <div class='row'>
+                        <div class='col-md-12 hinh'>
+                            <img src='../../img/ckeditor/Images/02-08-2025-8-20-31-SAc157793a-3f4e-49ab-8818-df79c06d9108.jpg' >
+                        </div>
+                    </div>
+                </div>
+        </div>
+
+        <a class="left carousel-control" href="#carousel-example-generics" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#carousel-example-generics" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+    </div>
+    
+
+</section>
+
+
+
+    
+
+
+
+<section id="ctdt">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 col-sm-4 col-xs-6 ndct">
+                <a href="/News/Category/61" target="_blank">
+                    <i class="fa fa-address-book-o fa-5x" aria-hidden="true"></i><br />
+                    Tổng quan
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-4 col-xs-6 ndct">
+                <a href="https://dkmh.tdmu.edu.vn/#/tracuxnnhoc" target="_blank">
+                    <i class="fa fa-search-plus fa-5x" aria-hidden="true"></i><br />
+                    Tra cứu kết quả trúng tuyển
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-4 col-xs-6 ndct">
+                <a href="/Album">
+                    <i class="fa fa-picture-o fa-5x" aria-hidden="true"></i><br />
+                    Cơ sở vật chất
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-4 col-xs-6 ndct">
+                <a href="http://tdmu.edu.vn/tu-van-tuyen-sinh" target="_blank">
+                    <i class="fa fa-question-circle fa-5x" aria-hidden="true"></i><br />
+                    Hỏi - Đáp thắc mắc
+                </a>
+            </div>
+
+            <div class="col-md-3 col-sm-4 col-xs-6 ndct">
+                <a href="/News/Category/30">
+                    <i class="fa fa-newspaper-o fa-5x" aria-hidden="true"></i><br />
+                    Chế độ chính sách <br /> và học bổng
+                </a>
+            </div>
+
+            <div class="col-md-3 col-sm-4 col-xs-6 ndct">
+                <a href="/NganhDaoTao/DanhSachNganhDaoTao/43">
+                    <i class="fa fa-file-text-o fa-5x" aria-hidden="true"></i><br />
+                    Ngành đã kiểm định theo<br />chuẩn AUN-QA
+                </a>
+            </div>
+
+            <div class="col-md-3 col-sm-4 col-xs-6 ndct">
+                <a href="/NganhDaoTao/DanhSachNganhDaoTao/44">
+                    <i class="fa fa-th fa-5x" aria-hidden="true"></i><br />
+                    Ngành đã kiểm định theo<br />chuẩn Bộ GD-ĐT
+                </a>
+            </div>
+
+            <div class="col-md-3 col-sm-4 col-xs-6 ndct">
+                <a href="/News/Detail/2791">
+                    <i class="fa fa-list-ul fa-5x" aria-hidden="true"></i><br />
+                    Danh sách các khoa
+                </a>
+            </div>
+
+            <div class="col-md-3 col-sm-4 col-xs-6 ndct">
+                <a href="/Home/TaiMauHoSo">
+                    <i class="fa fa-pencil-square-o fa-5x" aria-hidden="true"></i><br />
+                    Tải mẫu hồ sơ
+                </a>
+            </div>
+
+            <div class="col-md-3 col-sm-4 col-xs-6 ndct">
+                <a href="/News/Category/24">
+                    <i class="fa fa-usd fa-5x" aria-hidden="true"></i><br />
+                    Học phí
+                </a>
+            </div>
+
+            <div class="col-md-3 col-sm-4 col-xs-6 ndct">
+                <a href="https://dkmh.tdmu.edu.vn/#/dkxt">
+                    <i class="fa fa-search fa-5x" aria-hidden="true"></i><br />
+                    Đăng kí xét tuyển online<br />
+                    Đại học chính quy
+                </a>
+            </div>
+
+            <div class="col-md-3 col-sm-4 col-xs-6 ndct">
+                <a href="/News/Category/60">
+                    <i class="fa fa-calendar fa-5x" aria-hidden="true"></i><br />
+                    Khung thời gian đào tạo
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="bangtin">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 sebt">
+                <div class="tieumuc">
+                    <a href="/News/ThongTinTuyenSinh/4">TUYỂN SINH ĐẠI HỌC CHÍNH QUY</a><br />
+                    <a style="color: red; font-size: 1.9rem; border-left: solid; border-left-color: red; border-left-width: 4px;" href="/News/Detail/3059">PHƯƠNG THỨC TUYỂN SINH</a>
+                </div>
+                <div class="list-group">
+                    <a href=/News/Detail/6355 class='list-group-item'>[Dành cho D25] Lịch sinh hoạt công dân - sinh viên đầu khóa và gặp gỡ - chào đón tân sinh viên năm 2025 </a><a href=/News/Detail/6351 class='list-group-item'>Thông báo Điểm chuẩn trúng tuyển vào đại học chính quy năm 2025 </a><a href=/News/Detail/6352 class='list-group-item'>[Infographic] Điểm trúng tuyển đại học chính quy năm 2025 </a><a href=/News/Detail/6343 class='list-group-item'>Hướng dẫn Thanh toán trực tuyển lệ phí đăng ký xét tuyển đại học năm 2025 </a><a href=/News/Detail/6344 class='list-group-item'>Thông báo quy tắc quy đổi tương đương điểm trúng tuyển giữa các phương thức xét tuyển, tuyển sinh đại học chính quy năm 2025 </a><a href=/News/Detail/6342 class='list-group-item'>Thông báo Ngưỡng đảm bảo chất lượng đầu vào (điểm sàn) nhận hồ sơ đăng ký xét tuyển của các phương thức vào đại học chính quy năm 2025 </a><a href=/News/Detail/6340 class='list-group-item'>Từ ngày 16/7/2025: Thí sinh bắt đầu đăng ký nguyện vọng trực tuyến trên Hệ thống của Bộ Giáo dục và Đào tạo </a><a href=/News/Detail/6334 class='list-group-item'>[Infographic] Phương án tuyển sinh đại học chính quy năm 2025 </a><a href=/News/Detail/6327 class='list-group-item'>Thông báo Đơn nộp (nộp minh chứng) quy đổi chứng chỉ ngoại ngữ sử dụng trong xét tuyển đại học chính quy năm 2025 </a><a href=/News/Detail/6326 class='list-group-item'>Hướng dẫn thí sinh đăng ký nguyện vọng trên hệ thống Bộ GDDT vào đại học chính quy năm 2025 </a>
+                </div>
+                <div style="text-align: left">
+                    <a class="btn btn-default" href="/News/ThongTinTuyenSinh/4">Xem thêm</a>
+                </div>
+            </div>
+
+            <div class="col-md-6 sebt">
+                <div class="tieumuc">
+                    <a href="/News/ThongTinTuyenSinh/10">TUYỂN SINH HỆ THƯỜNG XUYÊN</a><br />
+                    <a style="color: red; font-size: 1.9rem; border-left: solid; border-left-color: red; border-left-width: 4px;" href="/News/Detail/3060">PHƯƠNG THỨC TUYỂN SINH</a>
+                </div>
+                <div class="list-group">
+                    <a href=/News/Detail/6353 class='list-group-item'>Hướng dẫn thủ tục nhập học hệ thường xuyên đợt 1 năm 2025 </a><a href=/News/Detail/6349 class='list-group-item'>Thông báo kết quả tuyển sinh hệ thường xuyên đợt 1 năm 2025 </a><a href=/News/Detail/6348 class='list-group-item'>Thông báo Tuyển sinh cao đẳng liên thông, văn bằng 2 ngành Giáo dục Đặc Biệt </a><a href=/News/Detail/6328 class='list-group-item'>Thông báo tuyển sinh các ngành hệ thường xuyên năm 2025 (Liên thông, Văn bằng 2, Đại học Vừa làm vừa học) </a>
+                </div>
+                <div style="text-align: left">
+                    <a class="btn btn-default" href="/News/ThongTinTuyenSinh/10">Xem thêm</a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 sebt" style="margin-top: 0px;">
+                <div class="tieumuc">
+                    <a href="/News/ThongTinTuyenSinh/11">TUYỂN SINH THẠC SĨ</a><br />
+                    <a style="color: red; font-size: 1.9rem; border-left: solid; border-left-color: red; border-left-width: 4px;" href="/News/Detail/3061">PHƯƠNG THỨC TUYỂN SINH</a>
+                </div>
+                <div class="list-group">
+                    <a href=/News/Detail/6360 class='list-group-item'>Thông báo thay đổi thời gian tổ chức tuyển sinh đào tạo trình độ thạc sĩ đợt 2 năm 2025 </a><a href=/News/Detail/6347 class='list-group-item'>Danh sách ứng viên ứng viên trúng tuyển kỳ thi tuyển sinh đào tạo trình độ thạc sĩ Đợt 1 năm 2025 </a><a href=/News/Detail/6337 class='list-group-item'>Công bố điểm trúng tuyển kỳ thi tuyển sinh đào tạo trình độ thạc sĩ đợt 1 năm 2025 </a><a href=/News/Detail/6331 class='list-group-item'>Thông báo điều chỉnh một số nội dung trong Thông báo tuyển sinh đào tạo trình độ thạc sĩ năm 2025 </a><a href=/News/Detail/6322 class='list-group-item'>Kết quả điểm thi kết hợp xét tuyển kỳ thi tuyển sinh đào tạo trình độ thạc sĩ, Đợt 1 năm 2025 </a><a href=/News/Detail/6298 class='list-group-item'>Thông báo Tuyển sinh đào tạo trình độ thạc sĩ năm 2025 </a>
+                </div>
+                <div style="text-align: left">
+                    <a class="btn btn-default" href="/News/ThongTinTuyenSinh/11">Xem thêm</a>
+                </div>
+            </div>
+
+            <div class="col-md-6 sebt" style="margin-top: 0px;">
+                <div class="tieumuc">
+                    <a href="/News/ThongTinTuyenSinh/40">TUYỂN SINH TIẾN SĨ</a><br />
+                    <a style="color: red; font-size: 1.9rem; border-left: solid; border-left-color: red; border-left-width: 4px;" href="/News/Detail/3062">PHƯƠNG THỨC TUYỂN SINH</a>
+                </div>
+                <div class="list-group">
+                    
+                </div>
+                <div style="text-align: left">
+                    <a class="btn btn-default" href="/News/ThongTinTuyenSinh/40">Xem thêm</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    .nganhdaotao-pc {
+        display: block;
+    }
+
+    .nganhdaotao-phone {
+        display: none;
+    }
+
+    @media only screen and (max-width: 767px) {
+        .nganhdaotao-pc {
+            display: none;
+        }
+
+        .nganhdaotao-phone {
+            display: block;
+        }
+    }
+
+    .width-75 {
+        width: 75px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+</style>
+
+<section id="nganhdaotao">
+    
+    <div class="container nganhdaotao-phone">
+        <div class="col-md-3 ddn">
+            <p class="tdddn">ĐƯỜNG DÂY NÓNG</p>
+            <p class="sdtddn">
+                (0274) 383-5677<br />
+                (0274) 384-4340<br />
+                (0274) 384-4341<br />
+                <span class="emailddn">trungtamtuyensinh@tdmu.edu.vn</span>
+            </p>
+            <div class="row">
+                <div class="col-md-6 col-xs-6">
+                    <a href="https://oa.zalo.me/662754808291977448" title="trungtamtuyensinh@tdmu.edu.vn" alt="trungtamtuyensinh@tdmu.edu.vn">
+                        
+                        <img class="width-75" src="/img/logo-zalo-vector.png"  align="right"/>
+                    </a>
+                </div>
+                <div class="col-md-6 col-xs-6" style="text-align: left;">
+                    <a href="https://www.facebook.com/Trung-t%C3%A2m-Tuy%E1%BB%83n-sinh-Tr%C6%B0%E1%BB%9Dng-%C4%90%E1%BA%A1i-h%E1%BB%8Dc-Th%E1%BB%A7-D%E1%BA%A7u-M%E1%BB%99t-232564283968225/" target="_blank"><i class="fa fa-facebook-square fa-5x" aria-hidden="true"></i></a>
+                </div>
+            </div>
+            &nbsp;&nbsp;
+        </div>
+        <div class="col-md-1"></div>
+        <div class="col-md-8 ndt">
+            <div class="tdndt">CÁC NGÀNH ĐÀO TẠO</div>
+            <div class="row">
+                <div class="col-md-6 khoindt">
+                    <a href="/NganhDaoTao/NganhDaoTaoDHChinhQuy">
+                        <div class="khungndt">
+                            <div class="khunghoverndt"></div>
+                            ĐẠI HỌC<br />CHÍNH QUY
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-md-6 khoindt">
+                    <a href="/NganhDaoTao/NganhDaoTaoHeThuongXuyen">
+                        <div class="khungndt">
+                            <div class="khunghoverndt"></div>
+                            HỆ<br />THƯỜNG XUYÊN
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-md-6 khoindt">
+                    <a href="/NganhDaoTao/DanhSachNganhDaoTao/14">
+                        <div class="khungndt">
+                            <div class="khunghoverndt"></div>
+                            THẠC<br />SĨ
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-md-6 khoindt">
+                    <a href="/NganhDaoTao/DanhSachNganhDaoTao/41">
+                        <div class="khungndt">
+                            <div class="khunghoverndt"></div>
+                            TIẾN<br />SĨ
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-md-6 khoindt">
+                    <a href="/NganhDaoTao/DanhSachNganhDaoTao/63">
+                        <div class="khungndt">
+                            <div class="khunghoverndt"></div>
+                            ĐẠI HỌC CHÍNH QUY<br />BẰNG TIẾNG ANH
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-md-6 khoindt">
+                    <a href="/News/Category/64">
+                        <div class="khungndt">
+                            <div class="khunghoverndt"></div>
+                            ĐÀO TẠO THEO<br />NHU CẦU XÃ HỘI
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    <div class="container nganhdaotao-pc">
+        <div class="media">
+            <div class="media-left media-middle">
+                <div class="row">
+                    <div class="col-md-12 ddn">
+                        <p class="tdddn">ĐƯỜNG DÂY NÓNG</p>
+                        <p class="sdtddn">
+                            (0274) 383-5677<br />
+                            (0274) 384-4340<br />
+                            (0274) 384-4341<br />
+                            0911 022 322<br />
+                            <span class="emailddn">trungtamtuyensinh@tdmu.edu.vn</span>
+                        </p>
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <a href="https://oa.zalo.me/662754808291977448" title="trungtamtuyensinh@tdmu.edu.vn" alt="trungtamtuyensinh@tdmu.edu.vn">
+                                    
+                                    <img class="width-75" src="/img/logo-zalo-vector.png" align="right"/>
+                                </a>
+                            </div>
+                            <div class="col-md-6" style="text-align: left;">
+                                <a href="https://www.facebook.com/Trung-t%C3%A2m-Tuy%E1%BB%83n-sinh-Tr%C6%B0%E1%BB%9Dng-%C4%90%E1%BA%A1i-h%E1%BB%8Dc-Th%E1%BB%A7-D%E1%BA%A7u-M%E1%BB%99t-232564283968225/" target="_blank"><i class="fa fa-facebook-square fa-5x" aria-hidden="true"></i></a>
+                            </div>
+                        </div>
+                        &nbsp;&nbsp;
+                    </div>
+                </div>
+            </div>
+            <div class="media-body">
+                <div class="row">
+                    <div class="col-md-10 col-md-offset-2 ndt">
+                        <div class="tdndt">CÁC NGÀNH ĐÀO TẠO</div>
+                        <div class="row">
+                            <div class="col-md-6 khoindt">
+                                <a href="/NganhDaoTao/NganhDaoTaoDHChinhQuy">
+                                    <div class="khungndt">
+                                        <div class="khunghoverndt"></div>
+                                        ĐẠI HỌC<br />CHÍNH QUY
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="col-md-6 khoindt">
+                                <a href="/NganhDaoTao/NganhDaoTaoHeThuongXuyen">
+                                    <div class="khungndt">
+                                        <div class="khunghoverndt"></div>
+                                        HỆ<br />THƯỜNG XUYÊN
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="col-md-6 khoindt">
+                                <a href="/NganhDaoTao/DanhSachNganhDaoTao/14">
+                                    <div class="khungndt">
+                                        <div class="khunghoverndt"></div>
+                                        THẠC<br />SĨ
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="col-md-6 khoindt">
+                                <a href="/NganhDaoTao/DanhSachNganhDaoTao/41">
+                                    <div class="khungndt">
+                                        <div class="khunghoverndt"></div>
+                                        TIẾN<br />SĨ
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="col-md-6 khoindt">
+                                <a href="/NganhDaoTao/DanhSachNganhDaoTao/63">
+                                    <div class="khungndt">
+                                        <div class="khunghoverndt"></div>
+                                        ĐẠI HỌC CHÍNH QUY<br />BẰNG TIẾNG ANH
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="col-md-6 khoindt">
+                                <a href="/News/Category/64">
+                                    <div class="khungndt">
+                                        <div class="khunghoverndt"></div>
+                                        ĐÀO TẠO THEO<br />NHU CẦU XÃ HỘI
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <br />
+                        <br />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<br />
+<div class="container">
+    <h2 class="text-center" style="font-weight: 600;"><a style="color: #333" href="/News/Category/19">TIN TỨC</a></h2>
+    <br />
+    <div class="row">
+            <div class="col-md-4 col-sm-6">
+                <div class="get-height" style="margin-bottom: 20px;border-radius: 5px;box-shadow: 1px 1px 3px 2px rgb(0 0 0 / 16%);background-color: rgba(247, 247, 247, 0.44);">
+                    <a href="/News/Detail/6345">
+                        <img class="img-responsive" src="/img/ckeditor/Images/06-08-2025-10-18-54-SAUntitled-1.jpg" />
+                    </a>
+
+                    <div style="padding: 0px 20px 10px 20px;">
+                        <h3 class="text-title-news">
+                            <a style="text-decoration: none" href="/News/Detail/6345">Hướng dẫn l&#224;m thủ tục nhập học đại học ch&#237;nh quy năm 2025</a>
+                        </h3>
+                        <p class="desc-news"></p><br />
+                        <a style="font-size:12px; margin-bottom: 10px" href="/News/Detail/6345">Xem bài viết</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="get-height" style="margin-bottom: 20px;border-radius: 5px;box-shadow: 1px 1px 3px 2px rgb(0 0 0 / 16%);background-color: rgba(247, 247, 247, 0.44);">
+                    <a href="/News/Detail/6324">
+                        <img class="img-responsive" src="/img/ckeditor/Images/27-06-2025-5-24-12-CHNK.jpg" />
+                    </a>
+
+                    <div style="padding: 0px 20px 10px 20px;">
+                        <h3 class="text-title-news">
+                            <a style="text-decoration: none" href="/News/Detail/6324">Lịch &#244;n thi năng khiếu đại học ch&#237;nh quy năm 2025 </a>
+                        </h3>
+                        <p class="desc-news"></p><br />
+                        <a style="font-size:12px; margin-bottom: 10px" href="/News/Detail/6324">Xem bài viết</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="get-height" style="margin-bottom: 20px;border-radius: 5px;box-shadow: 1px 1px 3px 2px rgb(0 0 0 / 16%);background-color: rgba(247, 247, 247, 0.44);">
+                    <a href="/News/Detail/6318">
+                        <img class="img-responsive" src="/img/ckeditor/Images/04-06-2025-8-10-25-SAXHB.jpg" />
+                    </a>
+
+                    <div style="padding: 0px 20px 10px 20px;">
+                        <h3 class="text-title-news">
+                            <a style="text-decoration: none" href="/News/Detail/6318">Hướng dẫn x&#233;t học bạ v&#224;o đại học ch&#237;nh quy năm 2025</a>
+                        </h3>
+                        <p class="desc-news"></p><br />
+                        <a style="font-size:12px; margin-bottom: 10px" href="/News/Detail/6318">Xem bài viết</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="get-height" style="margin-bottom: 20px;border-radius: 5px;box-shadow: 1px 1px 3px 2px rgb(0 0 0 / 16%);background-color: rgba(247, 247, 247, 0.44);">
+                    <a href="/News/Detail/6316">
+                        <img class="img-responsive" src="/img/ckeditor/Images/30-05-2025-4-50-37-CHUntitled-1.jpg" />
+                    </a>
+
+                    <div style="padding: 0px 20px 10px 20px;">
+                        <h3 class="text-title-news">
+                            <a style="text-decoration: none" href="/News/Detail/6316">Hướng dẫn tuyển sinh đại học ch&#237;nh quy năm 2025 của Bộ GDĐT</a>
+                        </h3>
+                        <p class="desc-news"></p><br />
+                        <a style="font-size:12px; margin-bottom: 10px" href="/News/Detail/6316">Xem bài viết</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="get-height" style="margin-bottom: 20px;border-radius: 5px;box-shadow: 1px 1px 3px 2px rgb(0 0 0 / 16%);background-color: rgba(247, 247, 247, 0.44);">
+                    <a href="/News/Detail/6302">
+                        <img class="img-responsive" src="/img/ckeditor/Images/17-04-2025-11-38-28-SAUntitled-1.jpg" />
+                    </a>
+
+                    <div style="padding: 0px 20px 10px 20px;">
+                        <h3 class="text-title-news">
+                            <a style="text-decoration: none" href="/News/Detail/6302">Ch&#237;nh s&#225;ch học bổng v&#224; ưu đ&#227;i học ph&#237; năm 2025</a>
+                        </h3>
+                        <p class="desc-news"></p><br />
+                        <a style="font-size:12px; margin-bottom: 10px" href="/News/Detail/6302">Xem bài viết</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="get-height" style="margin-bottom: 20px;border-radius: 5px;box-shadow: 1px 1px 3px 2px rgb(0 0 0 / 16%);background-color: rgba(247, 247, 247, 0.44);">
+                    <a href="/News/Detail/6301">
+                        <img class="img-responsive" src="/img/ckeditor/Images/17-04-2025-8-46-04-SA5-10-2024-8-58-53-PMHIHHHHHH.jpg" />
+                    </a>
+
+                    <div style="padding: 0px 20px 10px 20px;">
+                        <h3 class="text-title-news">
+                            <a style="text-decoration: none" href="/News/Detail/6301"> Hướng dẫn th&#237; sinh tự do Đăng k&#253; x&#233;t tuyển đại học năm 2025</a>
+                        </h3>
+                        <p class="desc-news"></p><br />
+                        <a style="font-size:12px; margin-bottom: 10px" href="/News/Detail/6301">Xem bài viết</a>
+                    </div>
+                </div>
+            </div>
+    </div>
+    <h2 style="margin-top: 0px;" class="text-center"><a class="btn btn-primary" href="/News/Category/19">Xem tất cả</a></h2>
+    <br />
+</div>
+<br />
+<div class="container">
+    <h2 class="text-center" style="font-weight: 600">HÃY THEO DÕI VÀ GỬI CÂU HỎI QUA</h2>
+    <br />
+    <div class="row">
+        <div class="col-md-1">
+            <p></p>
+        </div>
+        <div class="col-md-10">
+            <div class="row">
+                <div class="col-md-4 col-sm-6">
+                    <div class="text-center box-shadow-ts">
+                        <h2 style="font-family: ' Roboto', Sans-serif;font-size: 24px;font-weight: 600;">Email</h2>
+                        <a href="mailto:trungtamtuyensinh@tdmu.edu.vn" class="btn btn-danger">
+                            <i class="fa fa-envelope-o" aria-hidden="true"></i> trungtamtuyensinh@tdmu.edu.vn
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6">
+                    <div class="text-center box-shadow-ts">
+                        <h2 style="font-family: ' Roboto', Sans-serif;font-size: 24px;font-weight: 600;">Facebook</h2>
+                        <a href="https://www.facebook.com/tuyensinhTDMU" class="btn btn-primary">
+                            <i class="fa fa-facebook-square" aria-hidden="true"></i> /tuyensinhTDMU
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-12">
+                    <div class="text-center box-shadow-ts">
+                        <h2 style="font-family: ' Roboto', Sans-serif;font-size: 24px;font-weight: 600;">Zalo</h2>
+                        <a href="https://oa.zalo.me/662754808291977448" class="btn btn-success">
+                            <img class="img-responsive width-18" src="/img/logo-zalo-vector.png" align="left"> <span>TUYỂN SINH ĐẠI HỌC TDM</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section id="thitruonglaodong">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 khoattld">
+                <p>FANPAGE</p>
+                <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FTrung-t%25C3%25A2m-Tuy%25E1%25BB%2583n-sinh-Tr%25C6%25B0%25E1%25BB%259Dng-%25C4%2590%25E1%25BA%25A1i-h%25E1%25BB%258Dc-Th%25E1%25BB%25A7-D%25E1%25BA%25A7u-M%25E1%25BB%2599t-232564283968225%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="301" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+            </div>
+
+            <div class="col-md-8 khoattld">
+                <p>LIÊN KẾT</p>
+                <div style="overflow: hidden;padding-top: 0px;padding-bottom: 0px;     text-align: center;">
+
+                </div>
+                <iframe id="iframeLienKet" frameborder="0" src="/Home/_LienKet" style="overflow: hidden;height: 300px;width: 100%;"></iframe>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+<section id="slidefooter">
+    <div class="container">
+        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+            
+            <ol class="carousel-indicators">
+                
+            </ol>
+            
+            <div class="carousel-inner" role="listbox">                
+                
+            </div>
+            
+            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+</section>
+
+
+
+<br />
+<br />
+<div class="container">
+    <h2 class="text-center" style="font-weight: 600">HÌNH ẢNH HOẠT ĐỘNG</h2>
+    <br />
+    <!-- Set up your HTML -->
+    <div id="loadcontent" style="margin:0 auto;" class="my-gallery grid" itemscope itemtype="http://schema.org/ImageGallery">
+<div class='owl-carousel owl-carousel-1'>            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/1.png" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/1_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/3.png" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/3_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/4.png" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/4_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/5.png" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/5_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description">,</figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/7.png" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/7_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description">,,</figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/11.png" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/11_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/2.png" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/2_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description">,</figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/6.png" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/6_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/9.png" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/9_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/10.png" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/10_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/_MG_9418.jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/_MG_9418_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/2(83).jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/2(83)_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+</div><div class='owl-carousel owl-carousel-2'>            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/4(40).jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/4(40)_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/5(28).jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/5(28)_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/474606750_906990321632293_4277645072194618013_n.jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/474606750_906990321632293_4277645072194618013_n_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/500544804_995610056103652_6107577871882438803_n(1).jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/500544804_995610056103652_6107577871882438803_n(1)_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/500571807_995610069436984_8623963356911657030_n.jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/500571807_995610069436984_8623963356911657030_n_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/500764469_995610082770316_3979192541328803386_n.jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/500764469_995610082770316_3979192541328803386_n_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/DSC_0966(1).jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/DSC_0966(1)_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/DSC_1302.jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/DSC_1302_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/DSC_1919.jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/DSC_1919_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/DSC_1976.jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/DSC_1976_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/DSC_1953(2).jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/DSC_1953(2)_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/DSC_1987(3).jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/DSC_1987(3)_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+</div><div class='owl-carousel owl-carousel-3'>            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/DSC_2289(1).jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/DSC_2289(1)_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/DSC_2305.jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/DSC_2305_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/DSC_2834.jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/DSC_2834_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/DSC_2893.jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/DSC_2893_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/DSC_3149(1).jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/DSC_3149(1)_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/DSC_3449 .jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/DSC_3449 _270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/DSC_3539(1).jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/DSC_3539(1)_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/DSC_3905.jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/DSC_3905_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/DSC_4015(2).jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/DSC_4015(2)_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/DSC_4671.jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/DSC_4671_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/DSC_5638.jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/DSC_5638_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/DSC09395.jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/DSC09395_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/IMG_2267.jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/IMG_2267_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/VinaSoy.jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/VinaSoy_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+            <figure data-wow-duration="1.5s" class="grid-sizer grid-item wow fadeInUp for_count" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                <a href="/img/Files/Album/2022-03-29-08-15-11/z6498951540742_7bb366d5721ac09909371a492fd29065.jpg" itemprop="contentUrl" data-size="0x0">
+                    <img src="/img/Files/Album/2022-03-29-08-15-11/thumbs/z6498951540742_7bb366d5721ac09909371a492fd29065_270x270.jpg" itemprop="thumbnail" alt="Image description" />
+                </a>
+                <figcaption itemprop="caption description"></figcaption>
+            </figure>
+    </div>
+
+    <script>
+                        var initPhotoSwipeFromDOM = function (gallerySelector) {
+                            // parse slide data (url, title, size ...) from DOM elements
+                            // (children of gallerySelector)
+                            var parseThumbnailElements = function (el) {
+                                var thumbElements = el.childNodes,
+                                    numNodes = thumbElements.length,
+                                    items = [],
+                                    figureEl,
+                                    linkEl,
+                                    size,
+                                    item;
+
+                                for (var i = 0; i < numNodes; i++) {
+
+                                    figureEl = thumbElements[i]; // <figure> element
+
+                                    // include only element nodes
+                                    if (figureEl.nodeType !== 1) {
+                                        continue;
+                                    }
+
+                                    linkEl = figureEl.children[0]; // <a> element
+
+                                    size = linkEl.getAttribute('data-size').split('x');
+
+                                    // create slide object
+                                    item = {
+                                        src: linkEl.getAttribute('href'),
+                                        w: parseInt(size[0], 10),
+                                        h: parseInt(size[1], 10)
+                                    };
+
+                                    if (figureEl.children.length > 1) {
+                                        // <figcaption> content
+                                        item.title = figureEl.children[1].innerHTML;
+                                    }
+
+                                    if (linkEl.children.length > 0) {
+                                        // <img> thumbnail element, retrieving thumbnail url
+                                        item.msrc = linkEl.children[0].getAttribute('src');
+                                    }
+
+                                    item.el = figureEl; // save link to element for getThumbBoundsFn
+                                    items.push(item);
+                                }
+
+                                return items;
+                            };
+
+                            // find nearest parent element
+                            var closest = function closest(el, fn) {
+                                return el && (fn(el) ? el : closest(el.parentNode, fn));
+                            };
+
+                            // triggers when user clicks on thumbnail
+                            var onThumbnailsClick = function (e) {
+                                e = e || window.event;
+                                e.preventDefault ? e.preventDefault() : e.returnValue = false;
+
+                                var eTarget = e.target || e.srcElement;
+
+                                // find root element of slide
+                                var clickedListItem = closest(eTarget, function (el) {
+                                    return (el.tagName && el.tagName.toUpperCase() === 'FIGURE');
+                                });
+
+                                if (!clickedListItem) {
+                                    return;
+                                }
+
+                                // find index of clicked item by looping through all child nodes
+                                // alternatively, you may define index via data- attribute
+                                var clickedGallery = clickedListItem.parentNode,
+                                    childNodes = clickedListItem.parentNode.childNodes,
+                                    numChildNodes = childNodes.length,
+                                    nodeIndex = 0,
+                                    index;
+
+                                for (var i = 0; i < numChildNodes; i++) {
+                                    if (childNodes[i].nodeType !== 1) {
+                                        continue;
+                                    }
+
+                                    if (childNodes[i] === clickedListItem) {
+                                        index = nodeIndex;
+                                        break;
+                                    }
+                                    nodeIndex++;
+                                }
+
+                                if (index >= 0) {
+                                    // open PhotoSwipe if valid index found
+                                    openPhotoSwipe(index, clickedGallery);
+                                }
+                                return false;
+                            };
+
+                            // parse picture index and gallery index from URL (#&pid=1&gid=2)
+                            var photoswipeParseHash = function () {
+                                var hash = window.location.hash.substring(1),
+                                params = {};
+
+                                if (hash.length < 5) {
+                                    return params;
+                                }
+
+                                var vars = hash.split('&');
+                                for (var i = 0; i < vars.length; i++) {
+                                    if (!vars[i]) {
+                                        continue;
+                                    }
+                                    var pair = vars[i].split('=');
+                                    if (pair.length < 2) {
+                                        continue;
+                                    }
+                                    params[pair[0]] = pair[1];
+                                }
+
+                                if (params.gid) {
+                                    params.gid = parseInt(params.gid, 10);
+                                }
+
+                                return params;
+                            };
+
+                            var openPhotoSwipe = function (index, galleryElement, disableAnimation, fromURL) {
+                                var pswpElement = document.querySelectorAll('.pswp')[0],
+                                    gallery,
+                                    options,
+                                    items;
+
+                                items = parseThumbnailElements(galleryElement);
+
+                                // define options (if needed)
+                                options = {
+                                    // define gallery index (for URL)
+                                    galleryUID: galleryElement.getAttribute('data-pswp-uid'),
+
+                                    getThumbBoundsFn: function (index) {
+                                        // See Options -> getThumbBoundsFn section of documentation for more info
+                                        var thumbnail = items[index].el.getElementsByTagName('img')[0], // find thumbnail
+                                            pageYScroll = window.pageYOffset || document.documentElement.scrollTop,
+                                            rect = thumbnail.getBoundingClientRect();
+
+                                        return { x: rect.left, y: rect.top + pageYScroll, w: rect.width };
+                                    },
+
+                                    shareButtons: [
+                                    { id: 'facebook', label: 'Facebook', url: 'https://www.facebook.com/sharer/sharer.php?u={{url}}' },
+                                    { id: 'twitter', label: 'Twitter', url: 'https://twitter.com/intent/tweet?text={{text}}&url={{url}}' },
+                                    { id: 'googleplus', label: 'Google+', url: 'https://plus.google.com/share?url={{url}}' },
+                                    { id: 'download', label: 'Tải xuống', url: '{{raw_image_url}}', download: true }
+                                    ],
+                                };
+
+                                // PhotoSwipe opened from URL
+                                if (fromURL) {
+                                    if (options.galleryPIDs) {
+                                        // parse real index when custom PIDs are used
+                                        // http://photoswipe.com/documentation/faq.html#custom-pid-in-url
+                                        for (var j = 0; j < items.length; j++) {
+                                            if (items[j].pid == index) {
+                                                options.index = j;
+                                                break;
+                                            }
+                                        }
+                                    } else {
+                                        // in URL indexes start from 1
+                                        options.index = parseInt(index, 10) - 1;
+                                    }
+                                } else {
+                                    options.index = parseInt(index, 10);
+                                }
+
+                                // exit if index not found
+                                if (isNaN(options.index)) {
+                                    return;
+                                }
+
+                                if (disableAnimation) {
+                                    options.showAnimationDuration = 0;
+                                }
+
+                                // Pass data to PhotoSwipe and initialize it
+                                gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, items, options);
+                                gallery.listen('gettingData', function (index, item) {
+                                    if (item.w < 1 || item.h < 1) { // unknown size
+                                        var img = new Image();
+                                        img.onload = function () { // will get size after load
+                                            item.w = this.width; // set image width
+                                            item.h = this.height; // set image height
+                                            gallery.invalidateCurrItems(); // reinit Items
+                                            gallery.updateSize(true); // reinit Items
+                                        }
+                                        img.src = item.src; // let's download image
+                                    }
+                                });
+
+                                gallery.init();
+                            };
+
+                            // loop through all gallery elements and bind events
+                            var galleryElements = document.querySelectorAll(gallerySelector);
+
+                            for (var i = 0, l = galleryElements.length; i < l; i++) {
+                                galleryElements[i].setAttribute('data-pswp-uid', i + 1);
+                                galleryElements[i].onclick = onThumbnailsClick;
+                            }
+
+                            // Parse URL and open gallery if it contains #&pid=3&gid=1
+                            var hashData = photoswipeParseHash();
+                            if (hashData.pid && hashData.gid) {
+                                openPhotoSwipe(hashData.pid, galleryElements[hashData.gid - 1], true, true);
+                            }
+                        };
+
+                        initPhotoSwipeFromDOM('.my-gallery');
+    </script>
+
+
+    <!-- Root element of PhotoSwipe. Must have class pswp. -->
+    <div class="pswp pswp-hinhanh-trangchu" tabindex="-1" role="dialog" aria-hidden="true">
+
+        <!-- Background of PhotoSwipe.
+        It's a separate element, as animating opacity is faster than rgba(). -->
+        <div class="pswp__bg"></div>
+
+        <!-- Slides wrapper with overflow:hidden. -->
+        <div class="pswp__scroll-wrap">
+
+            <!-- Container that holds slides. PhotoSwipe keeps only 3 slides in DOM to save memory. -->
+            <!-- don't modify these 3 pswp__item elements, data is added later on. -->
+            <div class="pswp__container">
+                <div class="pswp__item"></div>
+                <div class="pswp__item"></div>
+                <div class="pswp__item"></div>
+            </div>
+
+            <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+            <div class="pswp__ui pswp__ui--hidden">
+
+                <div class="pswp__top-bar">
+
+                    <!--  Controls are self-explanatory. Order can be changed. -->
+
+                    <div class="pswp__counter"></div>
+
+                    <button class="pswp__button pswp__button--close" title="Thoát (Esc)"></button>
+
+                    <button class="pswp__button pswp__button--share" title="Chia sẻ"></button>
+
+                    <button class="pswp__button pswp__button--fs" title="Toàn màn hình"></button>
+
+                    <button class="pswp__button pswp__button--zoom" title="Phóng to/Thu nhỏ"></button>
+
+                    <!-- Preloader demo https://codepen.io/dimsemenov/pen/yyBWoR -->
+                    <!-- element will get class pswp__preloader--active when preloader is running -->
+                    <div class="pswp__preloader">
+                        <div class="pswp__preloader__icn">
+                            <div class="pswp__preloader__cut">
+                                <div class="pswp__preloader__donut"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                    <div class="pswp__share-tooltip"></div>
+                </div>
+
+                <button class="pswp__button pswp__button--arrow--left" title="Quay lại"></button>
+
+                <button class="pswp__button pswp__button--arrow--right" title="Tiếp theo"></button>
+
+                <div class="pswp__caption">
+                    <div class="pswp__caption__center"></div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+</div>
+
+<script src="/Scripts/jquery-3.1.1.min.js"></script>
+<script>
+    $(document).ready(function () {
+        var owl = $('.owl-carousel-1');
+        owl.owlCarousel({
+            loop: true,
+            margin: 20,
+            autoplay: true,
+            autoplayTimeout: 5000,
+            autoplayHoverPause: false,
+            slideTransition: 'linear',
+            autoplaySpeed: 6000,
+            responsiveClass: true,
+            responsive: {
+                0: {
+                    items: 2,
+                },
+                600: {
+                    items: 3,
+                },
+                1000: {
+                    items: 4,
+                }
+            }
+        });
+
+        var owl2 = $('.owl-carousel-2');
+        owl2.owlCarousel({
+            loop: true,
+            rtl: true,
+            margin: 20,
+            autoplay: true,
+            autoplayTimeout: 5000,
+            autoplayHoverPause: false,
+            slideTransition: 'linear',
+            autoplaySpeed: 6000,
+            responsiveClass: true,
+            responsive: {
+                0: {
+                    items: 2,
+                },
+                600: {
+                    items: 3,
+                },
+                1000: {
+                    items: 4,
+                }
+            }
+        });
+
+        var owl3 = $('.owl-carousel-3');
+        owl3.owlCarousel({
+            loop: true,
+            margin: 20,
+            autoplay: true,
+            autoplayTimeout: 5000,
+            autoplayHoverPause: false,
+            slideTransition: 'linear',
+            autoplaySpeed: 6000,
+            responsiveClass: true,
+            responsive: {
+                0: {
+                    items: 2,
+                },
+                600: {
+                    items: 3,
+                },
+                1000: {
+                    items: 4,
+                }
+            }
+        });
+    });
+</script>
+
+
+
+<script src="/Scripts/wow.min.js"></script>
+<script>
+    new WOW().init();
+</script>
+<script src="/Scripts/imagesloaded.pkgd.min.js"></script>
+<script src="/Scripts/isotope.pkgd.min.js"></script>
+<script>
+    $grid = $('.grid').isotope({
+        itemselector: '.grid-item',
+        percentposition: true,
+        masonry: {
+            columnwidth: '.grid-sizer'
+        }
+    });
+    // layout Isotope after each image loads
+    $grid.imagesLoaded().progress(function () {
+        $grid.isotope('layout');
+    });
+</script>
+
+
+
+
+
+    <footer>
+    <div class="container">
+        <div class="boxdv"> </div>
+        <div class="row">
+            <div class="col-md-5">
+                <address>
+                    &copy; 2025 <a href="http://tdmu.edu.vn" target="_blank">Trường đại học Thủ Dầu Một</a><br />
+                    <strong>Ban Tuyển sinh v&#224; truyền th&#244;ng</strong><br />
+                    Số 06 Trần Văn Ơn, Phường Ph&#250; Lợi, Th&#224;nh phố Hồ Ch&#237; Minh<br />
+                    <a href="http://tuyensinh.tdmu.edu.vn">http://tuyensinh.tdmu.edu.vn</a><br />
+                    trungtamtuyensinh@tdmu.edu.vn
+                </address>
+            </div>
+            <div class="col-md-2">
+                <address>
+                    
+                    (0274) 383-5677<br />
+                    (0274) 384-4340<br />
+                    (0274) 384-4341
+                </address>
+            </div>
+            <div class="col-md-3">
+                <address>
+                    
+                    <a data-toggle="modal" data-target="#myModal" href="#">Danh sách khoa</a> <br />
+                    <a href="/News/ThongTinTuyenSinh/4">Đại học chính quy</a><br />
+                    <a href="/News/ThongTinTuyenSinh/11">Thạc sĩ</a><br />
+                    <a href="/News/ThongTinTuyenSinh/40">Tiến sĩ</a><br />
+                    <a href="/News/ThongTinTuyenSinh/10">Hệ thường xuyên</a>
+                </address>
+            </div>
+            <div class="col-md-2">
+                <address>
+                    
+                    <a href="https://www.facebook.com/dhtdm2009" target="_blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a>
+                    &nbsp;
+                    <a href="https://www.youtube.com/@truongdaihocThuDauMot2009" target="_blank"><i class="fa fa-youtube-square fa-2x" aria-hidden="true"></i></a>
+                    &nbsp;
+                    <a href="https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Th%E1%BB%A7_D%E1%BA%A7u_M%E1%BB%99t" target="_blank"><i class="fa fa-wikipedia-w fa-2x" aria-hidden="true"></i></a>
+                </address>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<div id="myModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        
+        <div class="modal-content">
+            <div class="modal-header" style="border-bottom: 0px solid #e5e5e5; padding-bottom:5px;">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h3 class="modal-title text-center">Chọn Khoa</h3>
+            </div>
+            <div class="modal-body" style="padding-top: 5px; padding-bottom: 0px;">
+                <center><div class="list-group"> <a style='border-right-width: 0px; border-left-width: 0px; border-top-left-radius: 0px; border-top-right-radius: 0px;' href='https://tkttc.tdmu.edu.vn' target='_blank' class='list-group-item'>Trường Kinh tế Tài chính</a><a style='border-right-width: 0px; border-left-width: 0px; border-top-left-radius: 0px; border-top-right-radius: 0px;' href='https://tluql.tdmu.edu.vn' target='_blank' class='list-group-item'>Trường Luật và quản lý</a><a style='border-right-width: 0px; border-left-width: 0px; border-top-left-radius: 0px; border-top-right-radius: 0px;' href=' ' target='_blank' class='list-group-item'>Khoa Ngoại ngữ</a><a style='border-right-width: 0px; border-left-width: 0px; border-top-left-radius: 0px; border-top-right-radius: 0px;' href='https://kcnvh.tdmu.edu.vn' target='_blank' class='list-group-item'>Khoa Công nghiệp văn hóa</a><a style='border-right-width: 0px; border-left-width: 0px; border-top-left-radius: 0px; border-top-right-radius: 0px;' href='https://ksuph.tdmu.edu.vn' target='_blank' class='list-group-item'>Khoa Sư Phạm</a><a style='border-right-width: 0px; border-left-width: 0px; border-top-left-radius: 0px; border-top-right-radius: 0px;' href='https://vkxgt.tdmu.edu.vn' target='_blank' class='list-group-item'>Khoa Kiến trúc - Xây dựng</a><a style='border-right-width: 0px; border-left-width: 0px; border-top-left-radius: 0px; border-top-right-radius: 0px;' href='vien-cong-nghe-so' target='_blank' class='list-group-item'>Viện Công nghệ số</a><a style='border-right-width: 0px; border-left-width: 0px; border-top-left-radius: 0px; border-top-right-radius: 0px;' href='https://vktcn.tdmu.edu.vn' target='_blank' class='list-group-item'>Viện Kỹ thuật công nghệ</a><a style='border-right-width: 0px; border-left-width: 0px; border-top-left-radius: 0px; border-top-right-radius: 0px;' href='vien-cong-nghe-xanh-va-ben-vung' target='_blank' class='list-group-item'>Viện Công nghệ xanh và bền vững</a><a style='border-right-width: 0px; border-left-width: 0px; border-top-left-radius: 0px; border-top-right-radius: 0px;' href='https://kduoc.tdmu.edu.vn' target='_blank' class='list-group-item'>Viện Đào tạo Y Dược</a></div></center>
+            </div>
+            <div class="modal-footer" style="border-top: 0px solid #e5e5e5; padding-top: 0px;">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Đóng</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+    
+    <script src="/bundles/jsWeb2017?v=XODOMonpNM-YUk7mhR900WvW3VAgBGJWmMYhRuoAT6g1"></script>
+
+    
+    <script type="text/javascript">
+
+
+        (async () => { let e = document.createElement("script"); e.src = "https://tuvan.tdmu.edu.vn/embed", e.type = "module", document.body.appendChild(e), await new Promise(((e, t) => setTimeout((() => e()), 3e3))); let t = document.createElement("tuyensinh-chat-button"); document.body.appendChild(t) })();
+
+        //function openFormAI() {
+        //    document.getElementById("myFormchatAI").style.display = "block";
+        //    $('#callout_popup_calloutAI').hide();
+        //}
+
+        //function close_popupAI() {
+        //    $('#myFormchatAI').hide();
+        //    $('#callout_popup_calloutAI').show();
+        //    $('#callout_popup_linkAI').show();
+        //}
+        function resizeIframe(obj) {
+            obj.style.height = $('#pageCount').val() * 1450 + "px";
+        }
+    </script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-60583503-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+    <script>
+        $(document).ready(function () {
+            $("img").removeAttr("style");
+            $('img').addClass('img-responsive');
+            $('.noidungbaidang img').addClass('img-align-center');
+            $('#callout_popup_linkAI img').css('height', '70px');
+        })
+    </script>
+
+    <script async defer>
+        $(document).ready(function () {
+            setTimeout(function () {
+                var maxHeight = 0;
+                $(".get-height").each(function () {
+                    if ($(this).height() > maxHeight) {
+                        maxHeight = $(this).height();
+                    } else {
+                        maxHeight = maxHeight;
+                    }
+
+                });
+                $(".get-height").css("height", maxHeight + "px");
+            }, 1000);
+
+            setTimeout(function () {
+                var maxHeight = 0;
+                $(".ndct").each(function () {
+                    if ($(this).height() > maxHeight) {
+                        maxHeight = $(this).height();
+                    } else {
+                        maxHeight = maxHeight;
+                    }
+
+                });
+                $(".ndct").css("height", maxHeight + "px");
+            }, 1000);
+
+            function showButton() {
+
+                document.getElementById('xButton').style.display = 'block';
+            }
+
+            document.getElementById('xButton').addEventListener("click", function () {
+                document.getElementById('banner').style.display = 'none';
+                document.getElementById('xButton').style.display = 'none';
+            });
+
+            setTimeout(showButton, 3000);
+        });
+    </script>
+
+    
+</body>
+</html>
