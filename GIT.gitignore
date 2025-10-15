@@ -1,8 +1,20 @@
-# Ignore Visual Studio temporary files and folders
+# Visual Studio
 .vs/
-bin/
-obj/
 *.user
 *.suo
-*.cache
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.db
+*.vscode/
+
+# Backup and temporary files
 *.log
+*.tmp
+*.cache
+*.bak
+*.backup

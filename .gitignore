@@ -1,0 +1,4 @@
+git rm -r --cached .
+git add .
+git commit -m "Thêm README và module Đăng ký lớp học"
+git push origin master

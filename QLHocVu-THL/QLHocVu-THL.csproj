@@ -47,12 +47,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="demo.cs" />
     <Compile Include="FormDangKyMon.cs">
+=======
+    <Compile Include="DangKyLopHocBUS.cs" />
+    <Compile Include="DangKyLopHocDAL.cs" />
+    <Compile Include="DangKyLopHocDTO.cs" />
+    <Compile Include="FormDangKyLopHoc.cs">
+>>>>>>> 5352ca8 (Thêm README.md và script Database)
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormDangKyMon.Designer.cs">
-      <DependentUpon>FormDangKyMon.cs</DependentUpon>
+    <Compile Include="FormDangKyLopHoc.Designer.cs">
+      <DependentUpon>FormDangKyLopHoc.cs</DependentUpon>
     </Compile>
     <Compile Include="FormLichHoc.cs">
       <SubType>Form</SubType>
@@ -122,6 +129,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormDangKyLopHoc.resx">
+      <DependentUpon>FormDangKyLopHoc.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
@@ -149,6 +159,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Database\QLHOCVU.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
