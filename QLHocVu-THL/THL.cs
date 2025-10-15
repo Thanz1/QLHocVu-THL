@@ -39,7 +39,7 @@ namespace QLHocVu_THL
             đăngKýMônToolStripMenuItem.Visible = false;
             xemĐiểmRènLuyệnToolStripMenuItem.Visible = false;
             chấmĐiểmRènLuyệnToolStripMenuItem.Visible = false;
-            tạoLớpHọcToolStripMenuItem.Visible = false;
+            TaoLopHocToolStripMenuItem.Visible = false;
             thanhToánToolStripMenuItem.Visible = false;
             nhậpĐiểmQuáTrìnhToolStripMenuItem.Visible = false;
             thôngTinCáNhânToolStripMenuItem.Visible = false;
@@ -65,7 +65,7 @@ namespace QLHocVu_THL
             }
             else if (role == "VienDaoTao")
             {
-                tạoLớpHọcToolStripMenuItem.Visible = true;
+                TaoLopHocToolStripMenuItem.Visible = true;
                 thôngTinCáNhânToolStripMenuItem.Visible = true;
             }
             else if (role == "BanChamSoc")
@@ -129,6 +129,11 @@ namespace QLHocVu_THL
         private void THL_Resize(object sender, EventArgs e)
         {
             
+        }
+
+        private void TaoLopHocToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
