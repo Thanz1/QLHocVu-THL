@@ -138,7 +138,7 @@
             // lblWindowInfo
             // 
             this.lblWindowInfo.AutoSize = true;
-            this.lblWindowInfo.Location = new System.Drawing.Point(820, 381);
+            this.lblWindowInfo.Location = new System.Drawing.Point(284, 413);
             this.lblWindowInfo.Name = "lblWindowInfo";
             this.lblWindowInfo.Size = new System.Drawing.Size(59, 13);
             this.lblWindowInfo.TabIndex = 11;

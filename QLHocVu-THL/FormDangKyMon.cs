@@ -99,7 +99,11 @@ namespace QLHocVu_THL
                 MessageBox.Show("Nhập MaSV trước khi hủy đăng ký.");
                 return;
             }
-
+            if (window == null || !window.IsOpenNow())
+            {
+                MessageBox.Show("Hiện tại không trong khoảng thời gian đăng ký.");
+                return;
+            }
             if (dgvDaDangKy.SelectedRows.Count == 0)
             {
                 MessageBox.Show("Chọn 1 dòng trong danh sách đã đăng ký để hủy.");

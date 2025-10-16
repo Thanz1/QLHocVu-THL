@@ -1,0 +1,2122 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Trường Đại Học Thủ Dầu Một</title>
+    <link rel="icon" type="image/png" href="/img/Icon.png">
+    <meta name="keywords" content="dai hoc thu dau mot, đại học thủ dầu một, Thu Dau Mot University, truong dai hoc, trường đại học, dai hoc, đại học" />
+    
+    <link rel="canonical" href="https://tdmu.edu.vn/Home2020/" />
+    <meta property="facebook:title" content="Trường Đại Học Thủ Dầu Một" />
+    <meta property="facebook:url" content="https://tdmu.edu.vn/Home2020/" />
+
+        <meta property="facebook:image" content="https://tdmu.edu.vn/img/brand/Logo_tdmu_2024_seo_v2.png" />
+        <meta property="og:image" content="https://tdmu.edu.vn/img/brand/Logo_tdmu_2024_seo_v2.png" />
+        <meta property="og:image:secure_url" content="https://tdmu.edu.vn/img/brand/Logo_tdmu_2024_seo_v2.png" />
+        <meta property="og:image:secure_url" content="https://tdmu.edu.vn/img/brand/Logo_tdmu_2024_seo_v2.png" />
+    <meta property="og:title" content="Trường Đại Học Thủ Dầu Một" />
+    <meta property="og:url" content="https://tdmu.edu.vn/Home2020/" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:type" content="Education" />
+
+    
+    <link href="/Content/css2025?v=qBsWERa05PUtsB3Ew73dZ0o5tDyVFtH_tr_YEVwaNCU1" rel="stylesheet"/>
+
+    <script src="/Scripts/js2025?v=xCIjhy_6ZpFg0CodOqXHsvsgvxOLIfWLsKJCC1PBsZI1"></script>
+
+</head>
+<body id="home">
+    
+    
+<header style="position: relative; z-index: 20;">
+    <nav id="nav-top" class="navbar navbar-expand-lg navbar-dark bg-dark bg-tdmu fixed-top">
+        <div class="container">
+            
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                </ul>
+
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/giang-vien">Giảng viên</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="/sinh-vien">Sinh viên</a>
+                    </li>
+
+                    
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="/lich-cong-tac">Lịch công tác</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="/tt36">Công khai TT36</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Home2020/TruyenThong">Truyền thông</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/lien-he">Liên hệ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://eng.tdmu.edu.vn/">English</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a title="Facebook TDMU" style="padding-top: 8px; padding-bottom: 5px;" class="nav-link" href="https://www.facebook.com/dhtdm2009" target="_blank">
+                            
+                            <i class="fa-brands fa-square-facebook text-white fa-xl"></i>
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a title="Youtube TDMU" style="padding-top: 8px; padding-bottom: 5px;" class="nav-link" href="https://www.youtube.com/channel/UCBtKDWV4vp7QPl8474svFWw" target="_blank">
+                            
+                            <i class="fa-brands fa-youtube text-white fa-xl"></i>
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+<form action="/tim-kiem" enctype="multipart/form-data" id="formSearch" method="post" role="search"><input name="__RequestVerificationToken" type="hidden" value="1GmdCjho6KJtTwp3JYaaf8V6pCeqfM9_zUsnxbn3DO_vK53U5A7W-DEMkACfAgU1E__YQY68t0S9HBJbQvsjqfYm07Nzyr46MgZ5RGvfXj41" />                            <form action="" class="nav-link" id="formSearch">
+                                <a class="nav-link" href="/tim-kiem" title="Tìm kiếm TDMU">
+                                    <input type="search" class="inputSearch" placeholder="Tìm trên TDMU" id="txtSearchHomeMobile" name="txtSearchHome">
+                                    <i class="fa fa-search" id="faSearch"></i>
+                                </a>
+                            </form>
+</form>                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <nav id="navbar-two" class="navbar navbar-expand-lg navbar-dark fixed-top bg-2-default" style="top: 2.3em; padding: 0;">
+        <div class="container">
+            <a class="navbar-brand" href="/">
+                <img id="changeLogo" src="/img/brand/Logo_TDMU_2024_nguyen_ban.svg" class="img-fluid" style="height: 2.9em;" />
+            </a>
+            
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mx-auto mt-2 mt-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/gioi-thieu">Giới thiệu</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/#tinTuc">Tin tức</a>
+                    </li>
+                    
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Tuyển sinh
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="https://tuyensinh.tdmu.edu.vn/">Tuyển sinh Đại học</a>
+                            <a class="dropdown-item" href="https://bdsdh.tdmu.edu.vn/">Tuyển sinh Sau Đại học</a>
+                            <a class="dropdown-item" href="https://vncxh.tdmu.edu.vn/">Đào tạo theo nhu cầu Xã hội</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/#KHCN">KHCN</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/#daoTao">Đào tạo</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/#hopTac">Hợp tác</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/#kiemDinh">Kiểm định</a>
+                    </li>
+                    
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://ttdvk.tdmu.edu.vn/#viecLamMoi">Tuyển dụng</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/#thongBao">Thông báo</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <nav id="nav-mobile" class="navbar navbar-expand-lg navbar-dark bg-dark bg-tdmu fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="/Home2020/">
+                <img src="/img/brand/Logo_TDMU_2024_nguyen_ban_Trang.svg" class="img-fluid" style="height: 2em;" />
+            </a>
+            
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavMobile" aria-controls="navbarNavMobile" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavMobile">
+                <hr style="border-top: 1px solid rgba(255, 255, 255, 0.99);" />
+                <ul class="navbar-nav" style="display: block;">
+                    <table class="table table-bordered" id="tableMenu" style="color:unset !important">
+                        <tr>
+                            <td>
+                                <a href="/gioi-thieu">Giới thiệu</a>
+                            </td>
+                            <td>
+                                <a href="/#tinTuc">Tin tức</a>
+                            </td>
+                            <td>
+                                <a href="/#suKien">Sự kiện</a>
+                            </td>
+                            
+                            <td>
+                                <a href="https://tuyensinh.tdmu.edu.vn/">Tuyển sinh</a>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                <a href="/#KHCN">KHCN</a>
+                            </td>
+                            <td>
+                                <a href="/#daoTao">Đào tạo</a>
+                            </td>
+                            <td>
+                                <a href="/#hopTac">Hợp tác</a>
+                            </td>
+                            <td>
+                                <a href="/#kiemDinh">Kiểm định</a>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                <a href="https://cece.tdmu.edu.vn/#viecLamMoi">Tuyển dụng</a>
+                            </td>
+                            <td>
+                                <a href="/#thongBao">Thông báo</a>
+                            </td>
+                            <td>
+                                <a href="/giang-vien">Giảng viên</a>
+                            </td>
+                            <td>
+                                <a href="/sinh-vien">Sinh viên</a>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                <a href="/lich-cong-tac">Lịch công tác</a>
+                            </td>
+                            <td>
+                                <a href="/tt36">Công khai TT36</a>
+                            </td>
+                            <td>
+                                <a href="/Home2020/TruyenThong">Truyền thông</a>
+                            </td>
+                            <td>
+                                <a href="/lien-he">Liên hệ</a>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                <a href="https://eng.tdmu.edu.vn/">English</a>
+                            </td>
+                            <td>
+                                <a href="/tim-kiem">Tìm kiếm</a>
+                            </td>
+
+                            <td>
+                                <a title="Facebook TDMU" href="https://www.facebook.com/dhtdm2009" target="_blank">
+                                    Facebook TDMU
+                                </a>
+                            </td>
+
+                            <td>
+                                <a title="Youtube TDMU" href="https://www.youtube.com/channel/UCBtKDWV4vp7QPl8474svFWw" target="_blank">
+                                    Youtube TDMU
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+    <div id="renderBody">
+        
+
+
+
+<br />
+<br />
+<br />
+<br />
+
+    <div id="carousel-example" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+                    <li data-target="#carousel-example" data-slide-to="0" class="active"></li>
+                    <li data-target="#carousel-example" data-slide-to="1"></li>
+                    <li data-target="#carousel-example" data-slide-to="2"></li>
+                    <li data-target="#carousel-example" data-slide-to="3"></li>
+                    <li data-target="#carousel-example" data-slide-to="4"></li>
+        </ol>
+
+        <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <a class="d-flex justify-content-center">
+                            <img class="img-fluid" src="/img/slides/images/thumbs/fc0393db-a4d8-4a3a-9fad-9cb7cc470b6f.jpg" style="width: 100%"/>
+                        </a>
+                    </div>
+                    <div class="carousel-item">
+                        <a class="d-flex justify-content-center">
+                            <img class="img-fluid" src="/img/slides/images/thumbs/b481dbc6-8fae-49a8-b526-dcdb05cbe9c1.jpg" style="width: 100%" />
+                            
+                        </a>
+                    </div>
+                    <div class="carousel-item">
+                        <a class="d-flex justify-content-center">
+                            <img class="img-fluid" src="/img/slides/images/thumbs/483c09aa-f906-44b6-9548-17fc49741389.jpg" style="width: 100%" />
+                            
+                        </a>
+                    </div>
+                    <div class="carousel-item">
+                        <a class="d-flex justify-content-center">
+                            <img class="img-fluid" src="/img/slides/images/thumbs/0b600adb-7425-47ba-aec0-1419390ad066.jpg" style="width: 100%" />
+                            
+                        </a>
+                    </div>
+                    <div class="carousel-item">
+                        <a class="d-flex justify-content-center">
+                            <img class="img-fluid" src="/img/slides/images/thumbs/895a7d00-e359-4eed-982a-31380fa62edb.jpg" style="width: 100%" />
+                            
+                        </a>
+                    </div>
+        </div>
+
+        <a class="carousel-control-prev" href="#carousel-example" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carousel-example" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="pb-4" id="tinTuc" style="padding-top: 105px">
+    <div class="text-center">
+        <h1 class="text-center pb-3" style="font-weight: 700">Tin tức</h1>
+    </div>
+    <div class="container">
+        <div class="row mx-auto my-auto div-desktop">
+            <div class="col-md-12">
+                <div class="row owl-carousel owl-theme owl-carousel-tintuc w-100" role="listbox">
+                        <div class="col-md-12 p-1">
+                            <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                                <a href="/tin-tuc/hop-tac-doi-ngoai-1/hop-tac-phat-trien-nguon-nhan-luc-va-nghien-cuu-khoa-hoc-giua-truong-dai-hoc-thu-dau-mot-va-tap-doan-ct-group" class="tag-a-news">
+                                    <img src="/img/ckeditor/Images/320x200_nen_2025-10-16-19-25-57-23c42f1ba23d2f63762c.jpg" class="img-fluid img-news" />
+                                    <p style="text-align: justify; padding: 15px; font-weight: bold">Hợp t&#225;c ph&#225;t triển nguồn nh&#226;n lực v&#224; nghi&#234;n cứu khoa học giữa Trường Đại học Thủ Dầu Một v&#224; Tập đo&#224;n CT Group</p>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-12 p-1">
+                            <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                                <a href="/tin-tuc/tin-tong-hop/hoi-nghi-cong-bo-va-trao-quyet-dinh-nhan-su-cho-cac-don-vi-thuoc-truc-thuoc-truong" class="tag-a-news">
+                                    <img src="/img/ckeditor/Images/320x200_nen_2025-10-16-15-53-01-DSC_4177.JPG" class="img-fluid img-news" />
+                                    <p style="text-align: justify; padding: 15px; font-weight: bold">Hội nghị c&#244;ng bố v&#224; trao quyết định nh&#226;n sự cho c&#225;c đơn vị thuộc, trực thuộc trường</p>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-12 p-1">
+                            <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                                <a href="/tin-tuc/tin-tong-hop/cong-bo-toan-van-du-thao-cac-van-kien-trinh-dai-hoi-lan-thu-xiv-cua-dang" class="tag-a-news">
+                                    <img src="/img/ckeditor/Images/320x200_nen_2025-10-16-09-00-45-Screenshot 2025-10-16 085822.png" class="img-fluid img-news" />
+                                    <p style="text-align: justify; padding: 15px; font-weight: bold">C&#244;ng bố to&#224;n văn dự thảo c&#225;c văn kiện tr&#236;nh Đại hội lần thứ XIV của Đảng</p>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-12 p-1">
+                            <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                                <a href="/tin-tuc/tin-tong-hop/dai-hoi-dai-bieu-dang-bo-tphcm-lan-thu-i-thong-qua-nghi-quyet-voi-30-chi-tieu-phat-trien" class="tag-a-news">
+                                    <img src="/img/ckeditor/Images/320x200_nen_2025-10-15-16-50-50-15-10-2025Bemac_05.jpg" class="img-fluid img-news" />
+                                    <p style="text-align: justify; padding: 15px; font-weight: bold">Đại hội đại biểu Đảng bộ TP.HCM lần thứ I th&#244;ng qua Nghị quyết với 30 chỉ ti&#234;u ph&#225;t triển</p>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-12 p-1">
+                            <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                                <a href="/tin-tuc/tin-tong-hop/truong-dai-hoc-thu-dau-mot-nang-cao-nhan-thuc-phong-ngua-virus-hpv-trong-cong-dong-sinh-vien" class="tag-a-news">
+                                    <img src="/img/ckeditor/Images/320x200_nen_2025-10-15-15-52-56-DSC_4056.JPG" class="img-fluid img-news" />
+                                    <p style="text-align: justify; padding: 15px; font-weight: bold">Trường Đại học Thủ Dầu Một n&#226;ng cao nhận thức ph&#242;ng ngừa virus HPV trong cộng đồng sinh vi&#234;n</p>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-12 p-1">
+                            <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                                <a href="/tin-tuc/tin-dao-tao/khoa-dao-tao-nghe-thuat-lanh-dao-danh-cho-can-bo-quan-ly" class="tag-a-news">
+                                    <img src="/img/ckeditor/Images/320x200_nen_2025-10-15-11-42-10-DSC_3976.JPG" class="img-fluid img-news" />
+                                    <p style="text-align: justify; padding: 15px; font-weight: bold">Kh&#243;a đ&#224;o tạo “Nghệ thuật l&#227;nh đạo” d&#224;nh cho c&#225;n bộ quản l&#253;</p>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-12 p-1">
+                            <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                                <a href="/tin-tuc/cong-doan-doan-tn/canh-bao-nguy-co-bat-coc-va-lua-dao-online-tinh-vi-nham-vao-sinh-vien" class="tag-a-news">
+                                    <img src="/img/ckeditor/Images/320x200_nen_2025-10-14-16-40-04-z7114768541028_9ef5aaba278430e771772fc98922d5f9.jpg" class="img-fluid img-news" />
+                                    <p style="text-align: justify; padding: 15px; font-weight: bold">Cảnh b&#225;o nguy cơ bắt c&#243;c v&#224; lừa đảo online tinh vi nhắm v&#224;o sinh vi&#234;n</p>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-12 p-1">
+                            <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                                <a href="/tin-tuc/tin-tong-hop/khai-mac-dai-hoi-dai-bieu-dang-bo-tp-hcm-lan-thu-i-nhiem-ky-2025-2030" class="tag-a-news">
+                                    <img src="/img/ckeditor/Images/320x200_nen_2025-10-14-16-01-10-Dai-Hoi-Dang-Tphcm.jpg" class="img-fluid img-news" />
+                                    <p style="text-align: justify; padding: 15px; font-weight: bold">Khai mạc Đại hội Đại biểu Đảng bộ TP HCM lần thứ I, nhiệm kỳ 2025- 2030</p>
+                                </a>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="row div-mobile">
+                <div class="col-md-3 col-sm-4">
+                    <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                        <a href="/tin-tuc/hop-tac-doi-ngoai-1/hop-tac-phat-trien-nguon-nhan-luc-va-nghien-cuu-khoa-hoc-giua-truong-dai-hoc-thu-dau-mot-va-tap-doan-ct-group" class="tag-a-news">
+                            <img src="/img/ckeditor/Images/320x200_nen_2025-10-16-19-25-57-23c42f1ba23d2f63762c.jpg" class="img-fluid img-news" />
+                            <p style="text-align: justify; padding: 15px; font-weight: bold">Hợp t&#225;c ph&#225;t triển nguồn nh&#226;n lực v&#224; nghi&#234;n cứu khoa học giữa Trường Đại học Thủ Dầu Một v&#224; Tập đo&#224;n CT Group</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4">
+                    <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                        <a href="/tin-tuc/tin-tong-hop/hoi-nghi-cong-bo-va-trao-quyet-dinh-nhan-su-cho-cac-don-vi-thuoc-truc-thuoc-truong" class="tag-a-news">
+                            <img src="/img/ckeditor/Images/320x200_nen_2025-10-16-15-53-01-DSC_4177.JPG" class="img-fluid img-news" />
+                            <p style="text-align: justify; padding: 15px; font-weight: bold">Hội nghị c&#244;ng bố v&#224; trao quyết định nh&#226;n sự cho c&#225;c đơn vị thuộc, trực thuộc trường</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4">
+                    <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                        <a href="/tin-tuc/tin-tong-hop/cong-bo-toan-van-du-thao-cac-van-kien-trinh-dai-hoi-lan-thu-xiv-cua-dang" class="tag-a-news">
+                            <img src="/img/ckeditor/Images/320x200_nen_2025-10-16-09-00-45-Screenshot 2025-10-16 085822.png" class="img-fluid img-news" />
+                            <p style="text-align: justify; padding: 15px; font-weight: bold">C&#244;ng bố to&#224;n văn dự thảo c&#225;c văn kiện tr&#236;nh Đại hội lần thứ XIV của Đảng</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4">
+                    <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                        <a href="/tin-tuc/tin-tong-hop/dai-hoi-dai-bieu-dang-bo-tphcm-lan-thu-i-thong-qua-nghi-quyet-voi-30-chi-tieu-phat-trien" class="tag-a-news">
+                            <img src="/img/ckeditor/Images/320x200_nen_2025-10-15-16-50-50-15-10-2025Bemac_05.jpg" class="img-fluid img-news" />
+                            <p style="text-align: justify; padding: 15px; font-weight: bold">Đại hội đại biểu Đảng bộ TP.HCM lần thứ I th&#244;ng qua Nghị quyết với 30 chỉ ti&#234;u ph&#225;t triển</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4">
+                    <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                        <a href="/tin-tuc/tin-tong-hop/truong-dai-hoc-thu-dau-mot-nang-cao-nhan-thuc-phong-ngua-virus-hpv-trong-cong-dong-sinh-vien" class="tag-a-news">
+                            <img src="/img/ckeditor/Images/320x200_nen_2025-10-15-15-52-56-DSC_4056.JPG" class="img-fluid img-news" />
+                            <p style="text-align: justify; padding: 15px; font-weight: bold">Trường Đại học Thủ Dầu Một n&#226;ng cao nhận thức ph&#242;ng ngừa virus HPV trong cộng đồng sinh vi&#234;n</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4">
+                    <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                        <a href="/tin-tuc/tin-dao-tao/khoa-dao-tao-nghe-thuat-lanh-dao-danh-cho-can-bo-quan-ly" class="tag-a-news">
+                            <img src="/img/ckeditor/Images/320x200_nen_2025-10-15-11-42-10-DSC_3976.JPG" class="img-fluid img-news" />
+                            <p style="text-align: justify; padding: 15px; font-weight: bold">Kh&#243;a đ&#224;o tạo “Nghệ thuật l&#227;nh đạo” d&#224;nh cho c&#225;n bộ quản l&#253;</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4">
+                    <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                        <a href="/tin-tuc/cong-doan-doan-tn/canh-bao-nguy-co-bat-coc-va-lua-dao-online-tinh-vi-nham-vao-sinh-vien" class="tag-a-news">
+                            <img src="/img/ckeditor/Images/320x200_nen_2025-10-14-16-40-04-z7114768541028_9ef5aaba278430e771772fc98922d5f9.jpg" class="img-fluid img-news" />
+                            <p style="text-align: justify; padding: 15px; font-weight: bold">Cảnh b&#225;o nguy cơ bắt c&#243;c v&#224; lừa đảo online tinh vi nhắm v&#224;o sinh vi&#234;n</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4">
+                    <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                        <a href="/tin-tuc/tin-tong-hop/khai-mac-dai-hoi-dai-bieu-dang-bo-tp-hcm-lan-thu-i-nhiem-ky-2025-2030" class="tag-a-news">
+                            <img src="/img/ckeditor/Images/320x200_nen_2025-10-14-16-01-10-Dai-Hoi-Dang-Tphcm.jpg" class="img-fluid img-news" />
+                            <p style="text-align: justify; padding: 15px; font-weight: bold">Khai mạc Đại hội Đại biểu Đảng bộ TP HCM lần thứ I, nhiệm kỳ 2025- 2030</p>
+                        </a>
+                    </div>
+                </div>
+        </div>
+        <div class="text-center pt-3 pb-4">
+            <a href="/tin-tuc" class="btn btn-success btn-lg bg-cam">
+                Xem thêm tin tức TDMU
+            </a>
+        </div>
+    </div>
+</div>
+<script>
+    $('.carousel-tintuc-master .carousel-item').each(function () {
+        var minPerSlide = 4;
+        var next = $(this).next();
+        if (!next.length) {
+            next = $(this).siblings(':first');
+        }
+        next.children(':first-child').clone().appendTo($(this));
+
+        for (var i = 0; i < minPerSlide; i++) {
+            next = next.next();
+            if (!next.length) {
+                next = $(this).siblings(':first');
+            }
+
+            next.children(':first-child').clone().appendTo($(this));
+        }
+    });
+</script>
+<div class="pb-4" id="tinTuc" style="padding-top: 105px">
+    <div class="text-center">
+        <h1 class="text-center pb-3" style="font-weight: 700">Bản tin hoạt động sinh viên</h1>
+    </div>
+    <div class="container">
+        <div class="row mx-auto my-auto div-desktop">
+            <div class="col-md-12">
+                <div class="row owl-carousel owl-theme owl-carousel-tintuc w-100" role="listbox">
+                        <div class="col-md-12 p-1">
+                            <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                                <a href="/cuoc-song-sinh-vien/bang-tin-hoat-dong-sinh-vien-tong-hop/le-ket-nap-hoi-vien-hoi-sinh-vien-viet-nam-tai-truong-dai-hoc-thu-dau-mot" class="tag-a-news">
+                                    <img src="/img/ckeditor/Images/320x200_nen_2025-10-11-15-33-13-DSC_3595.JPG" class="img-fluid img-news" />
+                                    <p style="text-align: justify; padding: 15px; font-weight: bold">Lễ kết nạp Hội vi&#234;n Hội Sinh vi&#234;n Việt Nam tại Trường Đại học Thủ Dầu Một</p>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-12 p-1">
+                            <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                                <a href="/cuoc-song-sinh-vien/bang-tin-hoat-dong-sinh-vien-tong-hop/tan-sinh-vien-d25-bung-no-cung-ngay-hoi-cham-uoc-mo" class="tag-a-news">
+                                    <img src="/img/ckeditor/Images/320x200_nen_2025-10-09-18-36-02-DSC_3258.JPG" class="img-fluid img-news" />
+                                    <p style="text-align: justify; padding: 15px; font-weight: bold">T&#226;n sinh vi&#234;n D25 b&#249;ng nổ c&#249;ng Ng&#224;y hội “CHẠM: ƯỚC MƠ”</p>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-12 p-1">
+                            <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                                <a href="/cuoc-song-sinh-vien/bang-tin-hoat-dong-sinh-vien-tong-hop/tuoi-tre-truong-dai-hoc-thu-dau-mot-lan-toa-yeu-thuong-trong-mua-trung-thu-2025" class="tag-a-news">
+                                    <img src="/img/ckeditor/Images/320x200_nen_2025-10-07-14-55-46-557090837_1211712364325599_5347527490707015445_n.jpg" class="img-fluid img-news" />
+                                    <p style="text-align: justify; padding: 15px; font-weight: bold">Tuổi trẻ Trường Đại học Thủ Dầu Một lan tỏa y&#234;u thương trong m&#249;a Trung thu 2025</p>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-12 p-1">
+                            <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                                <a href="/cuoc-song-sinh-vien/bang-tin-hoat-dong-sinh-vien-tong-hop/toa-dam-nghe-thuat-dinh-vi-san-pham-thuong-hieu-ban-than" class="tag-a-news">
+                                    <img src="/img/ckeditor/Images/320x200_nen_2025-10-07-11-13-58-558323881_1101063838891606_5219779701618720581_n.jpg" class="img-fluid img-news" />
+                                    <p style="text-align: justify; padding: 15px; font-weight: bold">Tọa đ&#224;m “Nghệ thuật định vị: Sản phẩm – Thương hiệu – Bản th&#226;n”</p>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-12 p-1">
+                            <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                                <a href="/cuoc-song-sinh-vien/bang-tin-hoat-dong-sinh-vien-tong-hop/dai-hoi-dai-bieu-lien-chi-hoi-sinh-vien-vien-dao-tao-cong-nghe-thong-tin-chuyen-doi-so-lan-thu-i-nhiem-ky-2025-2028" class="tag-a-news">
+                                    <img src="/img/ckeditor/Images/320x200_nen_2025-10-02-09-30-29-556869086_122167004318521838_3941981352947251658_n.jpg" class="img-fluid img-news" />
+                                    <p style="text-align: justify; padding: 15px; font-weight: bold">Đại hội Đại biểu Li&#234;n chi Hội sinh vi&#234;n Viện Đ&#224;o tạo C&#244;ng nghệ th&#244;ng tin, chuyển đổi số Lần thứ I, Nhiệm kỳ 2025 – 2028</p>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-12 p-1">
+                            <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                                <a href="/cuoc-song-sinh-vien/bang-tin-hoat-dong-sinh-vien-tong-hop/tan-sinh-vien-tdmu-kham-pha-moi-truong-hoc-tap-va-sang-tao-qua-campus-tour-2025" class="tag-a-news">
+                                    <img src="/img/ckeditor/Images/320x200_nen_2025-09-29-14-53-22-1.png" class="img-fluid img-news" />
+                                    <p style="text-align: justify; padding: 15px; font-weight: bold">T&#226;n sinh vi&#234;n TDMU kh&#225;m ph&#225; m&#244;i trường học tập v&#224; s&#225;ng tạo qua Campus Tour 2025</p>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-12 p-1">
+                            <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                                <a href="/cuoc-song-sinh-vien/bang-tin-hoat-dong-sinh-vien-tong-hop/sinh-vien-truong-dai-hoc-thu-dau-mot-toa-sang-tai-lien-hoan-nhom-nhay-hssv-tp-hcm-2025" class="tag-a-news">
+                                    <img src="/img/ckeditor/Images/320x200_nen_2025-09-29-08-56-45-555669393_1094809299517060_3191510114533511743_n.jpg" class="img-fluid img-news" />
+                                    <p style="text-align: justify; padding: 15px; font-weight: bold">Sinh vi&#234;n Trường Đại học Thủ Dầu Một tỏa s&#225;ng tại Li&#234;n hoan nh&#243;m nhảy HSSV TP.HCM 2025</p>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-12 p-1">
+                            <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                                <a href="/cuoc-song-sinh-vien/bang-tin-hoat-dong-sinh-vien-tong-hop/khanh-thanh-cong-trinh-duong-co-to-quoc-tai-xa-duong-minh-chau-tay-ninh" class="tag-a-news">
+                                    <img src="/img/ckeditor/Images/320x200_nen_2025-09-23-11-04-35-550533124_815466761010852_6737369198967576267_n.jpg" class="img-fluid img-news" />
+                                    <p style="text-align: justify; padding: 15px; font-weight: bold">Kh&#225;nh th&#224;nh c&#244;ng tr&#236;nh “Đường cờ Tổ quốc” tại x&#227; Dương Minh Ch&#226;u, T&#226;y Ninh</p>
+                                </a>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="row div-mobile">
+                <div class="col-md-3 col-sm-4">
+                    <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                        <a href="/cuoc-song-sinh-vien/bang-tin-hoat-dong-sinh-vien-tong-hop/le-ket-nap-hoi-vien-hoi-sinh-vien-viet-nam-tai-truong-dai-hoc-thu-dau-mot" class="tag-a-news">
+                            <img src="/img/ckeditor/Images/320x200_nen_2025-10-11-15-33-13-DSC_3595.JPG" class="img-fluid img-news" />
+                            <p style="text-align: justify; padding: 15px; font-weight: bold">Lễ kết nạp Hội vi&#234;n Hội Sinh vi&#234;n Việt Nam tại Trường Đại học Thủ Dầu Một</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4">
+                    <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                        <a href="/cuoc-song-sinh-vien/bang-tin-hoat-dong-sinh-vien-tong-hop/tan-sinh-vien-d25-bung-no-cung-ngay-hoi-cham-uoc-mo" class="tag-a-news">
+                            <img src="/img/ckeditor/Images/320x200_nen_2025-10-09-18-36-02-DSC_3258.JPG" class="img-fluid img-news" />
+                            <p style="text-align: justify; padding: 15px; font-weight: bold">T&#226;n sinh vi&#234;n D25 b&#249;ng nổ c&#249;ng Ng&#224;y hội “CHẠM: ƯỚC MƠ”</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4">
+                    <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                        <a href="/cuoc-song-sinh-vien/bang-tin-hoat-dong-sinh-vien-tong-hop/tuoi-tre-truong-dai-hoc-thu-dau-mot-lan-toa-yeu-thuong-trong-mua-trung-thu-2025" class="tag-a-news">
+                            <img src="/img/ckeditor/Images/320x200_nen_2025-10-07-14-55-46-557090837_1211712364325599_5347527490707015445_n.jpg" class="img-fluid img-news" />
+                            <p style="text-align: justify; padding: 15px; font-weight: bold">Tuổi trẻ Trường Đại học Thủ Dầu Một lan tỏa y&#234;u thương trong m&#249;a Trung thu 2025</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4">
+                    <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                        <a href="/cuoc-song-sinh-vien/bang-tin-hoat-dong-sinh-vien-tong-hop/toa-dam-nghe-thuat-dinh-vi-san-pham-thuong-hieu-ban-than" class="tag-a-news">
+                            <img src="/img/ckeditor/Images/320x200_nen_2025-10-07-11-13-58-558323881_1101063838891606_5219779701618720581_n.jpg" class="img-fluid img-news" />
+                            <p style="text-align: justify; padding: 15px; font-weight: bold">Tọa đ&#224;m “Nghệ thuật định vị: Sản phẩm – Thương hiệu – Bản th&#226;n”</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4">
+                    <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                        <a href="/cuoc-song-sinh-vien/bang-tin-hoat-dong-sinh-vien-tong-hop/dai-hoi-dai-bieu-lien-chi-hoi-sinh-vien-vien-dao-tao-cong-nghe-thong-tin-chuyen-doi-so-lan-thu-i-nhiem-ky-2025-2028" class="tag-a-news">
+                            <img src="/img/ckeditor/Images/320x200_nen_2025-10-02-09-30-29-556869086_122167004318521838_3941981352947251658_n.jpg" class="img-fluid img-news" />
+                            <p style="text-align: justify; padding: 15px; font-weight: bold">Đại hội Đại biểu Li&#234;n chi Hội sinh vi&#234;n Viện Đ&#224;o tạo C&#244;ng nghệ th&#244;ng tin, chuyển đổi số Lần thứ I, Nhiệm kỳ 2025 – 2028</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4">
+                    <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                        <a href="/cuoc-song-sinh-vien/bang-tin-hoat-dong-sinh-vien-tong-hop/tan-sinh-vien-tdmu-kham-pha-moi-truong-hoc-tap-va-sang-tao-qua-campus-tour-2025" class="tag-a-news">
+                            <img src="/img/ckeditor/Images/320x200_nen_2025-09-29-14-53-22-1.png" class="img-fluid img-news" />
+                            <p style="text-align: justify; padding: 15px; font-weight: bold">T&#226;n sinh vi&#234;n TDMU kh&#225;m ph&#225; m&#244;i trường học tập v&#224; s&#225;ng tạo qua Campus Tour 2025</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4">
+                    <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                        <a href="/cuoc-song-sinh-vien/bang-tin-hoat-dong-sinh-vien-tong-hop/sinh-vien-truong-dai-hoc-thu-dau-mot-toa-sang-tai-lien-hoan-nhom-nhay-hssv-tp-hcm-2025" class="tag-a-news">
+                            <img src="/img/ckeditor/Images/320x200_nen_2025-09-29-08-56-45-555669393_1094809299517060_3191510114533511743_n.jpg" class="img-fluid img-news" />
+                            <p style="text-align: justify; padding: 15px; font-weight: bold">Sinh vi&#234;n Trường Đại học Thủ Dầu Một tỏa s&#225;ng tại Li&#234;n hoan nh&#243;m nhảy HSSV TP.HCM 2025</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4">
+                    <div class="box-shadow-img animatable bounceIn get-height mb-2">
+                        <a href="/cuoc-song-sinh-vien/bang-tin-hoat-dong-sinh-vien-tong-hop/khanh-thanh-cong-trinh-duong-co-to-quoc-tai-xa-duong-minh-chau-tay-ninh" class="tag-a-news">
+                            <img src="/img/ckeditor/Images/320x200_nen_2025-09-23-11-04-35-550533124_815466761010852_6737369198967576267_n.jpg" class="img-fluid img-news" />
+                            <p style="text-align: justify; padding: 15px; font-weight: bold">Kh&#225;nh th&#224;nh c&#244;ng tr&#236;nh “Đường cờ Tổ quốc” tại x&#227; Dương Minh Ch&#226;u, T&#226;y Ninh</p>
+                        </a>
+                    </div>
+                </div>
+        </div>
+        <div class="text-center pt-3 pb-4">
+            <a href="/cuoc-song-sinh-vien" class="btn btn-success btn-lg bg-cam">
+                Xem thêm bản tin hoạt động sinh viên
+            </a>
+        </div>
+    </div>
+</div>
+
+
+<style>
+    /* Tabs panel */
+    .tabbable-panel {
+        padding: 10px;
+    }
+
+    /* Default mode */
+
+    .nav-tabs {
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+    }
+
+    .tabbable-line > .nav-tabs {
+        border: none;
+        margin: 0;
+    }
+
+    .nav-tabs {
+        text-align: center;
+    }
+
+    .tabbable-line > .nav-tabs > li {
+        margin: 2px;
+    }
+
+        .tabbable-line > .nav-tabs > li > a {
+            border: 0;
+            margin-right: 0;
+            color: #737373;
+        }
+
+            .tabbable-line > .nav-tabs > li > a > i {
+                color: #a6a6a6;
+            }
+
+        .tabbable-line > .nav-tabs > li.open, .tabbable-line > .nav-tabs > li:hover {
+            border-bottom: 4px solid #f56311;
+        }
+
+            .tabbable-line > .nav-tabs > li.open > a, .tabbable-line > .nav-tabs > li:hover > a {
+                border: 0;
+                background: none !important;
+                color: #333333;
+            }
+
+                .tabbable-line > .nav-tabs > li.open > a > i, .tabbable-line > .nav-tabs > li:hover > a > i {
+                    color: #a6a6a6;
+                }
+
+    /* .tabbable-line > .nav-tabs > li.open .dropdown-menu, .tabbable-line > .nav-tabs > li:hover .dropdown-menu {
+                margin-top: 0px;
+            }*/
+
+    .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+        border-bottom: 4px solid #f56311;
+        position: relative;
+    }
+
+    .tabbable-line > .nav-tabs > li.active > a {
+        border: 0;
+        color: #333333;
+    }
+
+        .tabbable-line > .nav-tabs > li.active > a > i {
+            color: #404040;
+        }
+
+    .tabbable-line > .tab-content {
+        margin-top: -3px;
+        background-color: #fff;
+        border: 0;
+        border-top: 1px solid #eee;
+        padding: 15px 0;
+    }
+
+    .portlet .tabbable-line > .tab-content {
+        padding-bottom: 0;
+    }
+
+    .delete-border-top-bot:first-child {
+        border-top: none;
+    }
+
+    .delete-border-top-bot:last-child {
+        border-bottom: none;
+    }
+
+
+
+    /* Below tabs mode */
+
+    /*.tabbable-line.tabs-below > .nav-tabs > li {
+        border-top: 4px solid transparent;
+    }
+
+        .tabbable-line.tabs-below > .nav-tabs > li > a {
+            margin-top: 0;
+        }
+
+        .tabbable-line.tabs-below > .nav-tabs > li:hover {
+            border-bottom: 0;
+            border-top: 4px solid #fbcdcf;
+        }
+
+        .tabbable-line.tabs-below > .nav-tabs > li.active {
+            margin-bottom: -2px;
+            border-bottom: 0;
+            border-top: 4px solid #f3565d;
+        }
+
+    .tabbable-line.tabs-below > .tab-content {
+        margin-top: -10px;
+        border-top: 0;
+        border-bottom: 1px solid #eee;
+        padding-bottom: 15px;
+    }*/
+</style>
+<div id="thongBao" class="pt-5">
+
+</div>
+<div class="bg-tdmu" style="color: #fff; padding-top: 3.7rem">
+    <div class="text-center">
+        <h1 class="text-center pb-3" style="font-weight: 700">Thông báo - Văn bản pháp quy</h1>
+        
+    </div>
+    <div class="container">
+        <div class="" style="background: #fff; padding-top: 10px;">
+            <div class="tabbable-panel">
+                <div class="tabbable-line">
+                    <ul class="nav nav-tabs home-nav">
+                                <li role="presentation" class="nav-item">
+                                    <a class="nav-link active" id="nav-22" href="#id-22" aria-controls="id-22" role="tab" data-toggle="tab">Tổng hợp</a>
+                                </li>
+                                <li role="presentation" class="nav-item">
+                                    <a class="nav-link" id="nav-1056" href="#id-1056" aria-controls="id-1056" role="tab" data-toggle="tab">Tuyển sinh</a>
+                                </li>
+                                <li role="presentation" class="nav-item">
+                                    <a class="nav-link" id="nav-1057" href="#id-1057" aria-controls="id-1057" role="tab" data-toggle="tab">Sinh vi&#234;n</a>
+                                </li>
+                                <li role="presentation" class="nav-item">
+                                    <a class="nav-link" id="nav-1058" href="#id-1058" aria-controls="id-1058" role="tab" data-toggle="tab">CB/GV</a>
+                                </li>
+                                <li role="presentation" class="nav-item">
+                                    <a class="nav-link" id="nav-2115" href="#id-2115" aria-controls="id-2115" role="tab" data-toggle="tab">Văn bản ph&#225;p quy</a>
+                                </li>
+                    </ul>
+                    <div class="tab-content">
+                                <div role="tabpanel" class="tab-pane active" id="id-22">
+                                        <div class="list-group">
+                                                                                            <a style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/tong-hop/thong-bao-huong-dan-cac-dia-diem-de-xe-o-to-trong-thoi-gian-to-chuc-chuoi-hoat-dong-uni-tour-nam-2025" class="list-group-item delete-border-top-bot">
+                                                    Th&#244;ng b&#225;o hướng dẫn c&#225;c địa điểm để xe &#244; t&#244; trong thời gian tổ chức Chuỗi hoạt động Uni Tour năm 2025
+
+                                                </a>
+                                                <a style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/tong-hop/danh-sach-sinh-vien-su-pham-khoa-2025-2029-thu-huong-chinh-sach-theo-nghi-dinh-116-2020-nd-cp" class="list-group-item delete-border-top-bot">
+                                                    Danh s&#225;ch sinh vi&#234;n Sư phạm kh&#243;a 2025 - 2029 thụ hưởng ch&#237;nh s&#225;ch theo Nghị định 116/2020/NĐ-CP
+
+                                                </a>
+                                                <a style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/tong-hop/thong-bao-thay-doi-thoi-gian-to-chuc-tuyen-sinh-dao-tao-trinh-do-thac-si-dot-2-nam-2025" class="list-group-item delete-border-top-bot">
+                                                    Th&#244;ng b&#225;o thay đổi thời gian tổ chức tuyển sinh đ&#224;o tạo tr&#236;nh độ thạc sĩ đợt 2 năm 2025
+
+                                                </a>
+                                                <a style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/tong-hop/thong-bao-thu-hoc-phi-hoc-ky-i-nam-hoc-2025-2026" class="list-group-item delete-border-top-bot">
+                                                    Th&#244;ng b&#225;o thu học ph&#237; học kỳ I năm học 2025 - 2026
+
+                                                </a>
+                                                <a style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/tong-hop/thong-bao-chieu-sinh-lop-boi-duong-va-cap-chung-chi-ke-toan-truong-hanh-chinh-su-nghiep-khoa-3-2025" class="list-group-item delete-border-top-bot">
+                                                    Th&#244;ng b&#225;o chi&#234;u sinh lớp bồi dưỡng v&#224; cấp chứng chỉ kế to&#225;n trưởng h&#224;nh ch&#237;nh sự nghiệp - Kh&#243;a 3.2025
+
+                                                </a>
+                                                <a style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/tong-hop/thong-bao-chieu-sinh-lop-boi-duong-va-cap-chung-chi-ke-toan-truong-doanh-nghiep" class="list-group-item delete-border-top-bot">
+                                                    Th&#244;ng b&#225;o chi&#234;u sinh Lớp bồi dưỡng v&#224; cấp chứng chỉ kế to&#225;n trưởng doanh nghiệp - Kh&#243;a 2.2025
+
+                                                </a>
+                                                <a style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/tong-hop/thong-bao-dang-ky-du-thi-hoi-thi-lap-trinh-sinh-vien-truong-dai-hoc-thut-dau-mot-lan-thu-11-nam-2025" class="list-group-item delete-border-top-bot">
+                                                    Th&#244;ng b&#225;o đăng k&#253; dự thi Hội thi lập tr&#236;nh sinh vi&#234;n trường Đại học Thủ Dầu Một lần thứ 11 năm 2025
+
+                                                </a>
+                                                <a style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/tong-hop/thong-bao-tuyen-dung-giang-vien-trinh-do-tien-si-lam-tai-truong-dai-hoc-thu-dau-mot-nam-2025" class="list-group-item delete-border-top-bot">
+                                                    Th&#244;ng b&#225;o tuyển dụng giảng vi&#234;n tr&#236;nh độ tiến sĩ l&#224;m tại Trường Đại học Thủ Dầu Một năm 2025
+
+                                                </a>
+                                                <a style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/tong-hop/huong-dan-thuc-hien-mien-giam-hoc-phi-che-do-chinh-sach-nam-hoc-2025-2026" class="list-group-item delete-border-top-bot">
+                                                    HƯỚNG DẪN THỰC HIỆN MIỄN GIẢM HỌC PH&#205;, CHẾ ĐỘ CH&#205;NH S&#193;CH NĂM HỌC 2025-2026
+
+                                                </a>
+                                                <a style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/tong-hop/thong-bao-cap-nhat-thong-tin-ly-lich-sinh-vien-nam-hoc-2025-2026" class="list-group-item delete-border-top-bot">
+                                                    TH&#212;NG B&#193;O CẬP NHẬT TH&#212;NG TIN L&#221; LỊCH SINH VI&#202;N NĂM HỌC 2025 - 2026
+
+                                                </a>
+
+                                        </div>
+                                </div>
+                                <div class="tab-pane fade" id="id-1056">
+                                        <div class="list-group">
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/tuyen-sinh/thong-bao-thay-doi-thoi-gian-to-chuc-tuyen-sinh-dao-tao-trinh-do-thac-si-dot-2-nam-2025" class="list-group-item delete-border-top-bot">
+                                                    Th&#244;ng b&#225;o thay đổi thời gian tổ chức tuyển sinh đ&#224;o tạo tr&#236;nh độ thạc sĩ đợt 2 năm 2025
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/tuyen-sinh/thong-bao-chieu-sinh-lop-boi-duong-va-cap-chung-chi-ke-toan-truong-hanh-chinh-su-nghiep-khoa-3-2025" class="list-group-item delete-border-top-bot">
+                                                    Th&#244;ng b&#225;o chi&#234;u sinh lớp bồi dưỡng v&#224; cấp chứng chỉ kế to&#225;n trưởng h&#224;nh ch&#237;nh sự nghiệp - Kh&#243;a 3.2025
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/tuyen-sinh/thong-bao-chieu-sinh-lop-boi-duong-va-cap-chung-chi-ke-toan-truong-doanh-nghiep" class="list-group-item delete-border-top-bot">
+                                                    Th&#244;ng b&#225;o chi&#234;u sinh Lớp bồi dưỡng v&#224; cấp chứng chỉ kế to&#225;n trưởng doanh nghiệp - Kh&#243;a 2.2025
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/tuyen-sinh/thong-bao-xet-tuyen-bo-sung-dot-1-vao-dai-hoc-chinh-quy-nam-2025" class="list-group-item delete-border-top-bot">
+                                                    Th&#244;ng b&#225;o x&#233;t tuyển bổ sung đợt 1 v&#224;o đại học ch&#237;nh quy năm 2025
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/tuyen-sinh/diem-chuan-trung-tuyen-vao-dai-hoc-chinh-quy-nam-2025" class="list-group-item delete-border-top-bot">
+                                                    Điểm chuẩn tr&#250;ng tuyển v&#224;o đại học ch&#237;nh quy năm 2025
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/tuyen-sinh/ket-qua-tuyen-sinh-he-thuong-xuyen-dot-1-nam-2025" class="list-group-item delete-border-top-bot">
+                                                    Kết quả tuyển sinh hệ thường xuy&#234;n đợt 1 năm 2025
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/tuyen-sinh/thong-bao-mo-lop-boi-duong-ung-dung-tri-tue-nhan-tao-chatgpt-trong-hoc-tap-nghien-cuu-va-lam-viec-cho-doan-vien-sinh-vien" class="list-group-item delete-border-top-bot">
+                                                    Th&#244;ng b&#225;o mở lớp bồi dưỡng &quot;Ứng dụng tr&#237; tuệ nh&#226;n tạo (ChatGPT) trong học tập, nghi&#234;n cứu v&#224; l&#224;m việc cho đo&#224;n vi&#234;n, sinh vi&#234;n
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/tuyen-sinh/chieu-sinh-lop-boi-duong-nghiep-vu-su-pham-cho-giang-vien-trong-co-so-giao-duc-dai-hoc-cao-dang-khoa-1-2025" class="list-group-item delete-border-top-bot">
+                                                    Chi&#234;u sinh lớp Bồi dưỡng nghiệp vụ sư phạm cho giảng vi&#234;n trong cơ sở gi&#225;o dục đại học, cao đẳng - kh&#243;a 1.2025
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/tuyen-sinh/tuyen-sinh-cac-nganh-dai-hoc-vua-lam-vua-hoc-nam-2025" class="list-group-item delete-border-top-bot">
+                                                    Tuyển sinh c&#225;c ng&#224;nh Đại học Vừa l&#224;m vừa học năm 2025
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/tuyen-sinh/tuyen-sinh-trinh-do-cao-dang-lien-thong-len-dai-hoc-van-bang-thu-2-nganh-giao-duc-dac-biet" class="list-group-item delete-border-top-bot">
+                                                    Tuyển sinh tr&#236;nh độ cao đẳng li&#234;n th&#244;ng l&#234;n đại học, văn bằng thứ 2 ng&#224;nh Gi&#225;o dục đặc biệt
+                                                </a>
+
+                                        </div>
+                                </div>
+                                <div class="tab-pane fade" id="id-1057">
+                                        <div class="list-group">
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/sinh-vien/danh-sach-sinh-vien-su-pham-khoa-2025-2029-thu-huong-chinh-sach-theo-nghi-dinh-116-2020-nd-cp" class="list-group-item delete-border-top-bot">
+                                                    Danh s&#225;ch sinh vi&#234;n Sư phạm kh&#243;a 2025 - 2029 thụ hưởng ch&#237;nh s&#225;ch theo Nghị định 116/2020/NĐ-CP
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/sinh-vien/thong-bao-thu-hoc-phi-hoc-ky-i-nam-hoc-2025-2026" class="list-group-item delete-border-top-bot">
+                                                    Th&#244;ng b&#225;o thu học ph&#237; học kỳ I năm học 2025 - 2026
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/sinh-vien/thong-bao-dang-ky-du-thi-hoi-thi-lap-trinh-sinh-vien-truong-dai-hoc-thut-dau-mot-lan-thu-11-nam-2025" class="list-group-item delete-border-top-bot">
+                                                    Th&#244;ng b&#225;o đăng k&#253; dự thi Hội thi lập tr&#236;nh sinh vi&#234;n trường Đại học Thủ Dầu Một lần thứ 11 năm 2025
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/sinh-vien/huong-dan-thuc-hien-mien-giam-hoc-phi-che-do-chinh-sach-nam-hoc-2025-2026" class="list-group-item delete-border-top-bot">
+                                                    HƯỚNG DẪN THỰC HIỆN MIỄN GIẢM HỌC PH&#205;, CHẾ ĐỘ CH&#205;NH S&#193;CH NĂM HỌC 2025-2026
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/sinh-vien/thong-bao-cap-nhat-thong-tin-ly-lich-sinh-vien-nam-hoc-2025-2026" class="list-group-item delete-border-top-bot">
+                                                    TH&#212;NG B&#193;O CẬP NHẬT TH&#212;NG TIN L&#221; LỊCH SINH VI&#202;N NĂM HỌC 2025 - 2026
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/sinh-vien/thong-bao-ve-viec-hoan-tra-tien-mua-bao-hiem-y-te-3-thang-cuoi-nam-2025-cua-tan-sinh-vien-d25" class="list-group-item delete-border-top-bot">
+                                                    Th&#244;ng b&#225;o về việc ho&#224;n trả tiền mua Bảo hiểm y tế 3 th&#225;ng cuối năm 2025 của t&#226;n sinh vi&#234;n D25
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/sinh-vien/ke-hoach-to-chuc-dang-ky-hoc-phan-hoc-ky-i-nam-hoc-2025-2026" class="list-group-item delete-border-top-bot">
+                                                    Kế hoạch tổ chức đăng k&#253; học phần học kỳ I năm học 2025 - 2026
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/sinh-vien/thong-bao-thu-hoc-phi-hoc-ky-iii-nam-hoc-2024-2025" class="list-group-item delete-border-top-bot">
+                                                    Th&#244;ng b&#225;o thu học ph&#237; học kỳ III, năm học 2024 - 2025
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/sinh-vien/ke-hoach-to-chuc-dang-ky-hoc-phan-hoc-ky-3-nh-2024-2025" class="list-group-item delete-border-top-bot">
+                                                    Kế hoạch  Tổ chức đăng k&#253; học phần học kỳ 3 NH 2024 - 2025
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/sinh-vien/thong-bao-thu-no-hoc-phi-cua-sv-dang-hoc-tai-truong-dai-hoc-thu-dau-mot-tinh-den-ngay-9-3-2025" class="list-group-item delete-border-top-bot">
+                                                    Th&#244;ng b&#225;o thu nợ học ph&#237; của SV đang học tại trường Đại học Thủ Dầu Một (t&#237;nh đến ng&#224;y 9/3/2025)
+                                                </a>
+
+                                        </div>
+                                </div>
+                                <div class="tab-pane fade" id="id-1058">
+                                        <div class="list-group">
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/cb-gv/thu-moi-viet-bai-hoi-thao-khoa-hoc-40-nam-doi-moi-dat-nuoc-ly-luan-va-thuc-tien-vung-kinh-te-trong-diem-phia-nam" class="list-group-item delete-border-top-bot">
+                                                    Thư mời viết b&#224;i Hội thảo khoa học &quot;40 năm đổi mới đất nước - L&#253; luận v&#224; thực tiễn v&#249;ng kinh tế trọng điểm ph&#237;a Nam&quot;
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/cb-gv/thu-moi-viet-bai-hoi-thao-khoa-hoc-vai-tro-cua-truong-dai-hoc-trong-tu-van-tuyen-sinh-dinh-huong-nghe-nghiep-cho-hoc-sinh-pho-thong" class="list-group-item delete-border-top-bot">
+                                                    Thư mời viết b&#224;i hội thảo khoa học &quot;Vai tr&#242; của trường đại học trong tư vấn tuyển sinh, định hướng nghề nghiệp cho học sinh phổ th&#244;ng&quot;
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/cb-gv/thu-moi-viet-bai-hoi-thao-quoc-gia-nganh-cong-nghiep-van-hoa-o-viet-nam-trong-boi-canh-chuyen-doi-so-hoi-nhap-va-phat-trien-ben-vung" class="list-group-item delete-border-top-bot">
+                                                    Thư mời viết b&#224;i hội thảo quốc gia “Ng&#224;nh c&#244;ng nghiệp văn h&#243;a ở Việt Nam trong bối cảnh chuyển đổi số, hội nhập v&#224; ph&#225;t triển bền vững”
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/cb-gv/thu-moi-viet-bai-cho-hoi-thao-khoa-hoc-ung-dung-gis-toan-quoc-nam-2025" class="list-group-item delete-border-top-bot">
+                                                    Thư mời viết b&#224;i cho Hội thảo khoa học &quot;Ứng dụng GIS to&#224;n quốc năm 2025”
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/cb-gv/hu-moi-viet-bai-hoi-thao-khoa-hoc-hoat-dong-cua-cu-pho-bang-nguyen-sinh-sac-o-thu-dau-mot-1923-1926-voi-qua-trinh-phat-trien-y-te-giao-duc-cua-tinh-bi" class="list-group-item delete-border-top-bot">
+                                                    Thư mời viết b&#224;i hội thảo khoa học &quot;Hoạt động của cụ Ph&#243; bảng Nguyễn Sinh Sắc ở Thủ Dầu Một (1923 - 1926) với qu&#225; tr&#236;nh ph&#225;t triển y tế, gi&#225;o dục của tỉnh B&#236;nh Dương&quot;
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/cb-gv/thu-moi-viet-bai-hoi-thao-khoa-hoc-vai-tro-cua-truong-dai-hoc-gan-voi-phat-trien-kinh-te-xa-hoi-dia-phuong" class="list-group-item delete-border-top-bot">
+                                                    Thư mời viết b&#224;i hội thảo khoa học &quot;Vai tr&#242; của trường đại học gắn với ph&#225;t triển kinh tế x&#227; hội địa phương&quot;
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/cb-gv/thu-moi-viet-bai-tham-luan-hoi-thao-khoa-hoc-phat-trien-ben-vung-va-quan-ly-phat-trien-ben-vung-tinh-binh-duong-trong-boi-canh-chuyen-doi-so" class="list-group-item delete-border-top-bot">
+                                                    Thư mời viết b&#224;i tham luận hội thảo khoa học &quot;Ph&#225;t triển bền vững v&#224; quản l&#253; ph&#225;t triển bền vững tỉnh B&#236;nh Dương trong bối cảnh chuyển đổi số&quot;
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/cb-gv/viet-bai-hoi-thao-khoa-hoc-hoi-viet-nam-cach-mang-thanh-nien-vai-tro-lich-su-va-gia-tri-thoi-dai" class="list-group-item delete-border-top-bot">
+                                                    Thư mời viết b&#224;i Hội thảo khoa học &quot;Hội Việt Nam C&#225;ch mạng Thanh ni&#234;n - Vai tr&#242; lịch sử v&#224; gi&#225; trị thời đại&quot;
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/cb-gv/thong-bao-ghi-ten-xet-cong-nhan-dat-tieu-chuan-chuc-danh-giao-su-pho-giao-su-nam-2025" class="list-group-item delete-border-top-bot">
+                                                    Th&#244;ng b&#225;o ghi t&#234;n x&#233;t c&#244;ng nhận đạt ti&#234;u chuẩn chức danh gi&#225;o sư, ph&#243; gi&#225;o sư năm 2025
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/cb-gv/hu-moi-viet-bai-tham-luan-hoi-thao-phat-trien-kinh-te-xa-hoi-vung-dong-nam-bo-lan-thu-iii-nam-2025-chu-de-ai-va-ung-dung-ai-trong-linh-vuc-kinh-te-tai" class="list-group-item delete-border-top-bot">
+                                                    Thư mời viết b&#224;i tham luận hội thảo &quot;Ph&#225;t triển kinh tế - x&#227; hội v&#249;ng Đ&#244;ng Nam Bộ&quot; lần thứ III năm 2025. Chủ đề &quot;AI v&#224; ứng dụng AI trong lĩnh vực kinh tế tại V&#249;ng Đ&#244;ng Nam Bộ&quot;
+                                                </a>
+
+                                        </div>
+                                </div>
+                                <div class="tab-pane fade" id="id-2115">
+                                        <div class="list-group">
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/van-ban-phap-quy/lay-y-kien-gop-y-du-thao-van-ban-cua-ban-giam-hieu" class="list-group-item delete-border-top-bot">
+                                                    Lấy &#253; kiến g&#243;p &#253; dự thảo văn bản của Ban Gi&#225;m hiệu
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/van-ban-phap-quy/lay-y-kien-gop-y-du-thao-quy-che-kiem-toan-noi-bo" class="list-group-item delete-border-top-bot">
+                                                    Lấy &#253; kiến g&#243;p &#253; dự thảo quy chế kiểm to&#225;n nội bộ
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/van-ban-phap-quy/lay-y-kien-gop-y-cac-du-thao-quy-che-quy-dinh" class="list-group-item delete-border-top-bot">
+                                                    Lấy &#253; kiến g&#243;p &#253; c&#225;c dự thảo quy chế, quy định
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/van-ban-phap-quy/ke-hoach-dang-ky-hoc-phan-hoc-ky-1-nam-hoc-2024-2025" class="list-group-item delete-border-top-bot">
+                                                    Kế hoạch đăng k&#253; học phần học kỳ 1 năm học 2024-2025
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/van-ban-phap-quy/gop-y-lan-3-du-thao-quy-che-to-chuc-va-hoat-dong-cua-truong" class="list-group-item delete-border-top-bot">
+                                                    G&#243;p &#253; lần 3 dự thảo Quy chế tổ chức v&#224; hoạt động của Trường
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/van-ban-phap-quy/huong-dan-thuc-hien-chuan-dau-ra-ngoai-ngu" class="list-group-item delete-border-top-bot">
+                                                    Hướng dẫn thực hiện chuẩn đầu ra ngoại ngữ
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/van-ban-phap-quy/uy-dinh-dieu-kien-xet-tot-nghiep-ve-ngoai-ngu-cong-nghe-thong-tin-ky-nang-xa-hoi-theo-hoc-che-tin-chi-cho-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-va-t-1" class="list-group-item delete-border-top-bot">
+                                                    Quy định Điều kiện x&#233;t tốt nghiệp về Ngoại ngữ, C&#244;ng nghệ th&#244;ng tin, Kỹ năng x&#227; hội theo học chế t&#237;n chỉ cho sinh vi&#234;n tr&#236;nh độ đại học, hệ ch&#237;nh quy v&#224; thường xuy&#234;n (&#193;p dụng từ kh&#243;a tuyển sinh năm 2023 về sau)
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/van-ban-phap-quy/ke-hoach-thanh-tra-kiem-tra-noi-bo-nh-2023-2024" class="list-group-item delete-border-top-bot">
+                                                    Kế hoạch Thanh tra, kiểm tra nội bộ NH 2023 - 2024
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/van-ban-phap-quy/ve-viec-lay-y-kien-gop-y-cac-du-thao-quy-che-trinh-ky-hop-hoi-dong-truong-lan-thu-tu" class="list-group-item delete-border-top-bot">
+                                                    Về việc lấy &#253; kiến g&#243;p &#253; c&#225;c dự thảo quy chế tr&#236;nh kỳ họp Hội đồng Trường lần thứ tư
+                                                </a>
+                                                <a  style="display:inline-block; border-left: none; border-right: none" href="/thong-bao/van-ban-phap-quy/ke-hoach-to-chuc-hoi-thi-mic-vang-tdmu-2023" class="list-group-item delete-border-top-bot">
+                                                    Kế hoạch tổ chức hội thi Mic v&#224;ng TDMU 2023
+                                                </a>
+
+                                        </div>
+                                </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="text-center pt-5" style="padding-bottom: 3.7rem">
+            <a href="/thong-bao" class="btn btn-success btn-lg bg-cam">
+                Xem thêm thông báo TDMU
+            </a>
+        </div>
+    </div>
+</div>
+
+
+<div class="pt-5">
+    <div class="text-center">
+        <h1 class="text-center pb-5" style="font-weight: 700">Tiện ích</h1>
+        
+    </div>
+
+    <div class="container">
+        <div class="row">
+                <div class="col-md-4">
+                    <div class="media pb-5">
+                        <a href="/quy-trinh-xu-ly-cong-viec" class="mr-3">
+                            <i style="font-size: 60px; color: #1b5420; width: 60px;" class="fa fa-book media-object" aria-hidden="true"></i>
+                        </a>
+                        <div class="media-body">
+                            <h5 class="media-heading">
+                                <a href="/quy-trinh-xu-ly-cong-viec" style="color: #3C4858;font-weight:600">Quy tr&#236;nh xử l&#253; c&#244;ng việc</a>
+                            </h5>
+                            <i style=" font-size: 14px;">Quy tr&#236;nh xử l&#253; c&#244;ng việc</i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="media pb-5">
+                        <a href="/tu-van-tuyen-sinh" class="mr-3">
+                            <i style="font-size: 60px; color: #f44336; width: 60px;" class="fa fa-bullhorn media-object" aria-hidden="true"></i>
+                        </a>
+                        <div class="media-body">
+                            <h5 class="media-heading">
+                                <a href="/tu-van-tuyen-sinh" style="color: #3C4858;font-weight:600">Tư vấn tuyển sinh</a>
+                            </h5>
+                            <i style=" font-size: 14px;">Tư vấn tuyển sinh, giải đ&#225;p những c&#226;u hỏi thường gặp</i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="media pb-5">
+                        <a href="/van-ban-chi-dao-dieu-hanh" class="mr-3">
+                            <i style="font-size: 60px; color: #1b5420; width: 60px;" class="fa fa-regular fa-file-pdf media-object" aria-hidden="true"></i>
+                        </a>
+                        <div class="media-body">
+                            <h5 class="media-heading">
+                                <a href="/van-ban-chi-dao-dieu-hanh" style="color: #3C4858;font-weight:600">Văn bản chỉ đạo - điều h&#224;nh</a>
+                            </h5>
+                            <i style=" font-size: 14px;">C&#225;c văn bản, chỉ đạo, điều h&#224;nh của l&#227;nh đạo</i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="media pb-5">
+                        <a href="/van-bang-chung-chi" class="mr-3">
+                            <i style="font-size: 60px; color: #ef4102; width: 60px;" class="fa fa-regular fa-address-card media-object" aria-hidden="true"></i>
+                        </a>
+                        <div class="media-body">
+                            <h5 class="media-heading">
+                                <a href="/van-bang-chung-chi" style="color: #3C4858;font-weight:600">Văn bằng - Chứng chỉ</a>
+                            </h5>
+                            <i style=" font-size: 14px;">Tra cứu c&#225;c văn bản, biểu mẫu, quyết định c&#244;ng nhận v&#224; cấp VB - CC</i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="media pb-5">
+                        <a href="https://hoclieuso.tdmu.edu.vn/ " class="mr-3">
+                            <i style="font-size: 60px; color: #ef5c02; width: 60px;" class="fa fa-university media-object" aria-hidden="true"></i>
+                        </a>
+                        <div class="media-body">
+                            <h5 class="media-heading">
+                                <a href="https://hoclieuso.tdmu.edu.vn/ " style="color: #3C4858;font-weight:600">Học liệu số</a>
+                            </h5>
+                            <i style=" font-size: 14px;">Cơ sở dữ liệu to&#224;n văn do Thư viện x&#226;y dựng v&#224; mua quyền truy cập</i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="media pb-5">
+                        <a href="/tap-chi-khoa-hoc" class="mr-3">
+                            <i style="font-size: 60px; color: #ef8802; width: 60px;" class="fa fa-regular fa-newspaper media-object" aria-hidden="true"></i>
+                        </a>
+                        <div class="media-body">
+                            <h5 class="media-heading">
+                                <a href="/tap-chi-khoa-hoc" style="color: #3C4858;font-weight:600">Tạp ch&#237; khoa học</a>
+                            </h5>
+                            <i style=" font-size: 14px;">C&#244;ng bố c&#225;c c&#244;ng tr&#236;nh nghi&#234;n cứu khoa học</i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="media pb-5">
+                        <a href="https://ttdvk.tdmu.edu.vn/#viecLamMoi" class="mr-3">
+                            <i style="font-size: 60px; color: #ef9c02; width: 60px;" class="fa fa-briefcase media-object" aria-hidden="true"></i>
+                        </a>
+                        <div class="media-body">
+                            <h5 class="media-heading">
+                                <a href="https://ttdvk.tdmu.edu.vn/#viecLamMoi" style="color: #3C4858;font-weight:600">Cơ hội việc l&#224;m</a>
+                            </h5>
+                            <i style=" font-size: 14px;">T&#236;m kiếm thị trường lao động để tạo việc l&#224;m cho sinh vi&#234;n tốt nghiệp của trường</i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="media pb-5">
+                        <a href="https://ctsv.tdmu.edu.vn/" class="mr-3">
+                            <i style="font-size: 60px; color: #00ffbb; width: 60px;" class="fa fa-user media-object" aria-hidden="true"></i>
+                        </a>
+                        <div class="media-body">
+                            <h5 class="media-heading">
+                                <a href="https://ctsv.tdmu.edu.vn/" style="color: #3C4858;font-weight:600">C&#244;ng t&#225;c sinh vi&#234;n</a>
+                            </h5>
+                            <i style=" font-size: 14px;">Hỗ trợ sinh vi&#234;n: Vay vốn ng&#226;n h&#224;ng, bảo hiểm y tế, khen thưởng, học bổng...</i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="media pb-5">
+                        <a href="/tu-van-phap-luat" class="mr-3">
+                            <i style="font-size: 60px; color: #005180; width: 60px;" class="fa fa fa-balance-scale media-object" aria-hidden="true"></i>
+                        </a>
+                        <div class="media-body">
+                            <h5 class="media-heading">
+                                <a href="/tu-van-phap-luat" style="color: #3C4858;font-weight:600">Tư vấn ph&#225;p luật</a>
+                            </h5>
+                            <i style=" font-size: 14px;">Tư vấn, giải đ&#225;p v&#224; c&#225;c văn bản ph&#225;p luật</i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="media pb-5">
+                        <a href="/hop-thu-gop-y" class="mr-3">
+                            <i style="font-size: 60px; color: #b7ef02; width: 60px;" class="fa fa-regular fa-envelope media-object" aria-hidden="true"></i>
+                        </a>
+                        <div class="media-body">
+                            <h5 class="media-heading">
+                                <a href="/hop-thu-gop-y" style="color: #3C4858;font-weight:600">Hộp thư g&#243;p &#253; - Phản hồi</a>
+                            </h5>
+                            <i style=" font-size: 14px;">Sinh vi&#234;n c&#243; thể g&#243;p &#253; cho nh&#224; trường th&#244;ng qua tiện &#237;ch n&#224;y</i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="media pb-5">
+                        <a href="http://elearning.tdmu.edu.vn" class="mr-3">
+                            <i style="font-size: 60px; color: #f92cde; width: 60px;" class="fa fa-graduation-cap media-object" aria-hidden="true"></i>
+                        </a>
+                        <div class="media-body">
+                            <h5 class="media-heading">
+                                <a href="http://elearning.tdmu.edu.vn" style="color: #3C4858;font-weight:600">E-Learning</a>
+                            </h5>
+                            <i style=" font-size: 14px;">Hệ thống hỗ trợ học tập trực tuyến</i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="media pb-5">
+                        <a href="http://qlvb.tdmu.edu.vn:9090" class="mr-3">
+                            <i style="font-size: 60px; color: #6cef02; width: 60px;" class="fa fa-regular fa-file-lines media-object" aria-hidden="true"></i>
+                        </a>
+                        <div class="media-body">
+                            <h5 class="media-heading">
+                                <a href="http://qlvb.tdmu.edu.vn:9090" style="color: #3C4858;font-weight:600">Quản l&#253; văn bản</a>
+                            </h5>
+                            <i style=" font-size: 14px;">Văn ph&#242;ng điện tử</i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="media pb-5">
+                        <a href="https://tdmu.edu.vn/khao-sat-tdmu" class="mr-3">
+                            <i style="font-size: 60px; color: #00fff2; width: 60px;" class="fa a-regular fa-square-check media-object" aria-hidden="true"></i>
+                        </a>
+                        <div class="media-body">
+                            <h5 class="media-heading">
+                                <a href="https://tdmu.edu.vn/khao-sat-tdmu" style="color: #3C4858;font-weight:600">Khảo s&#225;t</a>
+                            </h5>
+                            <i style=" font-size: 14px;">Khảo s&#225;t &#253; kiến, đ&#225;nh gi&#225;, g&#243;p &#253; của C&#225;n Bộ Vi&#234;n Chức Giảng vi&#234;n, Sinh vi&#234;n.</i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="media pb-5">
+                        <a href="/bao-cao-thuong-nien" class="mr-3">
+                            <i style="font-size: 60px; color:; width: 60px;" class="fa fa-regular fa-folder media-object" aria-hidden="true"></i>
+                        </a>
+                        <div class="media-body">
+                            <h5 class="media-heading">
+                                <a href="/bao-cao-thuong-nien" style="color: #3C4858;font-weight:600">B&#225;o c&#225;o thường ni&#234;n</a>
+                            </h5>
+                            <i style=" font-size: 14px;">B&#225;o c&#225;o thường ni&#234;n</i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="media pb-5">
+                        <a href="https://binhdanhocvuso.gov.vn/" class="mr-3">
+                            <i style="font-size: 60px; color: #f44336; width: 60px;" class="fa fa fa-laptop media-object" aria-hidden="true"></i>
+                        </a>
+                        <div class="media-body">
+                            <h5 class="media-heading">
+                                <a href="https://binhdanhocvuso.gov.vn/" style="color: #3C4858;font-weight:600">B&#236;nh d&#226;n học vụ số</a>
+                            </h5>
+                            <i style=" font-size: 14px;">B&#236;nh d&#226;n học vụ số</i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="media pb-5">
+                        <a href="https://tdmu.edu.vn/hop-tac-doi-ngoai/ky-ket-mou-moa" class="mr-3">
+                            <i style="font-size: 60px; color:; width: 60px;" class="fa fa-file-signature media-object" aria-hidden="true"></i>
+                        </a>
+                        <div class="media-body">
+                            <h5 class="media-heading">
+                                <a href="https://tdmu.edu.vn/hop-tac-doi-ngoai/ky-ket-mou-moa" style="color: #3C4858;font-weight:600">Đối t&#225;c TDMU</a>
+                            </h5>
+                            <i style=" font-size: 14px;">Hợp t&#225;c k&#253; kết MOU – MOA với c&#225;c đơn vị trong nước v&#224; quốc tế</i>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div id="KHCN" style="padding-top: 105px">
+</div>
+<div>
+    <div class="text-center">
+        <h1 class="text-center" style="font-weight: 700">Khoa học Công nghệ và Đổi mới Sáng tạo</h1>
+        <h4 class="text-center pb-3">Công bố quốc tế đóng góp tri thức toàn cầu</h4>
+    </div>
+
+    <div class="container">
+        <hr style="border-top: 1px solid rgb(138, 138, 138);" />
+        <div class="row justify-content-center">
+            <div class="col-md-4  text-center">
+                <h3 class="more_info" title="Tính đến tháng 07/2022" style="font-weight: 700; margin-bottom: 0px;">1916</h3>
+                <p style="margin-bottom: 0px;">Bài công bố quốc tế</p>
+            </div>
+            <div class="col-md-4  text-center">
+                <h3 style="font-weight: 700; margin-bottom: 0px;">Top 30</h3>
+                <p style="margin-bottom: 0px;">Công bố quốc tế tại Việt Nam</p>
+            </div>
+        </div>
+        <hr style="border-top: 1px solid rgb(138, 138, 138);" />
+
+        <div class="row pt-4">
+            <div class="col-md-4">
+                <div class="box-shadow-img animatable bounceIn">
+                    <a href="/hop-tac-nghien-cuu" class="tag-a-news">
+                        <img src="/img/TrangChuWeb2020/khoa-hoc-cong-nghe/hop-tac-nghien-cuu.jpg" class="img-fluid img-news" />
+                        <p class="color-cam" style="text-align: center; padding: 15px; font-weight:600">HỢP TÁC NGHIÊN CỨU</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="box-shadow-img animatable bounceIn">
+                    <a href="/tin-tuc/nghien-cuu-khoa-hoc" class="tag-a-news">
+                        <img src="/img/TrangChuWeb2020/khoa-hoc-cong-nghe/thong-tin-nghien-cuu.jpg" class="img-fluid img-news" />
+                        <p class="color-cam" style="text-align: center; padding: 15px;font-weight:600">THÔNG TIN NGHIÊN CỨU</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="box-shadow-img animatable bounceIn">
+                    <a href="/khoa-hoc-cong-nghe" class="tag-a-news">
+                        <img src="/img/TrangChuWeb2020/khoa-hoc-cong-nghe/du-lieu-khoa-hoc.jpg" class="img-fluid img-news" />
+                        <p class="color-cam" style="text-align: center; padding: 15px;font-weight:600">DỮ LIỆU NCKH</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="daoTao" style="padding-top: 105px">
+
+</div>
+<div>
+    <div class="text-center">
+        <h1 class="text-center" style="font-weight: 700">Đào tạo</h1>
+        <h4 class="text-center pb-3">Nghiên cứu khoa học - Học tập trải nghiệm - Phục vụ cộng đồng</h4>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 col-ipad">
+                <div class="box-shadow-img animatable bounceIn">
+                    
+                    <a href="https://tuyensinh.tdmu.edu.vn/NganhDaoTao/NganhDaoTaoDHChinhQuy" class="tag-a-news">
+                        <img src="/img/TrangChuWeb2020/dao-tao/dai-hoc-chinh-quy.JPG" class="img-fluid img-news" />
+                        <p class="color-cam" style="text-align: center; padding: 10px; font-weight:600">ĐẠI HỌC CHÍNH QUY</p>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-md-3 col-ipad">
+                <div class="box-shadow-img animatable bounceIn">
+                    
+                        <a href="https://tuyensinh.tdmu.edu.vn/NganhDaoTao/DanhSachNganhDaoTao/14" class="tag-a-news">
+                        <img src="/img/TrangChuWeb2020/dao-tao/thac-si-tien-si.jpg" class="img-fluid img-news" />
+                        <p class="color-cam" style="text-align: center; padding: 10px; font-weight:600">THẠC SĨ/TIẾN SĨ</p>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-md-3 col-ipad">
+                <div class="box-shadow-img animatable bounceIn">
+                    
+                        <a href="https://tuyensinh.tdmu.edu.vn/NganhDaoTao/NganhDaoTaoHeThuongXuyen" class="tag-a-news">
+                        <img src="/img/TrangChuWeb2020/dao-tao/he-thuong-xuyen.jpg" class="img-fluid img-news" />
+                        <p class="color-cam" style="text-align: center; padding: 10px; font-weight:600">HỆ THƯỜNG XUYÊN</p>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-md-3 col-ipad">
+                <div class="box-shadow-img animatable bounceIn">
+                    <a href="/Home2020/CacKhoaHocNganHan" class="tag-a-news">
+                        <img src="/img/TrangChuWeb2020/dao-tao/cac-khoa-hoc-ngan-han.png" class="img-fluid img-news" />
+                        <p class="color-cam" style="text-align: center; padding: 10px; font-weight:600">CÁC KHÓA HỌC NGẮN HẠN</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div id="hopTac" style="padding-top: 105px">
+</div>
+<div>
+    <div class="text-center">
+        <h1 class="text-center pb-3" style="font-weight: 700">Hợp tác</h1>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="box-shadow-img animatable bounceIn">
+                    <a href="/hop-tac-doi-ngoai" class="tag-a-news">
+                        <img src="/img/TrangChuWeb2020/hop-tac/trong-nuoc.jpg" class="img-fluid img-news" />
+                        <p class="color-cam" style="text-align: center; padding: 10px; font-weight:600">TRONG NƯỚC</p>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="box-shadow-img animatable bounceIn">
+                    <a href="/hop-tac-doi-ngoai" class="tag-a-news">
+                        <img src="/img/TrangChuWeb2020/hop-tac/quoc-te.jpg" class="img-fluid img-news" />
+                        <p class="color-cam" style="text-align: center; padding: 10px; font-weight:600">QUỐC TẾ</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="kiemDinh" style="padding-top: 105px">
+</div>
+<div class=" pb-4">
+    <div class="text-center">
+        <h1 class="text-center" style="font-weight: 700">Kiểm định</h1>
+        <h4 class="text-center pb-3">Đạt chuẩn 4 sao theo UPM <br class="br-hide-show" /><i style="color: #cec700;" class="fa fa-star" aria-hidden="true"></i><i style="color: #cec700;" class="fa fa-star" aria-hidden="true"></i><i style="color: #cec700;" class="fa fa-star" aria-hidden="true"></i><i style="color: #cec700;" class="fa fa-star" aria-hidden="true"></i></h4>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="box-shadow-img animatable bounceIn">
+                    <a href="/Home2020/KiemDinh/2054" class="tag-a-news">
+                        <img src="/img/TrangChuWeb2020/kiem dinh trong nuoc.JPG" class="img-fluid img-news" />
+                        <p class="color-cam" style="text-align: center; padding: 10px; font-weight:600">TRONG NƯỚC</p>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="box-shadow-img animatable bounceIn">
+                    <a href="/Home2020/KiemDinh/2055" class="tag-a-news">
+                        <img src="/img/TrangChuWeb2020/kiem dinh quoc te.JPG" class="img-fluid img-news" />
+                        <p class="color-cam" style="text-align: center; padding: 10px; font-weight:600">QUỐC TẾ</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+    <div class="pt-5 bg-tdmu" style="color: #fff;">
+        <div class="text-center">
+            <h1 class="text-center" style="font-weight: 700" id="suKien">Sự kiện</h1>
+            <h4 class="text-center pb-3">Những sự kiện nổi bật sắp diễn ra tại TDMU</h4>
+        </div>
+        <div class="container page">
+            <div class="module uchicago-events" style="background: #fff; padding-top: 15px;">
+                
+                <div class="row row-flex row-flex-wrap events">
+                            <div class="offset-lg-3 col-md-6 col-sm-12 flex-col event">
+                                <span class="date">
+                                    <b class="tag-b">20/10<hr style="margin-bottom: 0px;margin-top: 0px;width: 40%;">Thứ hai</b>
+                                </span>
+                                <h3 class="tagH3">
+                                    <a href="\theo-dong-su-kien\le-ra-mat-vien-vovinam-toan-cau">
+                                        Lễ ra mắt Viện Vovinam Toàn c&#226;̀u
+                                    </a>
+                                </h3>
+                                <p>
+                                    <span class="time">
+                                        15.00 PM<br>
+                                    </span>
+                                    <span class="loc">
+                                        Hội trường Trung t&#226;m Gi&#225;o dục quốc ph&#242;ng, Trường Đại học Thủ Dầu Một 
+                                    </span>
+                                </p>
+                            </div>
+                </div>
+            </div>
+
+            <div class="text-center pt-5 pb-3">
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+<div style="position: relative;">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-4 col-sm-12" style="padding:0">
+                <img id="img-blue" style="min-width: calc(100%); height: 350px;object-fit: cover; filter: brightness(70%); border: 0px solid transparent;" class="img-fluid" src="/img/TrangChuWeb2020/khong-gian-tdmu-2024.JPG" />
+                <div style=" position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);text-align: center;" id="showHide">
+                    <div class="text-center text-white">
+                        <a class="text-white" href="/khong-gian-tdmu"><h3>Không gian TDMU</h3></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-12 ratio ratio-16x9" style="padding: 0; text-align: center;">
+                <iframe width="100%" height="350" src="https://www.youtube.com/embed/videoseries?si=ombaJPqAtr20p8RU&amp;list=PLo-WOGxXrwSjqrOlH9G8xGYoUo3ew8zPm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
+            </div>
+            <div class="col-md-4 col-sm-12 ratio ratio-16x9" style="padding: 0; text-align: center;">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2328.927818491477!2d106.67377023692823!3d10.98041582001827!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174d1085e2b1c37%3A0x73bfa5616464d0ee!2zVHLGsOG7nW5nIMSQ4bqhaSBo4buNYyBUaOG7pyBE4bqndSBN4buZdA!5e0!3m2!1svi!2s!4v1712215607339!5m2!1svi!2s" width="100%" height="350" style="border:0;" allowfullscreen="" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    //function checkScroll() {
+    //    var startY = $(window).height() - 80;;
+
+    //    // Khi kéo xuống đổi màu header
+    //    if ($(window).scrollTop() > startY) {
+    //        $('#navbar-two').addClass("bg-2-scroll");
+    //        $('#navbar-two .navbar-nav .nav-link').css("color", "#000");
+    //        $('#changeLogo').attr('src', '/img/logo2018-1.png');
+    //    } else {
+    //        $('#navbar-two').removeClass("bg-2-scroll");
+    //        $('#navbar-two .navbar-nav .nav-link').css("color", "#fff");
+    //        $('#changeLogo').attr('src', '/img/logo2018-2.png');
+    //    }
+    //}
+
+    //if ($('#navbar-two').length > 0) {
+    //    $(window).on("scroll load resize", function () {
+    //        checkScroll();
+    //    });
+    //}
+
+    // Thay màu header
+    $('#navbar-two').addClass("bg-2-scroll");
+    $('#navbar-two .navbar-nav .nav-link').css("color", "#000");
+    $('#changeLogo').attr('src', '/img/brand/Logo_TDMU_2024_nguyen_ban.svg');
+</script>
+
+<script>
+    //// Set the date we're counting down to
+    //var countDownDate = new Date("Oct 15, 2021 0:0:0").getTime();
+
+    //// Update the count down every 1 second
+    //var x = setInterval(function () {
+
+    //    // Get today's date and time
+    //    var now = new Date().getTime();
+
+    //    // Find the distance between now and the count down date
+    //    var distance = countDownDate - now;
+
+    //    // Time calculations for days, hours, minutes and seconds
+    //    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    //    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    //    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    //    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+    //    // Display the result in the element with id="demo"
+    //    document.getElementById("demo").innerHTML = days + " NGÀY " + hours + " GIỜ "
+    //        + minutes + " PHÚT " + seconds + " GIÂY ";
+
+    //    // If the count down is finished, write some text
+    //    if (distance < 0) {
+    //        clearInterval(x);
+    //        document.getElementById("demo").innerHTML = "EXPIRED";
+    //    }
+    //}, 1000);
+
+    //(function () {
+    //    const second = 1000,
+    //        minute = second * 60,
+    //        hour = minute * 60,
+    //        day = hour * 24;
+
+    //    //I'm adding this section so I don't have to keep updating this pen every year :-)
+    //    //remove this if you don't need it
+    //    let today = new Date(),
+    //        dd = String(today.getDate()).padStart(2, "0"),
+    //        mm = String(today.getMonth() + 1).padStart(2, "0"),
+    //        yyyy = today.getFullYear(),
+    //        nextYear = yyyy,
+    //        dayMonth = "10/15/",
+    //        birthday = dayMonth + yyyy;
+
+    //    today = mm + "/" + dd + "/" + yyyy;
+    //    if (today > birthday) {
+    //        birthday = dayMonth + nextYear;
+    //    }
+    //    //end
+
+    //    const countDown = new Date(birthday).getTime(),
+    //        x = setInterval(function () {
+
+    //            const now = new Date().getTime(),
+    //                distance = countDown - now;
+
+    //            document.getElementById("days").innerText = Math.floor(distance / (day)),
+    //                document.getElementById("hours").innerText = Math.floor((distance % (day)) / (hour)),
+    //                document.getElementById("minutes").innerText = Math.floor((distance % (hour)) / (minute)),
+    //                document.getElementById("seconds").innerText = Math.floor((distance % (minute)) / second);
+
+    //            //do something later when date is reached
+    //            if (distance < 0) {
+    //                document.getElementById("headline").innerText = "LỄ KHAI GIẢNG NĂM HỌC MỚI 15/10/2021!";
+    //                document.getElementById("countdown").style.display = "none";
+    //                document.getElementById("content").style.display = "block";
+    //                clearInterval(x);
+    //            }
+    //            //seconds
+    //        }, 0)
+    //}());
+</script>
+
+    </div>
+
+    <div id="searchContent" style="display:none;">
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <div class="trangbaidang">
+            <div class="container" style="min-height:500px;">
+                <div class="row" style="margin-bottom:25px;">
+                    <div class="col-md-12">
+                        <h1 class="chuchica">TÌM KIẾM</h1>
+                    </div>
+                    <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
+                        <input type="text" id="txtSearch" class="form-control" name="txtSearch" autofocus placeholder="Nhập từ khóa" onfocus="this.value = this.value;" />
+                    </div>
+                    <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
+                        <input type="button" id="btncancel" class="btn btn-danger btn-block" value="Hủy" />
+                    </div>
+                </div>
+                <div class="search-loader" style="display:none;">
+                    <center>
+                        <img class="loading-image" src="/hinhanh/ajax-loader.gif" alt="loading..">
+                    </center>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                        <div id="groupresultcontent">
+                        </div>
+                    </div>
+                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+                        <h3></h3>
+                        <div id="resultcontent">
+                        </div>
+                        <div class="search-subloader" style="display:none;">
+                            <center>
+                                <img class="loading-image" src="/hinhanh/ajax-loader.gif" alt="đang tải...">
+                            </center>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+<footer class="bg-tdmu">
+    <div class="container">
+        <div class="row justify-content-center pt-3 pb-3">
+            <div class="col-md-4">
+                <div class="text-white" style="font-size: .8rem;">
+                    <div class="pb-2">
+                        <a href="#" class="pb-2">
+                            <img src="/img/brand/Logo_TDMU_2024_nguyen_ban_Trang.svg" class="img-fluid" style="height: 50px" />
+                        </a>
+                    </div>
+                    <span style="line-height: 2;">
+                        
+                        <address>
+                            
+                            Số 06, Trần Văn Ơn, Phường Ph&#250; Lợi, TP Hồ Ch&#237; Minh<br>
+                             0274-383-4512 | 0274-382-2518 | 0274-384-4226<br />
+                            <a style="color: #fff;" href="https://tdmu.edu.vn">https://tdmu.edu.vn</a><br />
+                            Đang truy cập: 1629 <br />
+                            © 2020 Trường Đại học Thủ Dầu Một<br />
+                            
+                        </address>
+                    </span>
+                    <div class="pt-2">
+                        <a href="https://www.facebook.com/dhtdm2009" target="_blank">
+                            
+                            <i class="fa-brands fa-square-facebook fa-xl text-white"></i>
+                        </a> &nbsp;&nbsp;
+                        <a href="https://www.youtube.com/channel/UCBtKDWV4vp7QPl8474svFWw" target="_blank">
+                            
+                            <i class="fa-brands fa-youtube fa-xl text-white"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <a href="https://tdmu.edu.vn/gioi-thieu/ban-chap-hanh-dang-bo" style="color: #fff;" class="chudauhoa"><h5 class="text-white font-weight-bold pb-2">BAN CHẤP HÀNH ĐẢNG BỘ</h5></a>
+                <a href="https://tdmu.edu.vn/gioi-thieu/hoi-dong-truong" style="color: #fff;" class="chudauhoa"><h5 class="text-white font-weight-bold pb-2">HỘI ĐỒNG TRƯỜNG</h5></a>
+                <a href="https://tdmu.edu.vn/gioi-thieu/ban-giam-hieu" style="color: #fff;" class="chudauhoa"><h5 class="text-white font-weight-bold pb-2">BAN GIÁM HIỆU</h5></a>
+                <h5 class="text-white font-weight-bold pb-2">ĐƠN VỊ THUỘC - TRỰC THUỘC</h5>
+                <div class="text-white" style="font-size: .8rem;">
+                    
+                    
+<style>
+        .modalfooter {
+            color: #000
+        }
+
+    .modal-open {
+        overflow: initial;
+        padding-right: 0px !important;
+    }
+    </style>
+
+    <div style="line-height: 1.2;">
+        <a class="zindexfooter" style="color: #fff;" role="button" data-toggle="modal" data-target="#myModal_1">
+            Khối Đ&#224;o tạo
+        </a>
+    </div>
+    <br />
+    <!-- Modal -->
+    <!--<div class="modal fade" id="myModal_stt" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" style="z-index:9000">
+        <div class="modal-dialog" role="document" style="overflow-y: overlay; max-height:90%;">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 class="modal-title text-center modalfooter" id="exampleModalLabel">Chọn Đơn Vị</h3>
+                </div>
+                <div class="modal-body text-center" style="padding-bottom: 0px; padding-top: 6px;">
+                    Html.Action("_FooterModalDonViTrucThuoc", "Home2018", new { iddddd = item.IDloaidv })
+                </div>
+                <div class="modal-footer text-center" style="border-top-width: 0px;">
+                    <button type="button" class="btn btn-default btn-link" aria-label="Close" data-dismiss="modal">Đóng</button>
+                </div>
+            </div>
+        </div>
+    </div>-->
+    <!-- Modal -->
+    <div class="modal fade" id="myModal_1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" style="z-index:9000">
+        <div class="modal-dialog" style="overflow-y: overlay; max-height:90%;">
+            <div class="modal-content">
+                <div class="modal-header text-center">
+                    <h5 class="modal-title w-100 text-dark" id="exampleModalLabel">Chọn Đơn Vị</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body text-center">
+                    <style>
+    .ahover:hover {
+        background-color: transparent !important
+    }
+
+    footer hr {
+        border-top: 1px solid #e5e5e5
+    }
+</style>
+<div class="list-group" style="margin-bottom: 0px; display: block">
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Trường Kinh tế T&#224;i ch&#237;nh','2025-01-21-10-37-02-truong-kinh-te-tai-chinh-32-don-vi-tdmu3-2-1-jpg.jpg','https://tkttc.tdmu.edu.vn')"  class="list-group-item ahover" >Trường Kinh tế T&#224;i ch&#237;nh</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Trường Luật v&#224; quản l&#253;','2025-09-30-10-03-34-truong-luat-va-quan-ly-png.png','https://tluql.tdmu.edu.vn')"  class="list-group-item ahover" >Trường Luật v&#224; quản l&#253;</a> <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Khoa Ngoại ngữ','2025-01-21-10-37-47-vien-dao-tao-ngoai-ngu-32-donvi-tdmu-1-jpg.jpg','/don-vi-truc-thuoc/%20')"  class="list-group-item ahover">Khoa Ngoại ngữ</a><hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Khoa C&#244;ng nghiệp văn h&#243;a','2025-02-17-11-24-51-khoa-cn-van-hoa-the-thao-va-du-lich-1-jpg.jpg','https://kcnvh.tdmu.edu.vn')"  class="list-group-item ahover" >Khoa C&#244;ng nghiệp văn h&#243;a</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Khoa Sư Phạm','2025-04-10-08-12-28-khoa-su-pham-32-donvi-tdmu-2-1-jpg.jpg','https://ksuph.tdmu.edu.vn')"  class="list-group-item ahover" >Khoa Sư Phạm</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Khoa Kiến tr&#250;c - X&#226;y dựng','2025-01-21-14-32-39-vien-dtktxdgt-32-don-vi-tdmu-1-jpg.jpg','https://vkxgt.tdmu.edu.vn')"  class="list-group-item ahover" >Khoa Kiến tr&#250;c - X&#226;y dựng</a> <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Viện C&#244;ng nghệ số','','/don-vi-truc-thuoc/vien-cong-nghe-so')"  class="list-group-item ahover">Viện C&#244;ng nghệ số</a><hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Viện Kỹ thuật c&#244;ng nghệ','2025-02-19-16-47-55-vien-ky-thuat-cong-nghe-32-donvi-tdmu-1-jpg.jpg','https://vktcn.tdmu.edu.vn')"  class="list-group-item ahover" >Viện Kỹ thuật c&#244;ng nghệ</a> <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Viện C&#244;ng nghệ xanh v&#224; bền vững','','/don-vi-truc-thuoc/vien-cong-nghe-xanh-va-ben-vung')"  class="list-group-item ahover">Viện C&#244;ng nghệ xanh v&#224; bền vững</a><hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Viện Đ&#224;o tạo Y Dược','','https://kduoc.tdmu.edu.vn')"  class="list-group-item ahover" >Viện Đ&#224;o tạo Y Dược</a>
+</div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Đóng</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="line-height: 1.2;">
+        <a class="zindexfooter" style="color: #fff;" role="button" data-toggle="modal" data-target="#myModal_2">
+            Khối Quản l&#253;, Phục vụ
+        </a>
+    </div>
+    <br />
+    <!-- Modal -->
+    <!--<div class="modal fade" id="myModal_stt" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" style="z-index:9000">
+        <div class="modal-dialog" role="document" style="overflow-y: overlay; max-height:90%;">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 class="modal-title text-center modalfooter" id="exampleModalLabel">Chọn Đơn Vị</h3>
+                </div>
+                <div class="modal-body text-center" style="padding-bottom: 0px; padding-top: 6px;">
+                    Html.Action("_FooterModalDonViTrucThuoc", "Home2018", new { iddddd = item.IDloaidv })
+                </div>
+                <div class="modal-footer text-center" style="border-top-width: 0px;">
+                    <button type="button" class="btn btn-default btn-link" aria-label="Close" data-dismiss="modal">Đóng</button>
+                </div>
+            </div>
+        </div>
+    </div>-->
+    <!-- Modal -->
+    <div class="modal fade" id="myModal_2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" style="z-index:9000">
+        <div class="modal-dialog" style="overflow-y: overlay; max-height:90%;">
+            <div class="modal-content">
+                <div class="modal-header text-center">
+                    <h5 class="modal-title w-100 text-dark" id="exampleModalLabel">Chọn Đơn Vị</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body text-center">
+                    <style>
+    .ahover:hover {
+        background-color: transparent !important
+    }
+
+    footer hr {
+        border-top: 1px solid #e5e5e5
+    }
+</style>
+<div class="list-group" style="margin-bottom: 0px; display: block">
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Văn Ph&#242;ng','2025-02-27-16-27-20-van-phong-32-donvi-tdmu-26-02-2025-1-jpg.jpg','/don-vi-truc-thuoc/van-phong')"  class="list-group-item ahover">Văn Ph&#242;ng</a><hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Ban Hỗ trợ người học','2025-09-30-09-56-13-ban-ho-tro-nguoi-hoc-png.png','https://cshtnh.tdmu.edu.vn')"  class="list-group-item ahover" >Ban Hỗ trợ người học</a> <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Ban Cơ sở vật chất','','/don-vi-truc-thuoc/ban-co-so-vat-chat')"  class="list-group-item ahover">Ban Cơ sở vật chất</a><hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Ban Kiểm so&#225;t nội bộ','2025-09-30-10-01-55-ban-kiem-soat-noi-bo-png.png','/don-vi-truc-thuoc/ban-kiem-soat-noi-bo')"  class="list-group-item ahover">Ban Kiểm so&#225;t nội bộ</a><hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Ban Đảm bảo chất lượng','2025-09-30-10-10-36-ban-dam-bao-chat-luong-1-png.png','https://bdbcl.tdmu.edu.vn')"  class="list-group-item ahover" >Ban Đảm bảo chất lượng</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Ban Khoa học c&#244;ng nghệ v&#224; hợp t&#225;c quốc tế','2025-02-17-11-24-10-ban-khoa-hoc-va-hop-tac-quoc-te-32-don-vi-tdmu-1-jpg.jpg','https://khcn.tdmu.edu.vn/')"  class="list-group-item ahover" >Ban Khoa học c&#244;ng nghệ v&#224; hợp t&#225;c quốc tế</a> <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Ban T&#224;i ch&#237;nh','','/don-vi-truc-thuoc/ban-tai-chinh')"  class="list-group-item ahover">Ban T&#224;i ch&#237;nh</a><hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Ban Tuyển sinh v&#224; Truyền th&#244;ng','2025-03-13-15-24-33-ban-tuyen-sinh-va-truyen-thong-32-don-vi-tdmu3-2-1-jpg.jpg','https://tuyensinh.tdmu.edu.vn')"  class="list-group-item ahover" >Ban Tuyển sinh v&#224; Truyền th&#244;ng</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Ban Thư viện v&#224; Học liệu','2025-02-17-11-24-22-ban-thu-vien-va-hoc-lieu-32-don-vi-tdmu3-2-1-jpg.jpg','https://btvhl.tdmu.edu.vn')"  class="list-group-item ahover" >Ban Thư viện v&#224; Học liệu</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Ban Tổ chức - Nh&#226;n sự','','https://btcns.tdmu.edu.vn')"  class="list-group-item ahover" >Ban Tổ chức - Nh&#226;n sự</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Ban Quản l&#253; đ&#224;o tạo','2025-02-17-11-27-48-ban-quan-ly-dt-dh-lam-trang-web-truong-tdmu-32-donvi-tdmu-1-jpg.jpg','https://bdtdh.tdmu.edu.vn')"  class="list-group-item ahover" >Ban Quản l&#253; đ&#224;o tạo</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Cơ sở Bến C&#225;t','','https://cosbc.tdmu.edu.vn')"  class="list-group-item ahover" >Cơ sở Bến C&#225;t</a> <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Trung t&#226;m Hợp t&#225;c doanh nghiệp v&#224; khởi nghiệp','','https://ttdvk.tdmu.edu.vn')"  class="list-group-item ahover" >Trung t&#226;m Hợp t&#225;c doanh nghiệp v&#224; khởi nghiệp</a>
+</div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Đóng</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="line-height: 1.2;">
+        <a class="zindexfooter" style="color: #fff;" role="button" data-toggle="modal" data-target="#myModal_3">
+            Khối Nghi&#234;n cứu, Dịch vụ, Chuyển giao C&#244;ng nghệ
+        </a>
+    </div>
+    <br />
+    <!-- Modal -->
+    <!--<div class="modal fade" id="myModal_stt" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" style="z-index:9000">
+        <div class="modal-dialog" role="document" style="overflow-y: overlay; max-height:90%;">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 class="modal-title text-center modalfooter" id="exampleModalLabel">Chọn Đơn Vị</h3>
+                </div>
+                <div class="modal-body text-center" style="padding-bottom: 0px; padding-top: 6px;">
+                    Html.Action("_FooterModalDonViTrucThuoc", "Home2018", new { iddddd = item.IDloaidv })
+                </div>
+                <div class="modal-footer text-center" style="border-top-width: 0px;">
+                    <button type="button" class="btn btn-default btn-link" aria-label="Close" data-dismiss="modal">Đóng</button>
+                </div>
+            </div>
+        </div>
+    </div>-->
+    <!-- Modal -->
+    <div class="modal fade" id="myModal_3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" style="z-index:9000">
+        <div class="modal-dialog" style="overflow-y: overlay; max-height:90%;">
+            <div class="modal-content">
+                <div class="modal-header text-center">
+                    <h5 class="modal-title w-100 text-dark" id="exampleModalLabel">Chọn Đơn Vị</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body text-center">
+                    <style>
+    .ahover:hover {
+        background-color: transparent !important
+    }
+
+    footer hr {
+        border-top: 1px solid #e5e5e5
+    }
+</style>
+<div class="list-group" style="margin-bottom: 0px; display: block">
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Trung t&#226;m Ngoại ngữ','','https://vdtnn.tdmu.edu.vn')"  class="list-group-item ahover" >Trung t&#226;m Ngoại ngữ</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Trung t&#226;m Chuyển đổi số','','https://vcntt.tdmu.edu.vn')"  class="list-group-item ahover" >Trung t&#226;m Chuyển đổi số</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Trung t&#226;m tư vấn Trung h&#242;a carbon','2025-02-25-16-14-03-trung-tam-trung-hoa-carbon-32-don-vi-tdmu-1-jpg.jpg','https://ttthc.tdmu.edu.vn')"  class="list-group-item ahover" >Trung t&#226;m tư vấn Trung h&#242;a carbon</a> <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Trung t&#226;m ứng dụng, chuyển giao c&#244;ng nghệ','','/don-vi-truc-thuoc/trung-tam-ung-dung-chuyen-giao-cong-nghe')"  class="list-group-item ahover">Trung t&#226;m ứng dụng, chuyển giao c&#244;ng nghệ</a><hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Viện Đ&#224;o tạo theo nhu cầu x&#227; hội','','https://vncxh.tdmu.edu.vn')"  class="list-group-item ahover" >Viện Đ&#224;o tạo theo nhu cầu x&#227; hội</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Viện Đ&#224;o tạo Kiến tr&#250;c, x&#226;y dựng v&#224; giao th&#244;ng','','https://vkxgt.tdmu.edu.vn')"  class="list-group-item ahover" >Viện Đ&#224;o tạo Kiến tr&#250;c, x&#226;y dựng v&#224; giao th&#244;ng</a> <hr />
+ <hr />
+                <a style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Viện Dược v&#224; thực phẩm sức khỏe','','https://vdutp.tdmu.edu.vn')"  class="list-group-item ahover" >Viện Dược v&#224; thực phẩm sức khỏe</a> <hr />
+                <a  style="padding-bottom:0px; font-size:15px; border: none; color: #333" onclick="ShowChiTiet('Viện Vovinam','','/don-vi-truc-thuoc/vien-vovinam')"  class="list-group-item ahover">Viện Vovinam</a>
+</div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Đóng</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+<!-- Button trigger modal -->
+<!--<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+    Launch demo modal
+</button>-->
+
+<!-- Modal -->
+<!--<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                ...
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+        </div>
+    </div>
+</div>-->
+                </div>
+            </div>
+
+            <div class="col-md-2">
+                <h5 class="text-white font-weight-bold pb-2">ĐOÀN THỂ</h5>
+                <div class="text-white" style="font-size: .8rem;">
+                    
+                        <p><a style="color: #fff;" class="chudauhoa" href="https://tuoitre.tdmu.edu.vn">Hội Sinh vi&#234;n</a></p>
+                        <p><a style="color: #fff;" class="chudauhoa" href="https://congdoan.tdmu.edu.vn">C&#244;ng đo&#224;n</a></p>
+                        <p><a style="color: #fff;" class="chudauhoa" href="https://tuoitre.tdmu.edu.vn">Đo&#224;n Thanh ni&#234;n</a></p>
+                </div>
+            </div>
+
+            <div class="col-md-2">
+                <h5 class="text-white font-weight-bold pb-2">THÔNG TIN</h5>
+                <div class="text-white" style="font-size: .8rem;">
+                    <span style="line-height: 2.3;">
+                        
+                        <address>
+    
+        <p><a style="color: #fff;" class="chudauhoa" href="/lich-cong-tac">Lịch c&#244;ng t&#225;c</a></p>
+        <p><a style="color: #fff;" class="chudauhoa" href="/thong-bao">Th&#244;ng b&#225;o</a></p>
+        <p><a style="color: #fff;" class="chudauhoa" href="/tin-tuc">TIN TỨC</a></p>
+        <p><a style="color: #fff;" class="chudauhoa" href="/gioi-thieu">Giới thiệu</a></p>
+        <p><a style="color: #fff;" class="chudauhoa" href="/lien-he">Li&#234;n hệ ban bi&#234;n tập</a></p>
+    <p><a style="color: #fff;" class="chudauhoa" href="/privacy">Quyền riêng tư</a></p>
+</address>
+
+                    </span>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</footer>
+    <!-- Modal -->
+    <div class="modal fade" id="chiTietDonViModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="z-index:9999">
+        <div class="modal-dialog modal-dialog-scrollable modal-xl" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h6 class="modal-title" id="chitietDonViTitle"></h6>
+                </div>
+                <div class="modal-body" id="chitietDonViBody">
+                </div>
+                <div class="modal-footer">
+                    <a type="button" class="btn btn-primary" id="chitietdonvilink">Truy cập website</a>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Đóng</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+
+        function ShowChiTiet(title, img, link) {
+            $('#chitietDonViTitle').html(null)
+            $('#chitietDonViTitle').html(title)
+            $('#chitietDonViBody').html(null)
+            if (img != null && img != '') {
+                $('#chitietDonViBody').html('<img style="width:100%" src="/img/ckeditor/Images/' + img + '" />');
+            }
+            $('#chitietdonvilink').attr("href", null)
+            $('#chitietdonvilink').attr("href", link)
+            $('#chiTietDonViModal').modal('show')
+        }
+        $('.owl-carousel').owlCarousel({
+            loop: true,
+            margin: 10,
+            autoplay: true,
+            autoplayTimeout: 5000,
+            autoplayHoverPause: true,
+            nav: false,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                600: {
+                    items: 3
+                },
+                1000: {
+                    items: 4
+                }
+            }
+        })
+        $('.owl-carousel-bantinhoatdongsinhvien').owlCarousel({
+            items: 4,
+            loop: true,
+            margin: 10,
+            autoplay: true,
+            autoplayTimeout: 1500,
+            nav: true,
+            autoplayHoverPause: true
+        });
+        $('.owl-carousel-tintuc').owlCarousel({
+            items: 4,
+            loop: true,
+            margin: 10,
+            autoplay: true,
+            autoplayTimeout: 1500,
+            nav: true,
+            autoplayHoverPause: true
+        });
+        jQuery(function ($) {
+            // Function which adds the 'animated' class to any '.animatable' in view
+            var doAnimations = function () {
+
+                // Calc current offset and get all animatables
+                var offset = $(window).scrollTop() + $(window).height(),
+                    $animatables = $('.animatable');
+
+                // Unbind scroll handler if we have no animatables
+                if ($animatables.length == 0) {
+                    $(window).off('scroll', doAnimations);
+                }
+
+                // Check all animatables and animate them if necessary
+                $animatables.each(function (i) {
+                    var $animatable = $(this);
+                    if (($animatable.offset().top + $animatable.height() - 20) < offset) {
+                        $animatable.removeClass('animatable').addClass('animated');
+                    }
+                });
+            };
+
+            // Hook doAnimations on scroll, and trigger a scroll
+            $(window).on('scroll', doAnimations);
+            $(window).trigger('scroll');
+
+        });
+    </script>
+
+    <script>
+        $('#tableMenu a').click(function () {
+            $('#navbarNavMobile').removeClass("show");
+
+        });
+    </script>
+
+    <script async defer>
+
+        window.addEventListener("load", function () {
+            setTimeout(function () {
+                var maxHeight = 0;
+                $(".get-height").each(function () {
+                    if ($(this).height() > maxHeight) {
+                        maxHeight = $(this).height();
+                    } else {
+                        maxHeight = maxHeight;
+                    }
+
+                });
+                $(".get-height").css("height", maxHeight + "px");
+
+                $(function () {
+                    let isMobile = window.matchMedia("only screen and (device-width: 768px)").matches;
+
+                    if (isMobile) {
+                        $(".set-height-news").css("height", maxHeight + "px");
+                        $(".get-height").css("margin-bottom", "30px");
+                    }
+                });
+
+                //if (/iPad/i.test(navigator.userAgent)) {
+
+                //}
+
+            }, 1000);
+            setTimeout(function () {
+                var maxHeight = 0;
+                $(".get-height-event").each(function () {
+                    if ($(this).height() > maxHeight) {
+                        maxHeight = $(this).height();
+                    } else {
+                        maxHeight = maxHeight;
+                    }
+
+                });
+                $(".get-height-event").css("height", maxHeight + "px");
+
+            }, 1000);
+        });
+
+        $(document).ready(function () {
+
+        });
+    </script>
+
+    
+    
+    <script defer>
+        function LoadGroup(e) { $.ajax({ type: "GET", url: '/Search/PartialGroupResult', contenType: "application/JSON; charset=utf-8", data: { key: e }, dataType: "html", beforeSend: function () { $("#groupresultcontent").html(null), $("#resultcontent").html(null), $(".search-loader").show(), $(".search-subloader").hide() }, complete: function () { $(".search-loader").hide() }, success: function (t) { if (!t.includes("Không tìm thấy kết quả tìm kiếm cho từ khóa")) { LoadResult(e, null) } $("#groupresultcontent").html(t)},error:function(){}})}function LoadResult(e,t){$.ajax({type:"GET",url:'/Search/PartialResult',contenType:"application/JSON; charset=utf-8",data:{key:e,idnhombd:t},dataType:"html",beforeSend:function(){$("#resultcontent").html(null),$(".search-loader").hide(),$(".search-subloader").show()},complete:function(){$(".search-subloader").hide()},success:function(e){$("#resultcontent").html(e)},error:function(){}})}function SelectGroup(e){var t=$("#txtSearch").val().trim();$(".list-group-item").removeClass("active"),LoadResult(t,e),$("#menu-item-"+e).addClass("active")}$("#txtSearchHome").on("input",function(){var e=$("#txtSearchHome").val();""!==e.trim()?($("#txtSearch").val(e),$("#txtSearchHome").val(null),$("#formSearch").hide(),$("#renderBody").hide(),$("#searchContent").show(),$("#txtSearch").focus()):($("#renderBody").show(),$("#searchContent").hide(),$("#idEnglist").show())}),$("#txtSearchHomeMobile").on("input",function(){var e=$("#txtSearchHomeMobile").val();""!==e.trim()?($("#txtSearch").val(e),$("#txtSearchHomeMobile").val(null),$("#formSearch").hide(),$("#renderBody").hide(),$("#searchContent").show(),$("#txtSearch").focus()):($("#renderBody").show(),$("#searchContent").hide(),$("#idEnglist").show())}),$("#txtSearch").on("input",function(){delay(function(){var e=$("#txtSearch").val();""===e.trim()?($("#txtSearch").val(""),LoadGroup(null)):e.trim().length>1?LoadGroup(e.trim()):LoadGroup(null)},2e3)}),$("#btncancel").click(function(){$("#groupresultcontent").html(null),$("#resultcontent").html(null),$("#renderBody").show(),$("#searchContent").hide(),$("#formSearch").show()});var SearchnoData=!1,SearchCount=0,SearchinProgress=!1;function SearchGetMore(e){var t=$("#txtSearch").val(),o="#grp"+e,r=".item"+e,n="#listCount"+e,a="#btnXemthem"+e,c="#loading"+e;SearchCount=$(r).length,SearchinProgress||SearchnoData||$.ajax({type:"GET",url:'/Search/PartialLoad',contenType:"application/JSON; charset=utf-8",data:{key:t,idnhombd:e,start:SearchCount},dataType:"html",beforeSend:function(){SearchinProgress=!0,$(a).hide(),$(c).show()},complete:function(){SearchinProgress=!1,$(c).hide()},success:function(e){$(o).append(e),(SearchCount=$(r).length)<$(n).text()&&$(a).show()},error:function(){noData=!0}})}$(".container-2 #txtSearchHome").hover(function(){$("#txtSearchHome").focus()}),$(".container-2 span").hover(function(){$("#txtSearchHome").focus()}),$(".box .container-2").mouseout(function(){$("#txtSearchHome").focus(),""===$("#txtSearchHome").val().trim()&&$("#txtSearchHome").val(null),$("#txtSearchHome").blur()});
+    </script>
+    
+    <script>
+        $('.owl-carousel').owlCarousel({
+            loop: true,
+            margin: 10,
+            autoplay: true,
+            autoplayTimeout: 5000,
+            autoplayHoverPause: true,
+            nav: false,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                600: {
+                    items: 3
+                },
+                1000: {
+                    items: 4
+                }
+            }
+        });
+    </script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-53MT1XSTET"></script>
+    <script>
+        //function openFormAI() {
+        //    document.getElementById("myFormchatAI").style.display = "block";
+        //    $('#callout_popup_calloutAI').hide();
+        //}
+
+        //function close_popupAI() {
+        //    $('#myFormchatAI').hide();
+        //    $('#callout_popup_calloutAI').show();
+        //    $('#callout_popup_linkAI').show();
+        //}
+        (async () => { let e = document.createElement("script"); e.src = "https://tuvan.tdmu.edu.vn/embed", e.type = "module", document.body.appendChild(e), await new Promise(((e, t) => setTimeout((() => e()), 3e3))); let t = document.createElement("tuyensinh-chat-button"); document.body.appendChild(t) })();
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-53MT1XSTET');
+    </script>
+
+    <script type="text/javascript" src="https://viewer.diagrams.net/js/viewer-static.min.js"></script>
+</body>
+</html>

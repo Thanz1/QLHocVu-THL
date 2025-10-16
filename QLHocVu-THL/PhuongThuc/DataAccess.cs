@@ -60,7 +60,7 @@ namespace QLHocVu_THL
                 return dt;
             }
         }
-        public void TaoLop(string maLop, string tenLop, string maGV, string maHK, string maMH, int soLuongSV, string maPhong, int siSo, string trangThai, string connStr)
+        public void TaoLop(string maLop, string tenLop, string maGV, string maHK, string maMH, int soLuongSV, string maPhong, int siSo, string trangThai)
         {
             // Chú ý: Đã sửa lỗi chính tả và thừa dấu đóng ngoặc trong câu lệnh SQL
             string sql = @"INSERT INTO [Lớp] ([Mã Lớp],[Tên Lớp],[MaGV],[MaHK],[Mã MH],[SoLuongSV],[MaPhong],[Siso],[Trạng thái])

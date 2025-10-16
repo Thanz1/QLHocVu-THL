@@ -69,7 +69,7 @@ namespace QLHocVu_THL
             string maMH = cboMonHoc.SelectedValue?.ToString();
             int soLuongSV = (int)numSoLuong.Value; // Đổi sl thành soLuongSV cho rõ nghĩa
             int siSo = 0;           // Sĩ số ban đầu là 0
-            string trangThai = "Đã mở"; // Trạng thái mặc định là "Mở"
+            string trangThai = "open"; // Trạng thái mặc định là "Mở"
 
             // 3. Kiểm tra dữ liệu bắt buộc
             if (string.IsNullOrEmpty(maLop) || string.IsNullOrEmpty(tenLop) ||
@@ -85,9 +85,8 @@ namespace QLHocVu_THL
             {
                 // Cập nhật lời gọi phương thức TaoLop với đầy đủ tham số
                 // LƯU Ý: Phải truyền thêm connStr vào nếu db.TaoLop không tự quản lý chuỗi kết nối
-                string connStr = "YourConnectionStringHere"; // Thay thế bằng chuỗi kết nối thực tế
-
-                db.TaoLop(maLop, tenLop, maGV, maHK, maMH, soLuongSV, maPhong, siSo, trangThai, connStr);
+                // Thay thế bằng chuỗi kết nối thực tế
+                db.TaoLop(maLop, tenLop, maGV, maHK, maMH, soLuongSV, maPhong, siSo, trangThai);
                 MessageBox.Show("Tạo lớp thành công.");
                 LoadGridLop();
             }

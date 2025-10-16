@@ -21,7 +21,7 @@ namespace QLHocVu_THL.PhuongThuc
         // Tự sinh mã môn học (Logic nghiệp vụ)
         private string GenerateMaMH()
         {
-            var dt = GetDanhSachMonHoc();
+            var dt = db.GetMonHoc();
             int count = dt.Rows.Count + 1;
             // D3 đảm bảo mã có 3 chữ số (001, 010, 100...)
             return "MH" + count.ToString("D3");

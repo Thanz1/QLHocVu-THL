@@ -56,6 +56,7 @@
             this.btnChonHK = new System.Windows.Forms.Button();
             this.btnChonPhong = new System.Windows.Forms.Button();
             this.btnLoadLop = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvLopDaTao)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numSoLuong)).BeginInit();
             this.SuspendLayout();
@@ -164,7 +165,7 @@
             // 
             // btnTaoLop
             // 
-            this.btnTaoLop.Location = new System.Drawing.Point(537, 312);
+            this.btnTaoLop.Location = new System.Drawing.Point(549, 313);
             this.btnTaoLop.Name = "btnTaoLop";
             this.btnTaoLop.Size = new System.Drawing.Size(72, 32);
             this.btnTaoLop.TabIndex = 31;
@@ -311,6 +312,15 @@
             this.btnLoadLop.UseVisualStyleBackColor = true;
             this.btnLoadLop.Click += new System.EventHandler(this.btnLoadLop_Click);
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(637, 313);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(72, 32);
+            this.button1.TabIndex = 31;
+            this.button1.Text = "Lớp đã tạo";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
             // FormTaoLopHoc
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -327,6 +337,7 @@
             this.Controls.Add(this.btnChonHK);
             this.Controls.Add(this.btnChonGV);
             this.Controls.Add(this.btnQuanLyMonHoc);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.btnLoadLop);
             this.Controls.Add(this.btnTaoLop);
             this.Controls.Add(this.dgvLopDaTao);
@@ -384,5 +395,6 @@
         private System.Windows.Forms.Button btnChonHK;
         private System.Windows.Forms.Button btnChonPhong;
         private System.Windows.Forms.Button btnLoadLop;
+        private System.Windows.Forms.Button button1;
     }
 }
