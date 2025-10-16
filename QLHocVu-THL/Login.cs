@@ -45,7 +45,6 @@ namespace QLHocVu_THL
             {
                 MessageBox.Show("Sai UserID hoặc Password!");
             }
-
         }
         private void btnExit_Click(object sender, EventArgs e)
         {

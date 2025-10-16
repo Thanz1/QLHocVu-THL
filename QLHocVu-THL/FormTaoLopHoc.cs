@@ -63,25 +63,45 @@ namespace QLHocVu_THL
         {
             string maLop = txtMaLop.Text.Trim();
             string tenLop = txtTenLop.Text.Trim();
+            string maGV = txtMaGV.Text.Trim(); 
+            string maHK = txtMaHK.Text.Trim();   
+            string maPhong = txtMaPhong.Text.Trim();             // Thêm control txtMaPhong               // Thêm control txtMaVien
             string maMH = cboMonHoc.SelectedValue?.ToString();
-            int sl = (int)numSoLuong.Value;
+            int soLuongSV = (int)numSoLuong.Value; // Đổi sl thành soLuongSV cho rõ nghĩa
+            int siSo = 0;           // Sĩ số ban đầu là 0
+            string trangThai = "Đã mở"; // Trạng thái mặc định là "Mở"
 
-            if (string.IsNullOrEmpty(maLop) || string.IsNullOrEmpty(tenLop) || string.IsNullOrEmpty(maMH))
+            // 3. Kiểm tra dữ liệu bắt buộc
+            if (string.IsNullOrEmpty(maLop) || string.IsNullOrEmpty(tenLop) ||
+                string.IsNullOrEmpty(maMH) || string.IsNullOrEmpty(maGV) ||
+                string.IsNullOrEmpty(maHK) || string.IsNullOrEmpty(maPhong))
             {
-                MessageBox.Show("Vui lòng nhập đầy đủ Mã lớp, Tên lớp, chọn Môn học.");
+                MessageBox.Show("Vui lòng nhập đầy đủ Mã lớp, Tên lớp, Môn học, Giảng viên, Học kỳ, Phòng và Viện.");
                 return;
             }
 
+            // 4. Thực thi tạo lớp
             try
             {
-                // MaGV và MaHK để null tạm thời; bạn có thể cho chọn nếu muốn
-                db.TaoLop(maLop, tenLop, null, null, maMH, sl);
+                // Cập nhật lời gọi phương thức TaoLop với đầy đủ tham số
+                // LƯU Ý: Phải truyền thêm connStr vào nếu db.TaoLop không tự quản lý chuỗi kết nối
+                string connStr = "YourConnectionStringHere"; // Thay thế bằng chuỗi kết nối thực tế
+
+                db.TaoLop(maLop, tenLop, maGV, maHK, maMH, soLuongSV, maPhong, siSo, trangThai, connStr);
                 MessageBox.Show("Tạo lớp thành công.");
                 LoadGridLop();
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Lỗi khi tạo lớp: " + ex.Message);
+                // Kiểm tra lỗi trùng khóa (nếu Mã Lớp đã tồn tại)
+                if (ex.Message.Contains("PRIMARY KEY"))
+                {
+                    MessageBox.Show("Lỗi: Mã lớp đã tồn tại. Vui lòng chọn Mã lớp khác.");
+                }
+                else
+                {
+                    MessageBox.Show("Lỗi khi tạo lớp: " + ex.Message);
+                }
             }
         }
 

@@ -19,7 +19,7 @@ namespace QLHocVu_THL
         {
             using (SqlConnection conn = new SqlConnection(connStr))
             {
-                string sql = "SELECT [Role], Ho_Ten FROM Users WHERE UserID = @user AND [Password] = @pass";
+                string sql = "SELECT [Role] FROM Users WHERE UserID = @user AND [Password] = @pass";
 
                 using (SqlCommand cmd = new SqlCommand(sql, conn))
                 {
@@ -35,7 +35,7 @@ namespace QLHocVu_THL
                                 return new UserInfo
                                 {
                                     Role = dr["Role"].ToString(),
-                                    FullName = dr["Ho_Ten"].ToString()
+                                    
                                 };
                             }
                             return null;
@@ -60,19 +60,31 @@ namespace QLHocVu_THL
                 return dt;
             }
         }
-        public void TaoLop(string maLop, string tenLop, string maGV, string maHK, string maMH, int soLuong)
+        public void TaoLop(string maLop, string tenLop, string maGV, string maHK, string maMH, int soLuongSV, string maPhong, int siSo, string trangThai, string connStr)
         {
-            string sql = @"INSERT INTO [Lớp] ([Mã Lớp],[Tên Lớp],[MaGV],[MaHK],[Mã MH],[SoLuongSV],[Siso],[Trạng thái])
-                           VALUES (@MaLop,@TenLop,@MaGV,@MaHK,@MaMH,@SoLuong,0,'Mở')";
+            // Chú ý: Đã sửa lỗi chính tả và thừa dấu đóng ngoặc trong câu lệnh SQL
+            string sql = @"INSERT INTO [Lớp] ([Mã Lớp],[Tên Lớp],[MaGV],[MaHK],[Mã MH],[SoLuongSV],[MaPhong],[Siso],[Trạng thái])
+VALUES (@MaLop,@TenLop,@MaGV,@MaHK,@MaMH,@SoLuongSV,@MaPhong,@Siso,@TrangThai)";
+
             using (var conn = new SqlConnection(connStr))
             using (var cmd = new SqlCommand(sql, conn))
             {
+                // Thêm tất cả các tham số vào đối tượng SqlCommand
                 cmd.Parameters.AddWithValue("@MaLop", maLop);
                 cmd.Parameters.AddWithValue("@TenLop", tenLop);
-                cmd.Parameters.AddWithValue("@MaGV", maGV ?? (object)DBNull.Value);
-                cmd.Parameters.AddWithValue("@MaHK", maHK ?? (object)DBNull.Value);
-                cmd.Parameters.AddWithValue("@MaMH", maMH ?? (object)DBNull.Value);
-                cmd.Parameters.AddWithValue("@SoLuong", soLuong);
+                cmd.Parameters.AddWithValue("@MaGV", maGV);
+                cmd.Parameters.AddWithValue("@MaHK", maHK);
+                cmd.Parameters.AddWithValue("@MaMH", maMH);
+
+                // Cần đảm bảo tên tham số khớp với tên trong câu lệnh SQL.
+                // @SoLuongSV khớp với SoLuongSV trong SQL, sử dụng biến soLuongSV (đã sửa trong tham số method).
+                cmd.Parameters.AddWithValue("@SoLuongSV", soLuongSV);
+
+                // Thêm các tham số còn thiếu
+                cmd.Parameters.AddWithValue("@MaPhong", maPhong);
+                cmd.Parameters.AddWithValue("@Siso", siSo);
+                cmd.Parameters.AddWithValue("@TrangThai", trangThai);
+
                 conn.Open();
                 cmd.ExecuteNonQuery();
             }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using QLHocVu_THL.PhuongThuc;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,7 +13,7 @@ namespace QLHocVu_THL
 {
     public partial class frmQuanLyMonHoc : Form
     {
-        private readonly DataAccess db = new DataAccess();
+        private readonly MonHocBLL monHocBLL = new MonHocBLL();
         private string selectedMaMH = null;
         public frmQuanLyMonHoc()
         {
@@ -28,7 +29,8 @@ namespace QLHocVu_THL
         {
             try
             {
-                dgvMonHoc.DataSource = db.GetMonHoc();
+                // Gọi BLL để lấy dữ liệu
+                dgvMonHoc.DataSource = monHocBLL.GetDanhSachMonHoc();
             }
             catch (Exception ex)
             {
@@ -46,8 +48,9 @@ namespace QLHocVu_THL
             if (e.RowIndex >= 0)
             {
                 var row = dgvMonHoc.Rows[e.RowIndex];
-                selectedMaMH = row.Cells["MaMH"].Value.ToString();
-                txtTenMH.Text = row.Cells["TenMH"].Value.ToString();
+                // Đảm bảo cột MaMH và TenMH tồn tại trong DataSource
+                selectedMaMH = row.Cells["MaMH"].Value?.ToString();
+                txtTenMH.Text = row.Cells["TenMH"].Value?.ToString();
             }
         }
 
@@ -62,14 +65,8 @@ namespace QLHocVu_THL
 
             try
             {
-                // Tự sinh mã môn học, ví dụ MH + số tăng tự động (dựa theo số lượng hiện có)
-                var dt = db.GetMonHoc();
-                int count = dt.Rows.Count + 1;
-                string maMH = "MH" + count.ToString("D3");
-
-                string sql = "INSERT INTO [Môn học] (MaMH, TenMH) VALUES (@MaMH, @TenMH)";
-                db.ExecuteNonQuery(sql, new System.Data.SqlClient.SqlParameter("@MaMH", maMH),
-                                         new System.Data.SqlClient.SqlParameter("@TenMH", tenMH));
+                // Gọi BLL để thực hiện thêm
+                monHocBLL.ThemMonHoc(tenMH);
 
                 MessageBox.Show("Thêm môn học thành công!");
                 txtTenMH.Clear();
@@ -98,10 +95,8 @@ namespace QLHocVu_THL
 
             try
             {
-                string sql = "UPDATE [Môn học] SET TenMH = @TenMH WHERE MaMH = @MaMH";
-                db.ExecuteNonQuery(sql,
-                    new System.Data.SqlClient.SqlParameter("@TenMH", tenMH),
-                    new System.Data.SqlClient.SqlParameter("@MaMH", selectedMaMH));
+                // Gọi BLL để thực hiện sửa
+                monHocBLL.SuaMonHoc(selectedMaMH, tenMH);
 
                 MessageBox.Show("Sửa môn học thành công!");
                 txtTenMH.Clear();
@@ -127,8 +122,8 @@ namespace QLHocVu_THL
 
             try
             {
-                string sql = "DELETE FROM [Môn học] WHERE MaMH = @MaMH";
-                db.ExecuteNonQuery(sql, new System.Data.SqlClient.SqlParameter("@MaMH", selectedMaMH));
+                // Gọi BLL để thực hiện xóa
+                monHocBLL.XoaMonHoc(selectedMaMH);
 
                 MessageBox.Show("Xóa môn học thành công!");
                 txtTenMH.Clear();
@@ -137,7 +132,15 @@ namespace QLHocVu_THL
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Lỗi khi xóa môn học: " + ex.Message);
+                // Xử lý lỗi ràng buộc khóa ngoại
+                if (ex.Message.Contains("REFERENCE constraint"))
+                {
+                    MessageBox.Show("Lỗi: Không thể xóa môn học này vì đã có lớp học sử dụng. Vui lòng xóa các lớp học liên quan trước.");
+                }
+                else
+                {
+                    MessageBox.Show("Lỗi khi xóa môn học: " + ex.Message);
+                }
             }
         }
 

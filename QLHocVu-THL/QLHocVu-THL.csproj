@@ -146,6 +146,8 @@
     <Compile Include="Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
+    <Compile Include="PhuongThuc\MonHoc.cs" />
+    <Compile Include="PhuongThuc\MonHocBLL.cs" />
     <Compile Include="PhuongThuc\RegistrationWindow.cs" />
     <Compile Include="QuanLyHocKy.cs">
       <SubType>Form</SubType>
