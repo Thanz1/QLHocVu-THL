@@ -43,3 +43,9 @@ C:\Users\ADMIN\source\repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu-.A4DEF8F9.
 C:\Users\ADMIN\source\repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu-THL.exe
 C:\Users\ADMIN\source\repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu-THL.pdb
 C:\Users\ADMIN\source\repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu_THL.FormTaoLopHoc.resources
+C:\Users\HUAN-PC\source\repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu_THL.FormDangKyMon.resources
+C:\Users\HUAN-PC\source\repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu_THL.FormTaoLopHoc.resources
+C:\Users\HUAN-PC\source\repos\QLHocVu-THL\QLHocVu-THL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HUAN-PC\source\repos\QLHocVu-THL\QLHocVu-THL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUAN-PC\source\repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu_THL.QuanLyHocKy.resources
+C:\Users\HUAN-PC\source\repos\QLHocVu-THL\QLHocVu-THL\obj\Debug\QLHocVu_THL.frmQuanLyMonHoc.resources

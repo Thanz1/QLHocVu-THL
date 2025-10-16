@@ -42,6 +42,7 @@
             this.thanhToánToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.nhậpĐiểmQuáTrìnhToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.thôngTinCáNhânToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.QLTKToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.webView21 = new Microsoft.Web.WebView2.WinForms.WebView2();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webView21)).BeginInit();
@@ -73,7 +74,8 @@
             this.TaoLopHocToolStripMenuItem,
             this.thanhToánToolStripMenuItem,
             this.nhậpĐiểmQuáTrìnhToolStripMenuItem,
-            this.thôngTinCáNhânToolStripMenuItem});
+            this.thôngTinCáNhânToolStripMenuItem,
+            this.QLTKToolStripMenuItem});
             this.Menu.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Menu.Name = "Menu";
             this.Menu.Size = new System.Drawing.Size(53, 21);
@@ -118,6 +120,7 @@
             this.đăngKýMônToolStripMenuItem.Name = "đăngKýMônToolStripMenuItem";
             this.đăngKýMônToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
             this.đăngKýMônToolStripMenuItem.Text = "Đăng ký môn";
+            this.đăngKýMônToolStripMenuItem.Click += new System.EventHandler(this.đăngKýMônToolStripMenuItem_Click);
             // 
             // xemĐiểmRènLuyệnToolStripMenuItem
             // 
@@ -155,6 +158,12 @@
             this.thôngTinCáNhânToolStripMenuItem.Name = "thôngTinCáNhânToolStripMenuItem";
             this.thôngTinCáNhânToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
             this.thôngTinCáNhânToolStripMenuItem.Text = "Thông tin cá nhân";
+            // 
+            // QLTKToolStripMenuItem
+            // 
+            this.QLTKToolStripMenuItem.Name = "QLTKToolStripMenuItem";
+            this.QLTKToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
+            this.QLTKToolStripMenuItem.Text = "Quản Lý Tài Khoản";
             // 
             // webView21
             // 
@@ -207,6 +216,7 @@
         private System.Windows.Forms.ToolStripMenuItem nhậpĐiểmQuáTrìnhToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem thôngTinCáNhânToolStripMenuItem;
         private Microsoft.Web.WebView2.WinForms.WebView2 webView21;
+        private System.Windows.Forms.ToolStripMenuItem QLTKToolStripMenuItem;
     }
 }
 

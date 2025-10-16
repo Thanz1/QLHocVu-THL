@@ -43,6 +43,7 @@ namespace QLHocVu_THL
             thanhToánToolStripMenuItem.Visible = false;
             nhậpĐiểmQuáTrìnhToolStripMenuItem.Visible = false;
             thôngTinCáNhânToolStripMenuItem.Visible = false;
+            QLTKToolStripMenuItem.Visible = false;
         }
         private void LoadMenuByRole(string role)
         {
@@ -66,6 +67,7 @@ namespace QLHocVu_THL
             else if (role == "VienDaoTao")
             {
                 TaoLopHocToolStripMenuItem.Visible = true;
+                QLTKToolStripMenuItem.Visible = true;
                 thôngTinCáNhânToolStripMenuItem.Visible = true;
             }
             else if (role == "BanChamSoc")
@@ -133,7 +135,18 @@ namespace QLHocVu_THL
 
         private void TaoLopHocToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            FormTaoLopHoc taoLopHoc = new FormTaoLopHoc();
+            this.Hide();
+            taoLopHoc.ShowDialog();
+            this.Show();
+        }
 
+        private void đăngKýMônToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormDangKyMon dangKyMon = new FormDangKyMon();
+            this.Hide();
+            dangKyMon.ShowDialog();
+            this.Show();
         }
     }
 }

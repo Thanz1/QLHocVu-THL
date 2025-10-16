@@ -16,7 +16,7 @@ namespace QLHocVu_THL
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new THL());
+            Application.Run(new FormTaoLopHoc());
         }
     }
 }

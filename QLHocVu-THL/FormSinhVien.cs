@@ -1,4 +1,5 @@
-﻿using System;
+﻿using QLHocVu_THL.PhuongThuc;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -17,4 +18,5 @@ namespace QLHocVu_THL
             InitializeComponent();
         }
     }
+
 }
